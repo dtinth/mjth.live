@@ -24,6 +24,6 @@ hero:
 
 <div class="vp-doc" style="max-width:1152px;margin:0 auto;">
 
-....
+<!-- .... -->
 
 </div>
