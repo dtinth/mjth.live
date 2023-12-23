@@ -13,6 +13,7 @@ export default defineConfig({
       { icon: 'discord', link: 'https://discord.gg/tZ8bKmsrcp' },
     ],
     nav: [
+      { text: 'Server List', link: '/servers/' },
       {
         text: 'Community',
         items: [

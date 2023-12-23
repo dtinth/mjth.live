@@ -19,6 +19,8 @@
     }
   },
   "dependencies": {
-    "lite-youtube-embed": "^0.3.0"
+    "@nanostores/vue": "^0.10.0",
+    "lite-youtube-embed": "^0.3.0",
+    "nanostores": "^0.9.5"
   }
 }
