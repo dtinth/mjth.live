@@ -9,7 +9,13 @@
 
 <ul>
   <li v-for="item in list">
-    <span>{{ item.name }}</span>
+    <span style="display: flex; max-width: 320px" class="hovergroup" tabindex="0">
+      <span>{{ item.name }}</span>
+      <template v-if="item.rawAmount > 0">
+        <span style="flex: 1"></span>
+        <span style="text-align: right;" class="hovergroup-data">{{ item.amount }}</span>
+      </template>
+    </span>
   </li>
 </ul>
 
@@ -55,5 +61,14 @@ Thai Pangsakulyanont
     .sort((a, b) => a[0].localeCompare(b[0]))
     .sort((a, b) => b[1] - a[1])
     .filter(a => shouldCountAsSupporter(a[0]))
-    .map(([name, amount]) => ({ name, amount: thb(amount) }))
+    .map(([name, amount]) => ({ name, amount: thb(amount), rawAmount: amount }))
 </script>
+
+<style scoped>
+  .hovergroup-data {
+    opacity: 0;
+  }
+  .hovergroup:focus-within .hovergroup-data, .hovergroup:hover .hovergroup-data {
+    opacity: .64;
+  }
+</style>
