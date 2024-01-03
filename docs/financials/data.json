@@ -1,0 +1,100 @@
+{
+  "byYear": {
+    "year2024": {
+      "year": 2024,
+      "in": {
+        "wasabizky": 1500
+      },
+      "out": {},
+      "totalIn": 1500,
+      "totalOut": 0,
+      "startingBalance": 6743.41,
+      "endingBalance": 8243.41
+    },
+    "year2023": {
+      "year": 2023,
+      "in": {
+        "dtinth": 8471.5,
+        "Arzunas": 1000,
+        "Kerd9": 1000,
+        "Kukkong": 1000,
+        "Bank Interest": 77.6
+      },
+      "out": {
+        "Z cloud": 7062,
+        "ReadyIDC": 1863,
+        "Cloudflare": 774.6,
+        "Google Domains": 449.4,
+        "Thai Data Cloud": 414.57
+      },
+      "totalIn": 11549.1,
+      "totalOut": 10563.57,
+      "startingBalance": 5757.88,
+      "endingBalance": 6743.41
+    },
+    "year2022": {
+      "year": 2022,
+      "in": {
+        "dtinth": 17126.74,
+        "Kukkong": 4000,
+        "Arzunas": 1500,
+        "JOOX ROOMS listeners": 550,
+        "ตูน": 500,
+        "Bank Interest": 11.52
+      },
+      "out": {
+        "Huawei Cloud": 7562.95,
+        "Z cloud": 7116,
+        "Thai Data Cloud": 3731.13,
+        "ReadyIDC": 1800,
+        "Tencent Cloud": 1114.8,
+        "Google Domains": 449.4
+      },
+      "totalIn": 23688.26,
+      "totalOut": 21774.28,
+      "startingBalance": 3843.9,
+      "endingBalance": 5757.88
+    },
+    "year2021": {
+      "year": 2021,
+      "in": {
+        "JOOX": 6670,
+        "Clubhouse listeners": 1300,
+        "Kukkong": 1000,
+        "oatato": 1000,
+        "Dan": 888,
+        "JOOX ROOMS listeners": 850,
+        "beltbelt": 780,
+        "JuDrummer": 720,
+        "Varokas": 600,
+        "TangkwaTK": 400,
+        "Pang": 390,
+        "Bell Suvit": 390,
+        "Belle": 300,
+        "Weiserng": 300,
+        "Bankz Cyp": 200,
+        "Bushy Therdsak": 150,
+        "Saint": 100,
+        "Margarita": 100,
+        "วรเชษฐ์ คนงาม": 100,
+        "Kho": 90,
+        "Sarut Chanphanich": 20
+      },
+      "out": {
+        "Z cloud": 4699.9,
+        "Huawei Cloud": 3756.6,
+        "Bangmod.Cloud": 1986.6,
+        "ReadyIDC": 600,
+        "VB-Audio": 533.7,
+        "Google Domains": 450,
+        "CloudHM": 347.7,
+        "Tencent Cloud": 129.6
+      },
+      "totalIn": 16348,
+      "totalOut": 12504.1,
+      "startingBalance": 0,
+      "endingBalance": 3843.9
+    }
+  },
+  "lastUpdated": "2024-01-03"
+}

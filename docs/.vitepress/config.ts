@@ -1,37 +1,86 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-  title: 'MJTH.live',
-  appearance: 'force-dark',
+  title: "MJTH.live",
+  appearance: "force-dark",
   themeConfig: {
-    logo: '/mjth-h.svg',
+    logo: "/mjth-h.svg",
     siteTitle: false,
     socialLinks: [
-      { icon: 'facebook', link: 'https://www.facebook.com/MusicJammingTH' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@MusicJammingTH' },
-      { icon: 'discord', link: 'https://discord.gg/tZ8bKmsrcp' },
+      { icon: "facebook", link: "https://www.facebook.com/MusicJammingTH" },
+      { icon: "youtube", link: "https://www.youtube.com/@MusicJammingTH" },
+      { icon: "discord", link: "https://discord.gg/tZ8bKmsrcp" },
     ],
-    nav: [
-      { text: 'Server List', link: '/servers/' },
+    // nav: [{ text: "รายชื่อเซิฟเวอร์ในไทย", link: "/servers/" }],
+    docFooter: {
+      prev: false,
+      next: false,
+    },
+    sidebar: [
       {
-        text: 'Community',
+        text: "Jamulus",
         items: [
           {
-            text: 'Thailand Jamulus User Group',
-            items: [
-              { text: 'Discord Community', link: 'https://discord.gg/tZ8bKmsrcp' },
-              { text: 'Facebook Group', link: 'https://www.facebook.com/groups/jamulus.th/' },
-            ]
+            text: "Jamulus คืออะไร",
+            link: "/jamulus/",
+          },
+        ],
+      },
+      {
+        text: "Community",
+        items: [
+          {
+            text: "กลุ่มผู้ใช้งาน Jamulus ในไทย",
+            link: "/community/",
           },
           {
-            text: 'JamulusTH',
-            items: [
-              { text: 'JamulusTH.com', link: 'https://jamulusth.com/' },
-            ]
+            text: "รายชื่อเซิฟเวอร์ในไทย",
+            link: "/servers/",
           },
-        ]
-      }
-    ]
-  }
-})
+          {
+            text: "เข้ากลุ่ม Discord",
+            link: "https://discord.gg/tZ8bKmsrcp",
+          },
+          {
+            text: "เข้ากลุ่ม Facebook",
+            link: "https://www.facebook.com/groups/jamulus.th/",
+          },
+        ],
+      },
+      {
+        text: "MJTH",
+        items: [
+          {
+            text: "เกี่ยวกับ MJTH.live",
+            link: "/about/",
+          },
+          {
+            text: "ฟังเสียง",
+            link: "https://lobby.mjth.live/",
+          },
+          {
+            text: "สถิติ",
+            link: "/stats/",
+          },
+          {
+            text: "สนับสนุน",
+            link: "/support/",
+          },
+          {
+            text: "สรุปรายรับรายจ่าย",
+            link: "/financials/",
+          },
+          {
+            text: "Facebook Page",
+            link: "https://www.facebook.com/MusicJammingTH",
+          },
+          {
+            text: "YouTube Channel",
+            link: "https://www.youtube.com/@MusicJammingTH",
+          },
+        ],
+      },
+    ],
+  },
+});

@@ -4,7 +4,7 @@ import { onMounted } from 'vue'
 const { Layout } = DefaultTheme
 
 onMounted(() => {
-  import('lite-youtube-embed')
+  import('@justinribeiro/lite-youtube')
 })
 </script>
 
