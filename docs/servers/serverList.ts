@@ -81,10 +81,12 @@ async function refresh() {
   console.log({ data, list });
 }
 
-onMount($list, () => {
-  refresh();
-  const interval = setInterval(refresh, 240000);
-  return () => {
-    clearInterval(interval);
-  };
-});
+if (typeof window !== "undefined") {
+  onMount($list, () => {
+    refresh();
+    const interval = setInterval(refresh, 240000);
+    return () => {
+      clearInterval(interval);
+    };
+  });
+}
