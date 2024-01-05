@@ -9,6 +9,8 @@
   },
   "devDependencies": {
     "@(-.-)/env": "^0.3.2",
+    "@types/node": "20",
+    "better-sqlite3": "^9.2.2",
     "tsx": "^4.7.0",
     "typescript": "^5.3.3",
     "vitepress": "1.0.0-rc.32",

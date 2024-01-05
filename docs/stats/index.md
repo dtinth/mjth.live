@@ -1,23 +1,23 @@
 # สถิติการใช้งานเซิฟเวอร์ MJTH
 
-::: info หมายเหตุ
+**หน้านี้แสดงสถิติจากเซิฟเวอร์ MJTH.live เท่านั้น** (ซึ่งมีข้อมูลย้อนหลังถึงปี 2022) ไม่รวมเซิฟเวอร์อื่นๆ ในประเทศไทย (ซึ่งมีข้อมูลย้อนหลังถึงแค่เดือนสิงหาคม 2023)
+สามารถดูหน้าสถิติที่รวมเซิฟเวอร์อื่นๆ ในไทยด้วยได้ที่หน้า [สถิติการใช้งานในไทย](/community/stats/)
 
-- หน้านี้แสดงข้อมูลจากเซิฟเวอร์ MJTH.live เท่านั้น ไม่รวมเซิฟเวอร์อื่นๆ ในประเทศไทย
+::: details หมายเหตุ
+
 - หากใช้งาน Jamulus ด้วยชื่อหลายชื่อ ระบบจะนับแยกตามชื่อที่ใช้เข้าเซิฟเวอร์ ไม่นับเป็นผู้ใช้งานคนเดียวกัน
 - ระบบจะไม่นับผู้ใช้งานต่อไปนี้:
   - ตั้งค่า Instrument เป็น “Streamer”
-  - ตั้งชื่อว่า “No Name” หรือลงท้ายด้วยคำว่า “bot”, “BRB”, “AFK”
+  - ตั้งชื่อว่า “No Name” หรือไม่มีชื่อ หรือชื่อลงท้ายด้วยคำว่า “BRB”, “AFK”
+  - ใช้งาน Jamulus เกิน 16 ชั่วโมงในวันเดียวกัน
 
 :::
 
-## 2023
+<script setup lang="ts">
+  import data from './activeUsers.json'
+  import MonthlyTable from '../community/stats/MonthlyTable.vue'
+</script>
 
-_(คลิกที่รูปเพื่อดูภาพขนาดใหญ่)_
+## สถิติรายเดือน
 
-[![](https://cloudflare-ipfs.com/ipfs/bafybeihr2bkosalighofogwgnlunkgjiifdg34nrvqoieinrqt5tswjjb4/image.webp)](https://cloudflare-ipfs.com/ipfs/bafybeihr2bkosalighofogwgnlunkgjiifdg34nrvqoieinrqt5tswjjb4/image.webp)
-
-## 2022
-
-_(คลิกที่รูปเพื่อดูภาพขนาดใหญ่)_
-
-[![](https://cloudflare-ipfs.com/ipfs/bafybeie5ut6zzidg5npan354nxgaut6upcj7lzldyez2ovtzzwhcjekhda/image.webp)](https://cloudflare-ipfs.com/ipfs/bafybeie5ut6zzidg5npan354nxgaut6upcj7lzldyez2ovtzzwhcjekhda/image.webp)
+<MonthlyTable :data="data" />

@@ -39,6 +39,10 @@ export default defineConfig({
             link: "/servers/",
           },
           {
+            text: "สถิติการใช้งานในไทย",
+            link: "/community/stats/",
+          },
+          {
             text: "เข้ากลุ่ม Discord",
             link: "https://discord.gg/tZ8bKmsrcp",
           },
@@ -60,7 +64,7 @@ export default defineConfig({
             link: "https://lobby.mjth.live/",
           },
           {
-            text: "สถิติ",
+            text: "สถิติการใช้งาน",
             link: "/stats/",
           },
           {
