@@ -7,7 +7,7 @@
 
 - หากใช้งาน Jamulus ด้วยชื่อหลายชื่อ ระบบจะนับแยกตามชื่อที่ใช้เข้าเซิฟเวอร์ ไม่นับเป็นผู้ใช้งานคนเดียวกัน
 - ระบบจะไม่นับผู้ใช้งานต่อไปนี้:
-  - ตั้งค่า Instrument เป็น “Streamer”
+  - ตั้งค่า Instrument เป็น “Streamer” หรือ “Recorder”
   - ตั้งชื่อว่า “No Name” หรือไม่มีชื่อ หรือชื่อลงท้ายด้วยคำว่า “BRB”, “AFK”
   - ใช้งาน Jamulus เกิน 16 ชั่วโมงในวันเดียวกัน
 
@@ -16,8 +16,13 @@
 <script setup lang="ts">
   import data from './activeUsers.json'
   import MonthlyTable from '../community/stats/MonthlyTable.vue'
+  import YearlySections from '../community/stats/YearlySections.vue'
 </script>
 
 ## สถิติรายเดือน
 
 <MonthlyTable :data="data" />
+
+## สถิติรายปี
+
+<YearlySections :data="data" />

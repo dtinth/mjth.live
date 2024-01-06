@@ -1,6 +1,6 @@
 <template>
-  <strong>{{ props.title }}</strong>
-  <ol style="padding-left: 1.4em;" :start="props.start || 1">
+  <strong v-if="props.title">{{ props.title }}</strong>
+  <ol :style="{ paddingLeft: props.users.length >= 100 ? '2.5em' : '1.8em' }" :start="props.start || 1">
     <li v-for="user of props.users" style="padding-left: 0.2em;">
       <span style="display: flex">
         <strong style="flex: 1; white-space: nowrap;">{{ user.name }}</strong>
@@ -17,7 +17,7 @@
 
 <script setup lang="ts">
 const props = defineProps<{
-  title: string
+  title?: string
   users: UserRow[]
   start?: number
 }>()

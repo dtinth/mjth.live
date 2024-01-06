@@ -39,12 +39,11 @@ async function generateDateRangeData(
     WHERE (${
       filter === "mjth"
         ? "server_name IN ('🏘 MJTH Lobby', 'MusicJammingTH [r1]', '🏘 MJTH.live')"
-        : "server_country = 'Thailand' OR server_city = 'Uranus'"
+        : "(server_country = 'Thailand' OR server_city = 'Uranus') AND (server_directory_name <> 'MJTH Legacy')"
     })
     AND (date >= @start_date AND date < @end_date)
-    AND client_instrument <> 'Streamer'
-    AND client_name NOT IN ('No Name')
-    AND client_name <> ''
+    AND client_instrument NOT IN ('Streamer', 'Recorder')
+    AND client_name NOT IN ('No Name', '')
     AND client_name NOT LIKE '% BRB'
     AND client_name NOT LIKE '% AFK'
     GROUP BY client_name, date, server_name
@@ -113,8 +112,9 @@ async function generateYearlyData(year: number, filter: ServerFilter) {
   const endDate = `${year}-12-32`;
   const output = {
     year,
-    ...(await generateDateRangeData(startDate, endDate, filter, 128)),
+    ...(await generateDateRangeData(startDate, endDate, filter, 1000)),
   };
+  output.byName = output.byName.filter((client) => client.hoursSeen > 16);
   return output;
 }
 
