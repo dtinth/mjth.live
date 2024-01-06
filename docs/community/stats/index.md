@@ -8,7 +8,7 @@
 - ระบบจะไม่นับผู้ใช้งานต่อไปนี้:
   - ตั้งค่า Instrument เป็น “Streamer” หรือ “Recorder”
   - ตั้งชื่อว่า “No Name” หรือไม่มีชื่อ หรือชื่อลงท้ายด้วยคำว่า “BRB”, “AFK”
-  - ใช้งาน Jamulus เกิน 16 ชั่วโมงในวันเดียวกัน
+  - ใช้งาน Jamulus เกิน 16 ชั่วโมงภายในวันเดียวกัน จะไม่นับชั่วโมงในวันนั้น
 - สีที่แสดงใต้ชื่อ แทนเวลาที่ใช้ในเซิฟเวอร์ต่างๆ
   - <span class="color-block" style="background: var(--vp-c-indigo-3)"></span> เซิฟเวอร์ของ MJTH.live
   - <span class="color-block" style="background: var(--vp-c-green-3)"></span> เซิฟเวอร์ของ JamulusTH.com
@@ -24,6 +24,13 @@
 ## สถิติรายปี
 
 <YearlySections :data="data" />
+
+::: details หมายเหตุ
+
+- ปี 2023 มีข้อมูลแค่เดือนสิงหาคมเป็นต้นไปเท่านั้น
+- รายชื่อนี้แสดงเฉพาะชื่อที่มีชั่วโมงใช้งานอย่างน้อย 16 ชั่วโมง
+
+:::
 
 <script setup lang="ts">
   import data from './activeUsers.json'
