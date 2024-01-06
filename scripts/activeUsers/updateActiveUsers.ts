@@ -102,7 +102,7 @@ async function generateMonthlyData(yearMonth: string, filter: ServerFilter) {
   const output = {
     year: +yearMonth.slice(0, 4),
     month: +yearMonth.slice(5),
-    ...(await generateDateRangeData(startDate, endDate, filter, 16)),
+    ...(await generateDateRangeData(startDate, endDate, filter, 20)),
   };
   return output;
 }
