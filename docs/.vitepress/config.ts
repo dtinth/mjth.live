@@ -30,10 +30,10 @@ export default defineConfig({
       {
         text: "Community",
         items: [
-          {
-            text: "กลุ่มผู้ใช้งาน Jamulus ในไทย",
-            link: "/community/",
-          },
+          // {
+          //   text: "กลุ่มผู้ใช้งาน Jamulus ในไทย",
+          //   link: "/community/",
+          // },
           {
             text: "รายชื่อเซิฟเวอร์ในไทย",
             link: "/servers/",
@@ -62,6 +62,10 @@ export default defineConfig({
           {
             text: "ฟังเสียง",
             link: "https://lobby.mjth.live/",
+          },
+          {
+            text: "ระบบบันทึกเสียงย้อนหลัง",
+            link: "/clipper/",
           },
           {
             text: "สถิติการใช้งาน",

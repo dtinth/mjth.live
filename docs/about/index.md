@@ -28,6 +28,10 @@
 [tjygdc]: https://discord.gg/tZ8bKmsrcp
 [gaw]: https://www.facebook.com/GoodAfterwork/posts/pfbid02nHEZsrrZBd6r9tgnTfoLXnVpw4ZXMBxqbaaL33vwxUhzoAbdaomiKjbRcByNRnUbl
 
+## Listen Live
+
+สามารถฟังเสียงจากเซิฟเวอร์สดๆ ได้ทางเว็บ: [lobby.mjth.live](https://lobby.mjth.live)
+
 ## Social Media
 
 ติดตามข่าวสารและดูคลิปต่างๆ ได้ทาง:
@@ -35,6 +39,6 @@
 - [Facebook Page - Music Jamming TH][fb]
 - [YouTube Channel - @MusicJammingTH][yt]
 
-## Listen Live
+<p><lite-youtube videoid="rvb_n1fwH4E"></lite-youtube></p>
 
-สามารถฟังเสียงจากเซิฟเวอร์สดๆ ได้ทางเว็บ: [lobby.mjth.live](https://lobby.mjth.live)
+<p><lite-youtube videoid="_iFHjIoReLY"></lite-youtube></p>
