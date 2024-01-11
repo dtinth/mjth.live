@@ -5,6 +5,7 @@ export default defineConfig({
   title: "MJTH.live",
   description: "ห้องซ้อมดนตรีออนไลน์ ผ่านโปรแกรม Jamulus",
   appearance: "force-dark",
+  head: [["link", { rel: "icon", href: "/favicon.svg" }]],
   themeConfig: {
     logo: "/mjth-h.svg",
     siteTitle: false,
