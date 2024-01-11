@@ -5,11 +5,13 @@
       "in": {
         "wasabizky": 1500
       },
-      "out": {},
+      "out": {
+        "Z cloud": 963
+      },
       "totalIn": 1500,
-      "totalOut": 0,
+      "totalOut": 963,
       "startingBalance": 6743.41,
-      "endingBalance": 8243.41
+      "endingBalance": 7280.41
     },
     "year2023": {
       "year": 2023,
@@ -96,5 +98,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2024-01-03"
+  "lastUpdated": "2024-01-11"
 }
