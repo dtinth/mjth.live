@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
   title: "MJTH.live",
+  description: "ห้องซ้อมดนตรีออนไลน์ ผ่านโปรแกรม Jamulus",
   appearance: "force-dark",
   themeConfig: {
     logo: "/mjth-h.svg",
