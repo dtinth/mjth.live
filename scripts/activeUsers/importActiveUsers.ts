@@ -106,6 +106,8 @@ async function insertData(path) {
     )
   );
 
+  let rowsAffected = 0;
+
   for (const bucket of Object.values(activeUsers)) {
     for (const clientStat of Object.values(bucket.clients)) {
       const id = [
@@ -140,9 +142,11 @@ async function insertData(path) {
         .join(",")})
       ON CONFLICT(id) DO UPDATE SET hours_seen = @hours_seen`
       );
-      stmt.run(row);
+      const info = stmt.run(row);
+      rowsAffected += info.changes;
     }
   }
+  console.log("Number of rows affected:", rowsAffected);
 }
 
 insertData(process.argv[2]);
