@@ -14,7 +14,7 @@ const props = defineProps<{
   data: any
 }>()
 
-const months = props.data.byYearMonth.map(({ year, month, byName }) => {
+const months = props.data.byYearMonth.slice(1).map(({ year, month, byName }) => {
   const name = ['มกราคม', 'กุมภาพันธ์', 'มีนาคม', 'เมษายน', 'พฤษภาคม', 'มิถุนายน', 'กรกฎาคม', 'สิงหาคม', 'กันยายน', 'ตุลาคม', 'พฤศจิกายน', 'ธันวาคม'][+month - 1]
   const maxHours = byName.reduce((acc, { hoursSeen }) => Math.max(acc, hoursSeen), 0)
   return {

@@ -125,7 +125,7 @@ async function process(
 ) {
   const months: any[] = [];
   const years: any[] = [];
-  const yearMonths = [...generateYearMonths(firstMonth)].slice(1);
+  const yearMonths = [...generateYearMonths(firstMonth)];
   const yearSet = new Set<number>();
   for (const yearMonth of yearMonths) {
     const data = await generateMonthlyData(yearMonth, filter);
