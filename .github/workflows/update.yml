@@ -1,4 +1,4 @@
-name: Load data
+name: Update data
 
 on:
   workflow_dispatch:
@@ -26,6 +26,7 @@ jobs:
       - run: pnpm tsx scripts/activeUsers/routineUpdate.ts
         env:
           SK_RR1HWHRXKR5429MF73TM: ${{ secrets.SK_RR1HWHRXKR5429MF73TM }}
+      - run: pnpm tsx scripts/activeUsers/updateActiveUsers.ts
       - name: Show the diff
         run: git diff --name-only
       - name: Commit and push if there are changes
