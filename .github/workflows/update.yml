@@ -1,0 +1,37 @@
+name: Load data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "55 5 * * 5"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: pnpm
+        uses: pnpm/action-setup@v2
+      - name: node
+        uses: actions/setup-node@v3
+        with:
+          cache: pnpm
+      - run: pnpm install
+      - run: pnpm tsx scripts/activeUsers/routineUpdate.ts
+        env:
+          SK_RR1HWHRXKR5429MF73TM: ${{ secrets.SK_RR1HWHRXKR5429MF73TM }}
+      - name: Show the diff
+        run: git diff --name-only
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "dtinth-bot@users.noreply.github.com"
+          git add .
+          git commit -m "Routine update"
+          git push
