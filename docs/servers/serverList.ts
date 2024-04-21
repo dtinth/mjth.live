@@ -63,6 +63,7 @@ export interface JamulusExplorerClient {
 const listenUrls = {
   "150.95.25.226": "https://lobby.musicjammingth.net/",
   "103.246.19.200": "https://lobby.jamulusth.com/",
+  "103.246.19.183": "https://pro.jamulusth.com/",
   "103.91.189.71": "https://lobbypro.jamulusth.com/",
 };
 

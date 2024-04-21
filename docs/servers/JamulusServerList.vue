@@ -11,15 +11,20 @@
             <div v-else>
                 <p class="empty-servers"><em>ไม่มีคนในเซิฟเวอร์ขณะนี้</em></p>
             </div>
+            <div v-if="server.listenUrl" class="buttons">
+                <a :href="server.listenUrl" target="_blank" rel="noopener noreferrer" class="listen-button">
+                    <iconify-icon inline icon="ion:radio" class="me-1"></iconify-icon>
+                    ฟังเสียง
+                </a>
+            </div>
         </div>
     </div>
 </template>
 
 <script setup lang="ts">
-import { useStore } from '@nanostores/vue'
-import { $list } from './serverList'
-import Musician from './Musician.vue'
-import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vue'
+import { useStore } from '@nanostores/vue';
+import Musician from './Musician.vue';
+import { $list } from './serverList';
 const list = useStore($list)
 </script>
 
@@ -57,5 +62,18 @@ h2 {
 
 .empty-servers {
     opacity: 0.64;
+}
+
+.buttons {
+    display: flex;
+}
+
+.listen-button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    border: 1px solid var(--vp-c-green-2);
+    color: var(--vp-c-green-1);
 }
 </style>
