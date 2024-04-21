@@ -4,13 +4,6 @@ layout: page
 
 <script setup>
 import JamulusServerList from './JamulusServerList.vue'
-import { onMounted } from 'vue'
-
-onMounted(() => {
-  if (location.hostname !== 'localhost') {
-    location.replace('https://jamulus.musicjammingth.net/')
-  }
-})
 </script>
 
 <div class="container-padding">
