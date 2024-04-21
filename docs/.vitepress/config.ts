@@ -5,7 +5,17 @@ export default defineConfig({
   title: "MJTH.live",
   description: "ห้องซ้อมดนตรีออนไลน์ ผ่านโปรแกรม Jamulus",
   appearance: "force-dark",
-  head: [["link", { rel: "icon", href: "/favicon.svg" }]],
+  head: [
+    ["link", { rel: "icon", href: "/favicon.svg" }],
+    [
+      "script",
+      {
+        src: "https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js",
+        async: "",
+        crossorigin: "anonymous",
+      },
+    ],
+  ],
   themeConfig: {
     logo: "/mjth-h.svg",
     siteTitle: false,
