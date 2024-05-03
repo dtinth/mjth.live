@@ -2,8 +2,667 @@
   "byYearMonth": [
     {
       "year": 2024,
+      "month": 5,
+      "byName": [
+        {
+          "name": "ยิ้ม",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 11.280000000000001
+            },
+            {
+              "category": "others",
+              "hoursSeen": 9.84
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 1.4
+            }
+          ],
+          "hoursSeen": 22.52
+        },
+        {
+          "name": "Petch.jpx",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 18.36
+            }
+          ],
+          "hoursSeen": 18.36
+        },
+        {
+          "name": "xyz",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 6.039999999999999
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 5.92
+            }
+          ],
+          "hoursSeen": 11.959999999999999
+        },
+        {
+          "name": "บุตรเเห่งอัลเลาะ",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 9.36
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.04
+            }
+          ],
+          "hoursSeen": 9.399999999999999
+        },
+        {
+          "name": "Skew",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 5.64
+            },
+            {
+              "category": "others",
+              "hoursSeen": 2.4
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.24
+            }
+          ],
+          "hoursSeen": 8.28
+        },
+        {
+          "name": "oatato",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 4.84
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 3.12
+            }
+          ],
+          "hoursSeen": 7.96
+        },
+        {
+          "name": "FrEE",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 7.2
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.16
+            }
+          ],
+          "hoursSeen": 7.36
+        },
+        {
+          "name": "Jeaw",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 7.16
+            }
+          ],
+          "hoursSeen": 7.16
+        },
+        {
+          "name": "iPluem",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 6.48
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.4
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.08
+            }
+          ],
+          "hoursSeen": 6.960000000000001
+        },
+        {
+          "name": "พอเถอะ",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 4.36
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 1.92
+            },
+            {
+              "category": "others",
+              "hoursSeen": 0.2
+            }
+          ],
+          "hoursSeen": 6.48
+        },
+        {
+          "name": "Nongfox",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 4.76
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.44
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.36
+            }
+          ],
+          "hoursSeen": 5.5600000000000005
+        },
+        {
+          "name": "🍊.png",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 5.359999999999999
+            }
+          ],
+          "hoursSeen": 5.359999999999999
+        },
+        {
+          "name": "Camdum",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2.48
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 2.3200000000000003
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.24000000000000002
+            }
+          ],
+          "hoursSeen": 5.040000000000001
+        },
+        {
+          "name": "Dit",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 3.64
+            },
+            {
+              "category": "others",
+              "hoursSeen": 1.2
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.2
+            }
+          ],
+          "hoursSeen": 5.04
+        },
+        {
+          "name": "MSJ-04T",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 3.08
+            },
+            {
+              "category": "others",
+              "hoursSeen": 1.48
+            }
+          ],
+          "hoursSeen": 4.5600000000000005
+        },
+        {
+          "name": "ron",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 4
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.48000000000000004
+            },
+            {
+              "category": "others",
+              "hoursSeen": 0.04
+            }
+          ],
+          "hoursSeen": 4.5200000000000005
+        },
+        {
+          "name": "Koong",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 4.04
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.2
+            }
+          ],
+          "hoursSeen": 4.24
+        },
+        {
+          "name": "Influ",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2.96
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.88
+            }
+          ],
+          "hoursSeen": 3.84
+        },
+        {
+          "name": "Toon",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 3.8
+            }
+          ],
+          "hoursSeen": 3.8
+        },
+        {
+          "name": "ou26110",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 3.36
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.28
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.08
+            }
+          ],
+          "hoursSeen": 3.7199999999999998
+        }
+      ]
+    },
+    {
+      "year": 2024,
       "month": 4,
-      "byName": []
+      "byName": [
+        {
+          "name": "Petch.jpx",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 224.1139823076209
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 57.80769230769231
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 6.406666666666666
+            }
+          ],
+          "hoursSeen": 288.3283412819799
+        },
+        {
+          "name": "ยิ้ม",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 111.84658000284607
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 64.22813751019227
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 50.843710644677664
+            }
+          ],
+          "hoursSeen": 226.91842815771602
+        },
+        {
+          "name": "บุตรเเห่งอัลเลาะ",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 111.08280444708844
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 21.86
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 7.221666666666667
+            }
+          ],
+          "hoursSeen": 140.1644711137551
+        },
+        {
+          "name": "Rin STFU",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 39.813940886699505
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 37.780459770114945
+            },
+            {
+              "category": "others",
+              "hoursSeen": 23.694916985951473
+            }
+          ],
+          "hoursSeen": 101.28931764276592
+        },
+        {
+          "name": "CallByTheGrqpe",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 33.27609195402299
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 9.066666666666666
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 5.685977011494253
+            }
+          ],
+          "hoursSeen": 48.0287356321839
+        },
+        {
+          "name": "xyz",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 15.360000000000001
+            },
+            {
+              "category": "others",
+              "hoursSeen": 14.137713920817369
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 13.698333333333332
+            }
+          ],
+          "hoursSeen": 43.1960472541507
+        },
+        {
+          "name": "oatato",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 19.177463768115942
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 15.635144927536231
+            },
+            {
+              "category": "others",
+              "hoursSeen": 2.276923076923077
+            }
+          ],
+          "hoursSeen": 37.08953177257525
+        },
+        {
+          "name": "ไม่กินเส้นหมี่",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 17.171557875805618
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 10.940632183908045
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 7.810492610837438
+            }
+          ],
+          "hoursSeen": 35.9226826705511
+        },
+        {
+          "name": "T40",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 15.617051282051282
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 11.046666666666667
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 8.548333333333334
+            }
+          ],
+          "hoursSeen": 35.212051282051284
+        },
+        {
+          "name": "ขวัญใจรถแห่",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 19.257183908045977
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 8.937192982456141
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 4.705747126436782
+            }
+          ],
+          "hoursSeen": 32.9001240169389
+        },
+        {
+          "name": "pOly",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 18.345517241379312
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 7.45952380952381
+            },
+            {
+              "category": "others",
+              "hoursSeen": 6.93448275862069
+            }
+          ],
+          "hoursSeen": 32.73952380952381
+        },
+        {
+          "name": "พอเถอะ",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 12.713333333333333
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 12.257011494252874
+            },
+            {
+              "category": "others",
+              "hoursSeen": 6.512873563218391
+            }
+          ],
+          "hoursSeen": 31.4832183908046
+        },
+        {
+          "name": "ดอเลาะห์",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 10.822758620689655
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 10.733333333333333
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 7.625057471264368
+            }
+          ],
+          "hoursSeen": 29.18114942528736
+        },
+        {
+          "name": "Skew",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 15.326666666666666
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 9.276666666666667
+            },
+            {
+              "category": "others",
+              "hoursSeen": 3.04
+            }
+          ],
+          "hoursSeen": 27.64333333333333
+        },
+        {
+          "name": "zuzu",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 19.56735632183908
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 5.4528735632183905
+            },
+            {
+              "category": "others",
+              "hoursSeen": 1.9022988505747125
+            }
+          ],
+          "hoursSeen": 26.92252873563218
+        },
+        {
+          "name": "Ethan",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 13.83868530020704
+            },
+            {
+              "category": "others",
+              "hoursSeen": 4.203333333333333
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 4
+            }
+          ],
+          "hoursSeen": 22.042018633540373
+        },
+        {
+          "name": "Ko",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 7.873563218390805
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 7.466666666666667
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 6.4783908045977014
+            }
+          ],
+          "hoursSeen": 21.818620689655173
+        },
+        {
+          "name": "123456987498",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 21.44
+            }
+          ],
+          "hoursSeen": 21.44
+        },
+        {
+          "name": "AemIT",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 9.181666666666667
+            },
+            {
+              "category": "others",
+              "hoursSeen": 6.32
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 5.081666666666667
+            }
+          ],
+          "hoursSeen": 20.583333333333336
+        },
+        {
+          "name": "LAB",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 9.476666666666667
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 5.433333333333334
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 4.863333333333333
+            }
+          ],
+          "hoursSeen": 19.773333333333333
+        }
+      ]
     },
     {
       "year": 2024,
@@ -3250,12 +3909,12 @@
           "name": "Petch.jpx",
           "servers": [
             {
-              "category": "mjth",
-              "hoursSeen": 396.15800766283525
+              "category": "others",
+              "hoursSeen": 455.8155833720695
             },
             {
-              "category": "others",
-              "hoursSeen": 213.3416010644487
+              "category": "mjth",
+              "hoursSeen": 453.96569997052757
             },
             {
               "category": "jamulusth",
@@ -3263,39 +3922,39 @@
             },
             {
               "category": "dharma",
-              "hoursSeen": 55.31848904607525
+              "hoursSeen": 61.725155712741916
             }
           ],
-          "hoursSeen": 807.9626790541474
+          "hoursSeen": 1114.6510203361272
         },
         {
           "name": "pOly",
           "servers": [
             {
               "category": "dharma",
-              "hoursSeen": 212.73873380769933
+              "hoursSeen": 231.08425104907863
             },
             {
               "category": "mjth",
-              "hoursSeen": 67.72452107279693
+              "hoursSeen": 75.18404488232075
             },
             {
               "category": "others",
-              "hoursSeen": 10.116666666666667
+              "hoursSeen": 17.051149425287356
             },
             {
               "category": "jamulusth",
               "hoursSeen": 6.133333333333333
             }
           ],
-          "hoursSeen": 296.7132548804962
+          "hoursSeen": 329.45277869002007
         },
         {
           "name": "AEKFOTO",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 103.84706019395675
+              "hoursSeen": 106.72706019395675
             },
             {
               "category": "jamulusth",
@@ -3303,25 +3962,43 @@
             },
             {
               "category": "dharma",
-              "hoursSeen": 35.30403772472738
+              "hoursSeen": 42.375704391394045
             },
             {
               "category": "others",
-              "hoursSeen": 18.984966247035214
+              "hoursSeen": 21.904966247035212
             }
           ],
-          "hoursSeen": 237.47862447896932
+          "hoursSeen": 250.35029114563594
+        },
+        {
+          "name": "ยิ้ม",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 121.75324666951273
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 65.92813751019227
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 62.19037731134433
+            }
+          ],
+          "hoursSeen": 249.87176149104934
         },
         {
           "name": "Gg",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 68.87931034482759
+              "hoursSeen": 74.41110521662246
             },
             {
               "category": "dharma",
-              "hoursSeen": 66.44337117155708
+              "hoursSeen": 70.28337117155708
             },
             {
               "category": "jamulusth",
@@ -3329,65 +4006,21 @@
             },
             {
               "category": "others",
-              "hoursSeen": 11.588842277187133
+              "hoursSeen": 19.816238788721574
             }
           ],
-          "hoursSeen": 180.57736944217606
-        },
-        {
-          "name": "A",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 54.864934583399545
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 43.49680067800201
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 36.16742382776866
-            },
-            {
-              "category": "others",
-              "hoursSeen": 20.128989638315055
-            }
-          ],
-          "hoursSeen": 154.65814872748527
-        },
-        {
-          "name": "พอเถอะ",
-          "servers": [
-            {
-              "category": "jamulusth",
-              "hoursSeen": 46.57816091954023
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 43.18905019505687
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 37.99680715197957
-            },
-            {
-              "category": "others",
-              "hoursSeen": 19.119540229885057
-            }
-          ],
-          "hoursSeen": 146.88355849646172
+          "hoursSeen": 198.1765608255054
         },
         {
           "name": "oatato",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 68.83480204342273
+              "hoursSeen": 91.13226581153867
             },
             {
               "category": "dharma",
-              "hoursSeen": 41.06617405582923
+              "hoursSeen": 61.54131898336546
             },
             {
               "category": "jamulusth",
@@ -3395,17 +4028,97 @@
             },
             {
               "category": "others",
-              "hoursSeen": 15.657894736842106
+              "hoursSeen": 17.934817813765182
             }
           ],
-          "hoursSeen": 145.26461796253085
+          "hoursSeen": 190.3141497351061
+        },
+        {
+          "name": "พอเถอะ",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 60.2623835283902
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 52.17381864623244
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 46.57816091954023
+            },
+            {
+              "category": "others",
+              "hoursSeen": 25.83241379310345
+            }
+          ],
+          "hoursSeen": 184.84677688726634
+        },
+        {
+          "name": "Rin STFU",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 70.93463054187193
+            },
+            {
+              "category": "others",
+              "hoursSeen": 51.72939974457216
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 49.298133411926514
+            }
+          ],
+          "hoursSeen": 171.96216369837057
+        },
+        {
+          "name": "A",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 57.06493458339954
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 47.36346734466868
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 36.16742382776866
+            },
+            {
+              "category": "others",
+              "hoursSeen": 24.302721358950798
+            }
+          ],
+          "hoursSeen": 164.89854711478765
+        },
+        {
+          "name": "บุตรเเห่งอัลเลาะ",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 120.44280444708843
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 21.900000000000002
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 7.221666666666667
+            }
+          ],
+          "hoursSeen": 149.56447111375508
         },
         {
           "name": "x.ercise",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 66.51566320014597
+              "hoursSeen": 66.5489965334793
             },
             {
               "category": "dharma",
@@ -3420,7 +4133,7 @@
               "hoursSeen": 10.611863614359283
             }
           ],
-          "hoursSeen": 141.8071655665578
+          "hoursSeen": 141.84049889989114
         },
         {
           "name": "Grqpe",
@@ -3445,6 +4158,28 @@
           "hoursSeen": 138.6405039991525
         },
         {
+          "name": "ข้าวปุ้น",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 67.28612479474549
+            },
+            {
+              "category": "others",
+              "hoursSeen": 31.41368363437329
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 25.248029556650245
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 9.256403940886699
+            }
+          ],
+          "hoursSeen": 133.2042419266557
+        },
+        {
           "name": "Rin",
           "servers": [
             {
@@ -3467,26 +4202,26 @@
           "hoursSeen": 128.27675194660733
         },
         {
-          "name": "ข้าวปุ้น",
+          "name": "zuzu",
           "servers": [
             {
-              "category": "mjth",
-              "hoursSeen": 61.75279146141215
-            },
-            {
-              "category": "others",
-              "hoursSeen": 24.55966064586754
-            },
-            {
               "category": "dharma",
-              "hoursSeen": 23.114696223316912
+              "hoursSeen": 95.10571933813313
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 17.601124706463974
             },
             {
               "category": "jamulusth",
-              "hoursSeen": 9.256403940886699
+              "hoursSeen": 5.866666666666667
+            },
+            {
+              "category": "others",
+              "hoursSeen": 5.700646310737055
             }
           ],
-          "hoursSeen": 118.68355227148332
+          "hoursSeen": 124.27415702200082
         },
         {
           "name": "Ordinary Man",
@@ -3511,33 +4246,29 @@
           "hoursSeen": 106.99409779237364
         },
         {
-          "name": "zuzu",
+          "name": "xyz",
           "servers": [
             {
-              "category": "dharma",
-              "hoursSeen": 74.97836301629405
-            },
-            {
               "category": "mjth",
-              "hoursSeen": 11.14825114324558
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 5.866666666666667
+              "hoursSeen": 46.91499557913351
             },
             {
               "category": "others",
-              "hoursSeen": 3.7583474601623417
+              "hoursSeen": 33.77081736909323
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 22.969615384615384
             }
           ],
-          "hoursSeen": 95.75162828636866
+          "hoursSeen": 103.65542833284212
         },
         {
           "name": "OnIeX",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 43.63668336771785
+              "hoursSeen": 51.33668336771785
             },
             {
               "category": "jamulusth",
@@ -3545,25 +4276,69 @@
             },
             {
               "category": "dharma",
-              "hoursSeen": 9.525415070242657
+              "hoursSeen": 9.925415070242657
             },
             {
               "category": "others",
-              "hoursSeen": 8.866666666666667
+              "hoursSeen": 8.900000000000002
             }
           ],
-          "hoursSeen": 85.41842027704097
+          "hoursSeen": 93.5517536103743
+        },
+        {
+          "name": "LAB",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 34.58275862068965
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 23.014137931034483
+            },
+            {
+              "category": "others",
+              "hoursSeen": 18.316666666666666
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 16.427586206896553
+            }
+          ],
+          "hoursSeen": 92.34114942528736
+        },
+        {
+          "name": "Skew",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 58.345711759504866
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 18.67762613730356
+            },
+            {
+              "category": "others",
+              "hoursSeen": 7.94
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 3.542528735632184
+            }
+          ],
+          "hoursSeen": 88.50586663244061
         },
         {
           "name": "forddakp",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 67.28505747126437
+              "hoursSeen": 71.28505747126437
             },
             {
               "category": "others",
-              "hoursSeen": 7.835632183908046
+              "hoursSeen": 8.535632183908046
             },
             {
               "category": "jamulusth",
@@ -3574,36 +4349,18 @@
               "hoursSeen": 1.4666666666666666
             }
           ],
-          "hoursSeen": 82.62068965517241
-        },
-        {
-          "name": "Rin STFU",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 31.120689655172413
-            },
-            {
-              "category": "others",
-              "hoursSeen": 28.03448275862069
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 11.517673641811573
-            }
-          ],
-          "hoursSeen": 70.67284605560468
+          "hoursSeen": 87.32068965517242
         },
         {
           "name": "! ผู้จัดการ •^•",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.72
+              "hoursSeen": 32.07509031198686
             },
             {
               "category": "dharma",
-              "hoursSeen": 19.10989010989011
+              "hoursSeen": 20.243223443223442
             },
             {
               "category": "jamulusth",
@@ -3611,32 +4368,50 @@
             },
             {
               "category": "others",
-              "hoursSeen": 6.000284921919105
+              "hoursSeen": 11.241472661382705
             }
           ],
-          "hoursSeen": 69.9939239265926
+          "hoursSeen": 81.7235353113764
         },
         {
-          "name": "LAB",
+          "name": "Dit",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.149425287356323
+              "hoursSeen": 60.963379563351154
             },
             {
               "category": "jamulusth",
-              "hoursSeen": 16.427586206896553
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 15.59080459770115
+              "hoursSeen": 6.390804597701149
             },
             {
               "category": "others",
-              "hoursSeen": 8.2
+              "hoursSeen": 4.870574712643678
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 4.453333333333333
             }
           ],
-          "hoursSeen": 69.36781609195403
+          "hoursSeen": 76.67809220702932
+        },
+        {
+          "name": "CallByTheGrqpe",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 38.076091954022985
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 27.2
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 9.819310344827587
+            }
+          ],
+          "hoursSeen": 75.09540229885057
         },
         {
           "name": "047470",
@@ -3647,7 +4422,7 @@
             },
             {
               "category": "dharma",
-              "hoursSeen": 13.133333333333333
+              "hoursSeen": 14.5
             },
             {
               "category": "jamulusth",
@@ -3655,17 +4430,61 @@
             },
             {
               "category": "others",
-              "hoursSeen": 0.03333333333333333
+              "hoursSeen": 3.9333333333333336
             }
           ],
-          "hoursSeen": 66.46973180076628
+          "hoursSeen": 71.73639846743295
+        },
+        {
+          "name": "SCOOZE",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 28.816666666666666
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 25.599999999999998
+            },
+            {
+              "category": "others",
+              "hoursSeen": 12.786666666666665
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 4.433333333333334
+            }
+          ],
+          "hoursSeen": 71.63666666666666
+        },
+        {
+          "name": "dtinth",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 28.69525822342285
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 17.93857142857143
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 16.98505747126437
+            },
+            {
+              "category": "others",
+              "hoursSeen": 6.898974358974359
+            }
+          ],
+          "hoursSeen": 70.517861482233
         },
         {
           "name": "nongfox",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 24.330268199233718
+              "hoursSeen": 26.169578544061302
             },
             {
               "category": "jamulusth",
@@ -3673,36 +4492,126 @@
             },
             {
               "category": "dharma",
-              "hoursSeen": 8.916174055829229
+              "hoursSeen": 11.491174055829228
             },
             {
               "category": "others",
-              "hoursSeen": 6.773399014778326
+              "hoursSeen": 9.588399014778325
             }
           ],
-          "hoursSeen": 58.53141762452107
+          "hoursSeen": 65.76072796934865
         },
         {
-          "name": "dtinth",
+          "name": "AemIT",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.641924890089516
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 16.98505747126437
+              "hoursSeen": 24.349811165845647
             },
             {
               "category": "dharma",
-              "hoursSeen": 13.778571428571428
+              "hoursSeen": 15.267463054187193
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 12.002380952380951
             },
             {
               "category": "others",
-              "hoursSeen": 5.2
+              "hoursSeen": 11.82
             }
           ],
-          "hoursSeen": 56.60555378992531
+          "hoursSeen": 63.439655172413794
+        },
+        {
+          "name": "Jeaw",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 61.24436781609195
+            }
+          ],
+          "hoursSeen": 61.24436781609195
+        },
+        {
+          "name": "Toon",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 42.95323509185578
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 11.648888888888889
+            },
+            {
+              "category": "others",
+              "hoursSeen": 5.860714285714286
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 0.16666666666666669
+            }
+          ],
+          "hoursSeen": 60.629504933125624
+        },
+        {
+          "name": "I na hnung hee",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 31.319540229885057
+            },
+            {
+              "category": "others",
+              "hoursSeen": 13.108333333333333
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 9.933333333333334
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 3.433333333333333
+            }
+          ],
+          "hoursSeen": 57.794540229885044
+        },
+        {
+          "name": "ongreen",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 52.95567841392587
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 2.689655172413793
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.2
+            }
+          ],
+          "hoursSeen": 55.84533358633966
+        },
+        {
+          "name": "Koong",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 52.80282127106873
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 2.7241379310344827
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 0.30000000000000004
+            }
+          ],
+          "hoursSeen": 55.82695920210321
         },
         {
           "name": "ดอเลาะห์  ลอมาเย",
@@ -3727,88 +4636,66 @@
           "hoursSeen": 55.68463603695988
         },
         {
-          "name": "Dit",
+          "name": "Bank130",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 45.21652983032293
+              "hoursSeen": 33.48275862068966
+            },
+            {
+              "category": "others",
+              "hoursSeen": 18.388526934689338
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 2.7733333333333334
+            }
+          ],
+          "hoursSeen": 54.64461888871233
+        },
+        {
+          "name": "ou26110",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 16.99189655172414
+            },
+            {
+              "category": "others",
+              "hoursSeen": 14.551484235667537
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 13.006666666666666
             },
             {
               "category": "jamulusth",
-              "hoursSeen": 6.390804597701149
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 2.1333333333333333
-            },
-            {
-              "category": "others",
-              "hoursSeen": 0.48160919540229885
+              "hoursSeen": 8.166666666666666
             }
           ],
-          "hoursSeen": 54.222276956759714
+          "hoursSeen": 52.71671412072501
         },
         {
-          "name": "SCOOZE",
+          "name": "Influ",
           "servers": [
             {
-              "category": "mjth",
-              "hoursSeen": 23.75
-            },
-            {
               "category": "dharma",
-              "hoursSeen": 18.833333333333332
+              "hoursSeen": 21.46840722495895
             },
             {
-              "category": "others",
-              "hoursSeen": 7.02
+              "category": "mjth",
+              "hoursSeen": 13.904269293924466
             },
             {
               "category": "jamulusth",
-              "hoursSeen": 4.433333333333334
-            }
-          ],
-          "hoursSeen": 54.03666666666667
-        },
-        {
-          "name": "Skew",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 37.3790450928382
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 9.16095947063689
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 3.542528735632184
+              "hoursSeen": 9.329146141215107
             },
             {
               "category": "others",
-              "hoursSeen": 2.5
+              "hoursSeen": 5.640000000000001
             }
           ],
-          "hoursSeen": 52.58253329910727
-        },
-        {
-          "name": "xyz",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 31.55499557913351
-            },
-            {
-              "category": "others",
-              "hoursSeen": 13.593103448275862
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 3.3512820512820514
-            }
-          ],
-          "hoursSeen": 48.49938107869143
+          "hoursSeen": 50.34182266009852
         },
         {
           "name": "NP.",
@@ -3833,22 +4720,48 @@
           "hoursSeen": 47.60119047619047
         },
         {
-          "name": "Bank130",
+          "name": "Ko",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.782758620689656
+              "hoursSeen": 17.658620689655173
             },
             {
               "category": "others",
-              "hoursSeen": 18.05995550611791
+              "hoursSeen": 14.344991789819376
             },
             {
               "category": "dharma",
-              "hoursSeen": 2.7733333333333334
+              "hoursSeen": 11.886436781609195
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.1
             }
           ],
-          "hoursSeen": 44.6160474601409
+          "hoursSeen": 44.99004926108375
+        },
+        {
+          "name": "ขวัญใจรถแห่",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 19.257183908045977
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 13.603859649122807
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 8.639080459770115
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.9214285714285715
+            }
+          ],
+          "hoursSeen": 43.42155258836747
         },
         {
           "name": "A'Cheer",
@@ -3873,26 +4786,48 @@
           "hoursSeen": 42.879893478169336
         },
         {
-          "name": "AemIT",
+          "name": "T",
           "servers": [
             {
-              "category": "mjth",
-              "hoursSeen": 15.168144499178982
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 12.002380952380951
+              "category": "others",
+              "hoursSeen": 18.77241379310345
             },
             {
               "category": "dharma",
-              "hoursSeen": 10.185796387520526
+              "hoursSeen": 14.705491698595146
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 8.095632183908046
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.0701149425287357
+            }
+          ],
+          "hoursSeen": 42.64365261813537
+        },
+        {
+          "name": "mr_tawan",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 23.91287356321839
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 7.933333333333334
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 7.566666666666666
             },
             {
               "category": "others",
-              "hoursSeen": 5.5
+              "hoursSeen": 2.9266666666666667
             }
           ],
-          "hoursSeen": 42.85632183908046
+          "hoursSeen": 42.33954022988505
         },
         {
           "name": "Pun Pun",
@@ -3909,108 +4844,32 @@
           "hoursSeen": 42.100027367268744
         },
         {
-          "name": "ongreen",
+          "name": "ไม่กินเส้นหมี่",
           "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 39.23549534756431
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 2.689655172413793
-            }
-          ],
-          "hoursSeen": 41.925150519978104
-        },
-        {
-          "name": "Jeaw",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 41.39770114942529
-            }
-          ],
-          "hoursSeen": 41.39770114942529
-        },
-        {
-          "name": "Toon",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 32.89990175852245
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 6.488888888888889
-            },
             {
               "category": "others",
-              "hoursSeen": 1.8273809523809526
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 0.16666666666666669
-            }
-          ],
-          "hoursSeen": 41.382838266458954
-        },
-        {
-          "name": "I na hnung hee",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 19.986206896551725
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 9.933333333333334
-            },
-            {
-              "category": "others",
-              "hoursSeen": 8.4
+              "hoursSeen": 18.29781782275522
             },
             {
               "category": "dharma",
-              "hoursSeen": 2.7333333333333334
-            }
-          ],
-          "hoursSeen": 41.052873563218384
-        },
-        {
-          "name": "Koong",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 38.075971538040505
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 2.7241379310344827
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 0.1
-            }
-          ],
-          "hoursSeen": 40.90010946907499
-        },
-        {
-          "name": "Influ",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 17.27840722495895
+              "hoursSeen": 14.407298850574712
             },
             {
               "category": "mjth",
-              "hoursSeen": 13.068555008210181
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 9.329146141215107
+              "hoursSeen": 8.543825944170772
             }
           ],
-          "hoursSeen": 39.676108374384235
+          "hoursSeen": 41.248942617500695
+        },
+        {
+          "name": "Makublex",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 39.64758620689655
+            }
+          ],
+          "hoursSeen": 39.64758620689655
         },
         {
           "name": "N҉@҉G҉!҉S҉@",
@@ -4053,28 +4912,6 @@
           "hoursSeen": 37.396646456991284
         },
         {
-          "name": "mr_tawan",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 18.55287356321839
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 7.933333333333334
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 7.366666666666666
-            },
-            {
-              "category": "others",
-              "hoursSeen": 2.9266666666666667
-            }
-          ],
-          "hoursSeen": 36.77954022988505
-        },
-        {
           "name": "poly",
           "servers": [
             {
@@ -4093,36 +4930,128 @@
           "hoursSeen": 36.733333333333334
         },
         {
-          "name": "ou26110",
+          "name": "G",
           "servers": [
             {
-              "category": "mjth",
-              "hoursSeen": 15.040229885057471
-            },
-            {
               "category": "dharma",
-              "hoursSeen": 8.233333333333334
+              "hoursSeen": 34.178275862068965
             },
             {
               "category": "jamulusth",
-              "hoursSeen": 8.166666666666666
+              "hoursSeen": 1.4333333333333333
             },
             {
               "category": "others",
-              "hoursSeen": 4.444817569000872
+              "hoursSeen": 0.06666666666666667
             }
           ],
-          "hoursSeen": 35.885047454058345
+          "hoursSeen": 35.67827586206896
         },
         {
-          "name": "Makublex",
+          "name": "T40",
           "servers": [
             {
+              "category": "others",
+              "hoursSeen": 15.617051282051282
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 11.046666666666667
+            },
+            {
               "category": "dharma",
-              "hoursSeen": 32.39425287356322
+              "hoursSeen": 8.548333333333334
             }
           ],
-          "hoursSeen": 32.39425287356322
+          "hoursSeen": 35.212051282051284
+        },
+        {
+          "name": "Nongtar",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 19.768587848932675
+            },
+            {
+              "category": "others",
+              "hoursSeen": 10.39471264367816
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 4.841642036124795
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 0.03571428571428571
+            }
+          ],
+          "hoursSeen": 35.04065681444992
+        },
+        {
+          "name": "JuDrummer",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 11.993333333333334
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 11.582758620689656
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 7.233333333333333
+            },
+            {
+              "category": "others",
+              "hoursSeen": 3.283333333333333
+            }
+          ],
+          "hoursSeen": 34.09275862068966
+        },
+        {
+          "name": "kaibasskak",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 14.28632183908046
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 8.641543513957307
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 7.50642218573253
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.7540229885057472
+            }
+          ],
+          "hoursSeen": 32.188310527276045
+        },
+        {
+          "name": "YaiMagg",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 16.934252873563217
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 7.573333333333333
+            },
+            {
+              "category": "others",
+              "hoursSeen": 3.9102298850574715
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 3.033333333333333
+            }
+          ],
+          "hoursSeen": 31.45114942528736
         },
         {
           "name": "66",
@@ -4143,6 +5072,50 @@
           "hoursSeen": 30.935632183908048
         },
         {
+          "name": "⠕⠁⠞⠁⠞⠕",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 12.226436781609195
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 11.341379310344827
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 4.780459770114942
+            },
+            {
+              "category": "others",
+              "hoursSeen": 2.1
+            }
+          ],
+          "hoursSeen": 30.448275862068964
+        },
+        {
+          "name": "Nick",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 10.411494252873563
+            },
+            {
+              "category": "others",
+              "hoursSeen": 9.178018188707844
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 6.933333333333334
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 3.6333333333333333
+            }
+          ],
+          "hoursSeen": 30.15617910824807
+        },
+        {
           "name": "NongTar",
           "servers": [
             {
@@ -4159,6 +5132,24 @@
             }
           ],
           "hoursSeen": 29.998850574712645
+        },
+        {
+          "name": "ดอเลาะห์",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 10.822758620689655
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 10.733333333333333
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 7.625057471264368
+            }
+          ],
+          "hoursSeen": 29.18114942528736
         },
         {
           "name": "can i join party",
@@ -4183,44 +5174,44 @@
           "hoursSeen": 28.95710108604845
         },
         {
-          "name": "G",
+          "name": "olms",
           "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 27.248275862068965
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 1.4333333333333333
-            },
             {
               "category": "others",
-              "hoursSeen": 0.03333333333333333
-            }
-          ],
-          "hoursSeen": 28.714942528735634
-        },
-        {
-          "name": "JuDrummer",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 9.482758620689655
+              "hoursSeen": 14.719080459770115
             },
             {
               "category": "mjth",
-              "hoursSeen": 8.433333333333334
+              "hoursSeen": 8.934968071519796
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 5.238029275960311
+            }
+          ],
+          "hoursSeen": 28.89207780725022
+        },
+        {
+          "name": "TJ",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 10.835172413793103
             },
             {
               "category": "jamulusth",
-              "hoursSeen": 7.233333333333333
+              "hoursSeen": 8.454022988505747
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 7.688187444739168
             },
             {
               "category": "others",
-              "hoursSeen": 3.2
+              "hoursSeen": 1.399298245614035
             }
           ],
-          "hoursSeen": 28.349425287356322
+          "hoursSeen": 28.376681092652053
         },
         {
           "name": "Pe",
@@ -4241,82 +5232,6 @@
           "hoursSeen": 27.96666666666667
         },
         {
-          "name": "ED",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 24.701313628899836
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 2.7241379310344827
-            }
-          ],
-          "hoursSeen": 27.42545155993432
-        },
-        {
-          "name": "CallByTheGrqpe",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 18.133333333333333
-            },
-            {
-              "category": "others",
-              "hoursSeen": 4.8
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 4.133333333333334
-            }
-          ],
-          "hoursSeen": 27.066666666666666
-        },
-        {
-          "name": "⠕⠁⠞⠁⠞⠕",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 12.226436781609195
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 7.508045977011494
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 4.780459770114942
-            },
-            {
-              "category": "others",
-              "hoursSeen": 2.1
-            }
-          ],
-          "hoursSeen": 26.614942528735632
-        },
-        {
-          "name": "T",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 14.705491698595146
-            },
-            {
-              "category": "others",
-              "hoursSeen": 6.8999999999999995
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 3.935632183908046
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 1.0701149425287357
-            }
-          ],
-          "hoursSeen": 26.61123882503193
-        },
-        {
           "name": "Jaoan",
           "servers": [
             {
@@ -4333,10 +5248,46 @@
             },
             {
               "category": "others",
-              "hoursSeen": 4.183908045977011
+              "hoursSeen": 5.3839080459770114
             }
           ],
-          "hoursSeen": 26.56297208538588
+          "hoursSeen": 27.76297208538588
+        },
+        {
+          "name": "ED",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 24.701313628899836
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 2.7241379310344827
+            }
+          ],
+          "hoursSeen": 27.42545155993432
+        },
+        {
+          "name": "UKAKA",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 12.3
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 6.546666666666667
+            },
+            {
+              "category": "others",
+              "hoursSeen": 4.3328555502468555
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 4.233333333333333
+            }
+          ],
+          "hoursSeen": 27.41285555024686
         },
         {
           "name": "Aemit",
@@ -4359,28 +5310,6 @@
             }
           ],
           "hoursSeen": 26.29080459770115
-        },
-        {
-          "name": "Nick",
-          "servers": [
-            {
-              "category": "others",
-              "hoursSeen": 8.551351522041177
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 6.951724137931034
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 6.933333333333334
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 3.6333333333333333
-            }
-          ],
-          "hoursSeen": 26.069742326638877
         },
         {
           "name": "CØRN",
@@ -4433,26 +5362,40 @@
           "hoursSeen": 25.896223316912973
         },
         {
-          "name": "YaiMagg",
+          "name": "iPluem",
           "servers": [
             {
-              "category": "mjth",
-              "hoursSeen": 12.694252873563219
+              "category": "others",
+              "hoursSeen": 21.34923076923077
             },
             {
               "category": "dharma",
-              "hoursSeen": 7.133333333333334
+              "hoursSeen": 3.08
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.44
+            }
+          ],
+          "hoursSeen": 24.86923076923077
+        },
+        {
+          "name": "NATDrum",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 21.688505747126438
             },
             {
               "category": "jamulusth",
-              "hoursSeen": 3.033333333333333
+              "hoursSeen": 2.8666666666666667
             },
             {
               "category": "others",
-              "hoursSeen": 2.590229885057471
+              "hoursSeen": 0.06666666666666667
             }
           ],
-          "hoursSeen": 25.45114942528736
+          "hoursSeen": 24.62183908045977
         },
         {
           "name": "Chen",
@@ -4469,26 +5412,80 @@
           "hoursSeen": 24.521428571428572
         },
         {
-          "name": "TJ",
+          "name": "ส่ะ เกว",
           "servers": [
             {
               "category": "dharma",
-              "hoursSeen": 8.955172413793104
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 8.454022988505747
+              "hoursSeen": 15.769835082458771
             },
             {
               "category": "mjth",
-              "hoursSeen": 5.081520778072502
+              "hoursSeen": 7.92799671592775
             },
             {
               "category": "others",
-              "hoursSeen": 1.1259649122807016
+              "hoursSeen": 0.7666666666666666
             }
           ],
-          "hoursSeen": 23.61668109265205
+          "hoursSeen": 24.464498465053186
+        },
+        {
+          "name": "Techin",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 11.139934318555008
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 6.386666666666667
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 5.048275862068966
+            },
+            {
+              "category": "others",
+              "hoursSeen": 1.676466165413534
+            }
+          ],
+          "hoursSeen": 24.251343012704176
+        },
+        {
+          "name": "Ethan",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 13.83868530020704
+            },
+            {
+              "category": "others",
+              "hoursSeen": 6.403333333333333
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 4
+            }
+          ],
+          "hoursSeen": 24.242018633540372
+        },
+        {
+          "name": "ℕ𝕒𝕘𝕚𝕤𝕒",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 11.960919540229884
+            },
+            {
+              "category": "others",
+              "hoursSeen": 6.734482758620691
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 5.094252873563218
+            }
+          ],
+          "hoursSeen": 23.78965517241379
         },
         {
           "name": "ดอเลาห์  ลอมาเย",
@@ -4513,46 +5510,6 @@
           "hoursSeen": 23.542118226600987
         },
         {
-          "name": "Ko",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 10.191954022988506
-            },
-            {
-              "category": "others",
-              "hoursSeen": 6.4714285714285715
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 5.408045977011494
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 1.1
-            }
-          ],
-          "hoursSeen": 23.171428571428574
-        },
-        {
-          "name": "NATDrum",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 20.155172413793103
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 2.8666666666666667
-            },
-            {
-              "category": "others",
-              "hoursSeen": 0.06666666666666667
-            }
-          ],
-          "hoursSeen": 23.088505747126437
-        },
-        {
           "name": "YourCat 66",
           "servers": [
             {
@@ -4567,73 +5524,11 @@
           "hoursSeen": 22.933333333333334
         },
         {
-          "name": "ℕ𝕒𝕘𝕚𝕤𝕒",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 11.927586206896551
-            },
-            {
-              "category": "others",
-              "hoursSeen": 6.267816091954024
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 4.427586206896552
-            }
-          ],
-          "hoursSeen": 22.622988505747127
-        },
-        {
-          "name": "UKAKA",
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 10.5
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 6.466666666666667
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 4.233333333333333
-            },
-            {
-              "category": "others",
-              "hoursSeen": 0.5666666666666667
-            }
-          ],
-          "hoursSeen": 21.76666666666667
-        },
-        {
-          "name": "kaibasskak",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 7.50642218573253
-            },
-            {
-              "category": "others",
-              "hoursSeen": 6.150574712643679
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 5.708210180623974
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 1.7540229885057472
-            }
-          ],
-          "hoursSeen": 21.119230067505928
-        },
-        {
           "name": "นนนนนนนนน",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.767816091954023
+              "hoursSeen": 7.807816091954023
             },
             {
               "category": "jamulusth",
@@ -4641,14 +5536,52 @@
             },
             {
               "category": "dharma",
-              "hoursSeen": 6.133333333333334
+              "hoursSeen": 6.253333333333334
             },
             {
               "category": "others",
-              "hoursSeen": 0.5333333333333333
+              "hoursSeen": 2.1215734989648034
             }
           ],
-          "hoursSeen": 21.101149425287357
+          "hoursSeen": 22.84938959091883
+        },
+        {
+          "name": "123456987498",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 21.88
+            }
+          ],
+          "hoursSeen": 21.88
+        },
+        {
+          "name": "1",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 21.867156246438185
+            }
+          ],
+          "hoursSeen": 21.867156246438185
+        },
+        {
+          "name": "Capt.",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 10.666666666666666
+            },
+            {
+              "category": "others",
+              "hoursSeen": 9.083333333333332
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 1.9999999999999998
+            }
+          ],
+          "hoursSeen": 21.749999999999996
         },
         {
           "name": "light",
@@ -4673,6 +5606,20 @@
           "hoursSeen": 21.03593073593074
         },
         {
+          "name": "FrEE",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 20.413333333333334
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.16
+            }
+          ],
+          "hoursSeen": 20.573333333333334
+        },
+        {
           "name": "โพลี่",
           "servers": [
             {
@@ -4685,6 +5632,46 @@
             }
           ],
           "hoursSeen": 20.1
+        },
+        {
+          "name": "BeLL",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 8.366666666666667
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 8.247126436781608
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 3.433333333333333
+            }
+          ],
+          "hoursSeen": 20.047126436781607
+        },
+        {
+          "name": "Team",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 7.1066666666666665
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 4.661001642036124
+            },
+            {
+              "category": "others",
+              "hoursSeen": 4.66
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 3.3551067323481116
+            }
+          ],
+          "hoursSeen": 19.782775041050904
         },
         {
           "name": "o@",
@@ -4731,28 +5718,6 @@
           "hoursSeen": 19.442252964426878
         },
         {
-          "name": "Techin",
-          "servers": [
-            {
-              "category": "dharma",
-              "hoursSeen": 7.5932676518883415
-            },
-            {
-              "category": "mjth",
-              "hoursSeen": 5.5
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 5.048275862068966
-            },
-            {
-              "category": "others",
-              "hoursSeen": 1.2031328320802006
-            }
-          ],
-          "hoursSeen": 19.344676346037513
-        },
-        {
           "name": "Thomas no mic",
           "servers": [
             {
@@ -4773,6 +5738,42 @@
             }
           ],
           "hoursSeen": 18.189326765188834
+        },
+        {
+          "name": "Nongfox",
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 11.919999999999998
+            },
+            {
+              "category": "dharma",
+              "hoursSeen": 3.68
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 2.376923076923077
+            }
+          ],
+          "hoursSeen": 17.976923076923075
+        },
+        {
+          "name": "Dorloh  Lormaye",
+          "servers": [
+            {
+              "category": "dharma",
+              "hoursSeen": 10.400351966873707
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 5.321666666666667
+            },
+            {
+              "category": "others",
+              "hoursSeen": 1.9633333333333334
+            }
+          ],
+          "hoursSeen": 17.685351966873707
         },
         {
           "name": "The-น้อง เปียโน",
@@ -4819,6 +5820,20 @@
           "hoursSeen": 17.21165845648604
         },
         {
+          "name": "JeW",
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 15.331091041780697
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.2413793103448276
+            }
+          ],
+          "hoursSeen": 16.572470352125524
+        },
+        {
           "name": "YourMom 69",
           "servers": [
             {
@@ -4837,26 +5852,14 @@
           "hoursSeen": 16.400000000000002
         },
         {
-          "name": "Nongtar",
+          "name": "LastJohn",
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.377093596059114
-            },
-            {
-              "category": "others",
-              "hoursSeen": 4.908045977011494
-            },
-            {
-              "category": "dharma",
-              "hoursSeen": 1.034975369458128
-            },
-            {
-              "category": "jamulusth",
-              "hoursSeen": 0.03571428571428571
+              "hoursSeen": 16.277532186287807
             }
           ],
-          "hoursSeen": 16.35582922824302
+          "hoursSeen": 16.277532186287807
         }
       ]
     },
