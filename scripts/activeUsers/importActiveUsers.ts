@@ -46,6 +46,10 @@ async function insertData(path) {
     dataPoints++;
     const data = JSON.parse(line);
     const hourBucket = data.time.slice(0, 13);
+    if (!Array.isArray(data.list)) {
+      console.warn("No list found in data for time", data.time);
+      continue;
+    }
     for (const server of data.list) {
       const serverKey = [data.genre, server.name, server.ip, server.port].join(
         ":"

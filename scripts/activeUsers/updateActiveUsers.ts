@@ -18,7 +18,12 @@ function* generateYearMonths(end: string) {
 
 const serverCategories = {
   mjth: ["🏘 MJTH Lobby", "MusicJammingTH [r1]", "🏘 MJTH.live"],
-  jamulusth: ["🎵JamulusTH [PRO]", "JamulusTH [01]", "🎵JamulusTH"],
+  jamulusth: [
+    "🎵JamulusTH [PRO]",
+    "JamulusTH [01]",
+    "🎵JamulusTH",
+    "🎵JamulusTH [Pro]",
+  ],
   dharma: ["- Dharma Room"],
 };
 const serverToCategory = new Map(
