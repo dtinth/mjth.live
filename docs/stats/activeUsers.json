@@ -2,6 +2,11 @@
   "byYearMonth": [
     {
       "year": 2024,
+      "month": 6,
+      "byName": []
+    },
+    {
+      "year": 2024,
       "month": 5,
       "byName": [
         {
@@ -129,10 +134,10 @@
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.156923076923077
+              "hoursSeen": 11.196923076923078
             }
           ],
-          "hoursSeen": 11.156923076923077
+          "hoursSeen": 11.196923076923078
         },
         {
           "name": "MSJ-04T",
@@ -159,10 +164,10 @@
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.461666666666666
+              "hoursSeen": 10.500128205128204
             }
           ],
-          "hoursSeen": 10.461666666666666
+          "hoursSeen": 10.500128205128204
         },
         {
           "name": "kong /away",
@@ -6054,10 +6059,10 @@
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 73.92612479474549
+              "hoursSeen": 73.96612479474548
             }
           ],
-          "hoursSeen": 73.92612479474549
+          "hoursSeen": 73.96612479474548
         },
         {
           "name": "Dit",
@@ -6344,10 +6349,10 @@
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 25.061192370847543
+              "hoursSeen": 25.101192370847542
             }
           ],
-          "hoursSeen": 25.061192370847543
+          "hoursSeen": 25.101192370847542
         },
         {
           "name": "ED",
@@ -6384,10 +6389,10 @@
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.455000000000002
+              "hoursSeen": 22.49346153846154
             }
           ],
-          "hoursSeen": 22.455000000000002
+          "hoursSeen": 22.49346153846154
         },
         {
           "name": "บุตรเเห่งอัลเลาะ",
