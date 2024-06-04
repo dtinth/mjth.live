@@ -1,5 +1,5 @@
+import { getOrCreate } from "@thai/get-or-create";
 import { readFileSync, writeFileSync } from "fs";
-import { getOrCreate } from "./_getOrCreate";
 
 interface StatRow {
   client_name: string;

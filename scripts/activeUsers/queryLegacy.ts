@@ -1,7 +1,7 @@
+import { getOrCreate } from "@thai/get-or-create";
 import { createReadStream, mkdirSync, writeFileSync } from "fs";
 import { createInterface } from "readline";
 import zlib from "zlib";
-import { getOrCreate } from "./_getOrCreate";
 
 async function loadData() {
   let header: string[] | undefined;

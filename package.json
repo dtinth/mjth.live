@@ -29,6 +29,7 @@
   "dependencies": {
     "@justinribeiro/lite-youtube": "^1.5.0",
     "@nanostores/vue": "^0.10.0",
+    "@thai/get-or-create": "npm:@jsr/thai__get-or-create@^0.0.1",
     "lite-youtube-embed": "^0.3.0",
     "nanostores": "^0.9.5"
   },

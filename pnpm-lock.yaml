@@ -11,6 +11,9 @@ dependencies:
   '@nanostores/vue':
     specifier: ^0.10.0
     version: 0.10.0(nanostores@0.9.5)(vue@3.3.13)
+  '@thai/get-or-create':
+    specifier: npm:@jsr/thai__get-or-create@^0.0.1
+    version: /@jsr/thai__get-or-create@0.0.1
   lite-youtube-embed:
     specifier: ^0.3.0
     version: 0.3.0
@@ -534,6 +537,10 @@ packages:
 
   /@jridgewell/sourcemap-codec@1.4.15:
     resolution: {integrity: sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==}
+
+  /@jsr/thai__get-or-create@0.0.1:
+    resolution: {integrity: sha512-P2YSNN4MYF2jGMbaIZbVD/zv2N0w7S7/knkppdQxRjsSxLn9FuQEkspHJACXnnGEzLrsPWllZi9Y1aHJYwWcww==, tarball: https://npm.jsr.io/~/11/@jsr/thai__get-or-create/0.0.1.tgz}
+    dev: false
 
   /@justinribeiro/lite-youtube@1.5.0:
     resolution: {integrity: sha512-TU92RKtz9BI9PRYrVwDIUsnFadLZtqRKWl1ZOdbxb7roJDb8Dd/xURllAsLEmCg6oJNyhXlVa5RsnUc0EKd8Cw==}
