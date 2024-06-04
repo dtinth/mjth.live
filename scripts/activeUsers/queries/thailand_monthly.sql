@@ -5,5 +5,5 @@ WITH monthly_rank AS (
 )
 SELECT mr.* FROM `dtinth-storage-space.jamulus_thailand.monthly_rollup` AS mr
 JOIN monthly_rank AS ranks ON ranks.client_name = mr.client_name AND ranks.month = mr.month
-WHERE ranks.rank <= 20
+WHERE ranks.rank <= 50
 ORDER BY month DESC, rank, server_name

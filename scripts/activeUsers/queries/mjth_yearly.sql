@@ -15,5 +15,5 @@ yearly_rank AS (
 )
 SELECT roll.* FROM yearly_rollup AS roll
 JOIN yearly_rank AS ranks ON ranks.client_name = roll.client_name AND ranks.year = roll.year
-WHERE total_hours >= 16
+WHERE total_hours >= 8
 ORDER BY year DESC, total_hours DESC, server_name
