@@ -16,6 +16,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Authenticate with GCP
+        uses: "google-github-actions/auth@v2"
+        with:
+          workload_identity_provider: "projects/1061748385198/locations/global/workloadIdentityPools/github-actions/providers/github-actions"
+          service_account: "jamulus-archive@dtinth-storage-space.iam.gserviceaccount.com"
       - name: pnpm
         uses: pnpm/action-setup@v2
       - name: node
@@ -23,9 +28,8 @@ jobs:
         with:
           cache: pnpm
       - run: pnpm install
-      - run: pnpm tsx scripts/activeUsers/routineUpdate.ts
-        env:
-          SK_RR1HWHRXKR5429MF73TM: ${{ secrets.SK_RR1HWHRXKR5429MF73TM }}
+      - run: pnpm tsx scripts/activeUsers/queryLegacy.ts
+      - run: pnpm tsx scripts/activeUsers/queryBigQuery.ts
       - run: pnpm tsx scripts/activeUsers/updateActiveUsers.ts
       - name: Show the diff
         run: git diff --name-only
