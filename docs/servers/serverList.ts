@@ -60,14 +60,11 @@ export interface JamulusExplorerClient {
   city: string;
 }
 
-const listenUrls = {
-  "150.95.25.226": "https://lobby.musicjammingth.net/",
-  "103.246.19.200": "https://lobby.jamulusth.com/",
-  "103.246.19.183": "https://pro.jamulusth.com/",
-  "103.91.189.71": "https://lobbypro.jamulusth.com/",
-};
-
 async function refresh() {
+  const listenUrlsPromise = fetch("/lounges.json")
+    .then((r) => r.json() as Promise<Record<string, string>>)
+    .catch(() => ({}));
+
   const info = await fetch(
     "https://jamulus-archive.ap-south-1.linodeobjects.com/main/latest.json"
   ).then((r) => r.json() as Promise<InformationFile>);
@@ -75,6 +72,8 @@ async function refresh() {
   const datapoints = await fetch(
     `https://jamulus-archive.ap-south-1.linodeobjects.com/${info.key}`
   ).then((r) => r.json() as Promise<DataPoint[]>);
+
+  const listenUrls = await listenUrlsPromise;
 
   const serversInThailand = datapoints.flatMap((d) =>
     d.list
@@ -97,7 +96,7 @@ async function refresh() {
     .map((s): Server => {
       const musicians: Musician[] = [];
       let listeners = 0;
-      const listenUrl = listenUrls[s.ip] ?? undefined;
+      const listenUrl = listenUrls[s.ip + ":" + s.port] ?? undefined;
       for (const c of s.clients ?? []) {
         const instrument = c.instrument;
         if (instrument === "Streamer" || instrument === "Recorder") {
