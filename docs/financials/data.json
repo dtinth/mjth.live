@@ -4,16 +4,17 @@
       "year": 2024,
       "in": {
         "LAB": 3000,
-        "wasabizky": 1500
+        "wasabizky": 1500,
+        "พอเถอะ": 1234.56
       },
       "out": {
-        "Z cloud": 2568,
-        "ReadyIDC": 321
+        "Z cloud": 4815,
+        "ReadyIDC": 802.5
       },
-      "totalIn": 4500,
-      "totalOut": 2889,
+      "totalIn": 5734.56,
+      "totalOut": 5617.5,
       "startingBalance": 6743.41,
-      "endingBalance": 8354.41
+      "endingBalance": 6860.47
     },
     "year2023": {
       "year": 2023,
@@ -100,5 +101,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2024-03-09"
+  "lastUpdated": "2024-06-16"
 }
