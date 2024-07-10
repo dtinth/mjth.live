@@ -27,6 +27,8 @@ export const $lastUpdated = atom("…");
 
 interface InformationFile {
   key: string;
+  stats: { time: string; genre: string; count: number }[];
+  history: Omit<InformationFile, "history">[];
 }
 interface DataPoint {
   time: string;
@@ -60,6 +62,31 @@ export interface JamulusExplorerClient {
   city: string;
 }
 
+async function fetchDataPoints(info: InformationFile): Promise<DataPoint[]> {
+  const fetchKey = (key: string) =>
+    fetch(`https://jamulus-archive.ap-south-1.linodeobjects.com/${key}`).then(
+      (r) => r.json() as Promise<DataPoint[]>
+    );
+  const promises = [
+    fetchKey(info.key),
+    ...info.history.slice(0, 2).map((h) => fetchKey(h.key)),
+  ];
+  const allDataPoints = await Promise.all(promises).then((arrays) =>
+    arrays.flat(1)
+  );
+  const map = new Map<string, DataPoint>();
+  for (const dataPoint of allDataPoints) {
+    const key = dataPoint.genre;
+    if (
+      !map.has(key) ||
+      new Date(map.get(key)!.time) < new Date(dataPoint.time)
+    ) {
+      map.set(key, dataPoint);
+    }
+  }
+  return Array.from(map.values());
+}
+
 async function refresh() {
   const listenUrlsPromise = fetch("/lounges.json")
     .then((r) => r.json() as Promise<Record<string, string>>)
@@ -69,9 +96,7 @@ async function refresh() {
     "https://jamulus-archive.ap-south-1.linodeobjects.com/main/latest.json"
   ).then((r) => r.json() as Promise<InformationFile>);
 
-  const datapoints = await fetch(
-    `https://jamulus-archive.ap-south-1.linodeobjects.com/${info.key}`
-  ).then((r) => r.json() as Promise<DataPoint[]>);
+  const datapoints = await fetchDataPoints(info);
 
   const listenUrls = await listenUrlsPromise;
 
