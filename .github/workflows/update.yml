@@ -22,7 +22,7 @@ jobs:
           workload_identity_provider: "projects/1061748385198/locations/global/workloadIdentityPools/github-actions/providers/github-actions"
           service_account: "jamulus-archive@dtinth-storage-space.iam.gserviceaccount.com"
       - name: pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@v4
       - name: node
         uses: actions/setup-node@v3
         with:
