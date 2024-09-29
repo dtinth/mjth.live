@@ -5,16 +5,18 @@
       "in": {
         "LAB": 3000,
         "wasabizky": 1500,
-        "พอเถอะ": 1234.56
+        "พอเถอะ": 1234.56,
+        "xyz": 1000,
+        "Bank Interest": 51.54
       },
       "out": {
-        "Z cloud": 4815,
-        "ReadyIDC": 802.5
+        "Z cloud": 7062,
+        "ReadyIDC": 1444.5
       },
-      "totalIn": 5734.56,
-      "totalOut": 5617.5,
+      "totalIn": 6786.1,
+      "totalOut": 8506.5,
       "startingBalance": 6743.41,
-      "endingBalance": 6860.47
+      "endingBalance": 5023.01
     },
     "year2023": {
       "year": 2023,
@@ -101,5 +103,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2024-06-16"
+  "lastUpdated": "2024-09-30"
 }
