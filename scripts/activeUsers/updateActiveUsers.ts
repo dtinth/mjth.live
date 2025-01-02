@@ -35,6 +35,8 @@ const serverCategories = {
     "JamulusTH [01]",
     "🎵JamulusTH",
     "🎵JamulusTH [Pro]",
+    "🎵JamulusTH [Studio]",
+    "🎵JamulusTH [Play]",
   ],
   dharma: ["- Dharma Room"],
 };
