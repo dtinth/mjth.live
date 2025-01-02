@@ -1,6 +1,252 @@
 {
   "byYearMonth": [
     {
+      "year": 2025,
+      "month": 1,
+      "byName": [
+        {
+          "name": "Takayama Gamu",
+          "hoursSeen": 6.5,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 3.2333333333333334
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 3
+            },
+            {
+              "category": "others",
+              "hoursSeen": 0.26666666666666666
+            }
+          ]
+        },
+        {
+          "name": "Ji",
+          "hoursSeen": 4.1,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 4.1
+            }
+          ]
+        },
+        {
+          "name": "Winnx",
+          "hoursSeen": 3.833333333333333,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2.033333333333333
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.1666666666666665
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.6333333333333333
+            }
+          ]
+        },
+        {
+          "name": "Dear",
+          "hoursSeen": 3.7666666666666666,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 2.433333333333333
+            },
+            {
+              "category": "others",
+              "hoursSeen": 1.3333333333333335
+            }
+          ]
+        },
+        {
+          "name": "ongreen",
+          "hoursSeen": 2.6,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2.533333333333333
+            },
+            {
+              "category": "jamulusth",
+              "hoursSeen": 0.06666666666666667
+            }
+          ]
+        },
+        {
+          "name": "Koong",
+          "hoursSeen": 2.533333333333333,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2.533333333333333
+            }
+          ]
+        },
+        {
+          "name": "ANAKIN",
+          "hoursSeen": 2.4666666666666663,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2.433333333333333
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.03333333333333333
+            }
+          ]
+        },
+        {
+          "name": "MIL",
+          "hoursSeen": 2.4333333333333336,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.2333333333333334
+            },
+            {
+              "category": "mjth",
+              "hoursSeen": 0.6333333333333333
+            },
+            {
+              "category": "others",
+              "hoursSeen": 0.5666666666666667
+            }
+          ]
+        },
+        {
+          "name": "Dit",
+          "hoursSeen": 2.3666666666666667,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2.3666666666666667
+            }
+          ]
+        },
+        {
+          "name": "xofgnon",
+          "hoursSeen": 2.333333333333333,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.8333333333333333
+            },
+            {
+              "category": "others",
+              "hoursSeen": 0.5
+            }
+          ]
+        },
+        {
+          "name": "wiince",
+          "hoursSeen": 2.1,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 2.1
+            }
+          ]
+        },
+        {
+          "name": "BomZ",
+          "hoursSeen": 2,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 2
+            }
+          ]
+        },
+        {
+          "name": "oatato",
+          "hoursSeen": 1.9,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 1.9
+            }
+          ]
+        },
+        {
+          "name": "Dennis`",
+          "hoursSeen": 1.4666666666666668,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 1.4666666666666668
+            }
+          ]
+        },
+        {
+          "name": "MiL phone",
+          "hoursSeen": 1.2666666666666666,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 1.2666666666666666
+            }
+          ]
+        },
+        {
+          "name": "ขวัญใจรถแห่",
+          "hoursSeen": 0.6666666666666666,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 0.6666666666666666
+            }
+          ]
+        },
+        {
+          "name": "Skew",
+          "hoursSeen": 0.5666666666666667,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 0.5666666666666667
+            }
+          ]
+        },
+        {
+          "name": "อ",
+          "hoursSeen": 0.5333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.5333333333333333
+            }
+          ]
+        },
+        {
+          "name": "jibjiib",
+          "hoursSeen": 0.5,
+          "servers": [
+            {
+              "category": "jamulusth",
+              "hoursSeen": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Quest   1992",
+          "hoursSeen": 0.5,
+          "servers": [
+            {
+              "category": "others",
+              "hoursSeen": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
       "year": 2024,
       "month": 12,
       "byName": [
