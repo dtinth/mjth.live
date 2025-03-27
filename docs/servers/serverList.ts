@@ -93,7 +93,8 @@ async function refresh() {
     .catch(() => ({}));
 
   const info = await fetch(
-    "https://jamulus-archive.ap-south-1.linodeobjects.com/main/latest.json"
+    "https://jamulus-archive.ap-south-1.linodeobjects.com/main/latest.json?t" +
+      Math.floor(Date.now() / 60e3)
   ).then((r) => r.json() as Promise<InformationFile>);
 
   const datapoints = await fetchDataPoints(info);
