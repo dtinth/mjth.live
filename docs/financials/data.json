@@ -1,22 +1,39 @@
 {
   "byYear": {
+    "year2025": {
+      "year": 2025,
+      "in": {},
+      "out": {
+        "Z cloud": 1926,
+        "ReadyIDC": 481.5,
+        "Nipa Cloud": 321,
+        "atomhost": 310.3,
+        "Ruk-Com Cloud": 214
+      },
+      "totalIn": 0,
+      "totalOut": 3252.8,
+      "startingBalance": 3992.69,
+      "endingBalance": 739.89
+    },
     "year2024": {
       "year": 2024,
       "in": {
         "LAB": 3000,
         "wasabizky": 1500,
+        "Thomas no mic": 1500,
         "พอเถอะ": 1234.56,
         "xyz": 1000,
-        "Bank Interest": 51.54
+        "Bank Interest": 78.72
       },
       "out": {
-        "Z cloud": 7062,
-        "ReadyIDC": 1444.5
+        "Z cloud": 8988,
+        "ReadyIDC": 1926,
+        "Debit Card Fee": 150
       },
-      "totalIn": 6786.1,
-      "totalOut": 8506.5,
+      "totalIn": 8313.28,
+      "totalOut": 11064,
       "startingBalance": 6743.41,
-      "endingBalance": 5023.01
+      "endingBalance": 3992.69
     },
     "year2023": {
       "year": 2023,
@@ -103,5 +120,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2024-09-30"
+  "lastUpdated": "2025-03-26"
 }

@@ -1,25 +1,48 @@
 import { Env } from "@(-.-)/env";
 import { writeFileSync } from "fs";
+import { GristDocAPI } from "grist-api";
 import { z } from "zod";
 
 const env = Env(
   z.object({
-    BALANCE_TRACKING_TSV_1: z.string(),
+    GRIST_DOC_URL: z.string(),
+    GRIST_API_KEY: z.string(),
   })
 );
 
-const tsv = await fetch(env.BALANCE_TRACKING_TSV_1).then((res) => res.text());
-const rows = tsv
-  .split("\n")
-  .map((row) => row.split("\t").map((x) => x.trim()))
-  .filter((r) => r[0].match(/^\d\d\d\d-\d\d-\d\d$/))
-  .map((r) => ({
-    date: r[0],
-    amount: +r[1],
-    account: r[2],
-    description: r[3] || "",
-  }));
-
+const grist = new GristDocAPI(env.GRIST_DOC_URL, { apiKey: env.GRIST_API_KEY });
+const accountMap = new Map(
+  (await grist.fetchTable("Accounts")).map((row) => {
+    return [row.id, row];
+  })
+);
+const rows = (await grist.fetchTable("Transactions")).flatMap((row) => {
+  const from = accountMap.get(row.From);
+  const to = accountMap.get(row.To);
+  if (!from || !to) return [];
+  const date = new Date(+row.Date! * 1e3).toISOString().slice(0, 10);
+  if (from.Name === "MJTH") {
+    return [
+      {
+        date,
+        amount: -row.Amount!,
+        account: String(to.Name),
+        description: row.Description || "",
+      },
+    ];
+  } else if (to.Name === "MJTH") {
+    return [
+      {
+        date,
+        amount: +row.Amount!,
+        account: String(from.Name),
+        description: row.Description || "",
+      },
+    ];
+  }
+  console.warn("Unknown transaction:", row);
+  return [];
+});
 const output: [year: string, data: YearData][] = [];
 interface YearData {}
 
