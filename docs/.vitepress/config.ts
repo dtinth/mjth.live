@@ -84,10 +84,6 @@ export default defineConfig({
             link: "/stats/",
           },
           {
-            text: "สนับสนุน",
-            link: "/support/",
-          },
-          {
             text: "สรุปรายรับรายจ่าย",
             link: "/financials/",
           },
