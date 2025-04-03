@@ -2,18 +2,22 @@
   "byYear": {
     "year2025": {
       "year": 2025,
-      "in": {},
+      "in": {
+        "dtinth": 1024,
+        "oatato": 1000,
+        "Unknown supporter": 100
+      },
       "out": {
         "Z cloud": 1926,
+        "Ruk-Com Cloud": 749,
         "ReadyIDC": 481.5,
         "Nipa Cloud": 321,
-        "atomhost": 310.3,
-        "Ruk-Com Cloud": 214
+        "atomhost": 310.3
       },
-      "totalIn": 0,
-      "totalOut": 3252.8,
+      "totalIn": 2124,
+      "totalOut": 3787.8,
       "startingBalance": 3992.69,
-      "endingBalance": 739.89
+      "endingBalance": 2328.89
     },
     "year2024": {
       "year": 2024,
@@ -120,5 +124,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-03-26"
+  "lastUpdated": "2025-04-04"
 }
