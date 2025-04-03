@@ -84,8 +84,8 @@ export default defineConfig({
             link: "/stats/",
           },
           {
-            text: "สรุปรายรับรายจ่าย",
-            link: "/financials/",
+            text: "ร่วมสนับสนุนค่าใช้จ่าย",
+            link: "/support/",
           },
           {
             text: "Facebook Page",
