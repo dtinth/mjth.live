@@ -5,7 +5,9 @@
       "in": {
         "dtinth": 1024,
         "oatato": 1000,
-        "Unknown supporter": 100
+        "หงส์แดงผู้อหังกา": 888.88,
+        "Ordinary Man": 300,
+        "Unknown supporters": 100
       },
       "out": {
         "Z cloud": 1926,
@@ -14,10 +16,10 @@
         "Nipa Cloud": 321,
         "atomhost": 310.3
       },
-      "totalIn": 2124,
+      "totalIn": 3312.88,
       "totalOut": 3787.8,
       "startingBalance": 3992.69,
-      "endingBalance": 2328.89
+      "endingBalance": 3517.77
     },
     "year2024": {
       "year": 2024,
@@ -124,5 +126,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-04-04"
+  "lastUpdated": "2025-04-05"
 }
