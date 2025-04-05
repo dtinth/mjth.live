@@ -31,6 +31,10 @@ jobs:
       - run: pnpm tsx scripts/activeUsers/queryLegacy.ts
       - run: pnpm tsx scripts/activeUsers/queryBigQuery.ts
       - run: pnpm tsx scripts/activeUsers/updateActiveUsers.ts
+      - run: pnpm tsx scripts/updateFinancialsData.ts
+        env:
+          GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}
+          GRIST_DOC_URL: ${{ secrets.GRIST_DOC_URL }}
       - name: Show the diff
         run: git diff --name-only
       - name: Commit and push if there are changes
