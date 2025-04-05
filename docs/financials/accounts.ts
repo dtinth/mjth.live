@@ -15,6 +15,8 @@ const notPersonAccount = new Set<string>([
   "Bank Interest",
   "Clubhouse listeners",
   "JOOX ROOMS listeners",
+  "Unknown supporters",
+  "Anonymous supporters",
 ]);
 
 export function shouldCountAsSupporter(name: string) {
