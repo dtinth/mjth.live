@@ -36,6 +36,7 @@ sudo tee /etc/systemd/system/jamulus-headless.service.d/override.conf > /dev/nul
 [Service]
 ExecStart=
 ExecStart=/usr/local/bin/jamulus-server
+MemorySwapMax=0
 EOF
 
 sudo systemctl enable jamulus-headless
@@ -61,7 +62,7 @@ sudo sh install-docker.sh
 sudo usermod -aG docker $USER
 ```
 
-## Install extra services
+## Install RPC gateway
 
 ```sh
 mkdir -p mjth
@@ -83,6 +84,20 @@ services:
       - /etc/jamulusjsonrpcsecret:/etc/jamulusjsonrpcsecret:ro
 EOF
 echo "API_KEYS=$(openssl rand -hex 16)" | tee .env
+docker compose up -d
+```
+
+## Install Jamulus lounge
+
+```sh
+git clone https://github.com/dtinth/jamulus-lounge.git
+cd jamulus-lounge
+docker compose pull && docker compose run --rm server yarn
+tee .env > /dev/null <<"EOF"
+CLIPPER_UPLOAD_URL=
+CLIPPER_UPLOAD_KEY=
+CLIPPER_UPLOAD_NAMESPACE=
+EOF
 docker compose up -d
 ```
 
@@ -110,12 +125,39 @@ Configure Caddy:
 
 ```
 # /etc/caddy/Caddyfile
-domain.tld {
-  log
-  reverse_proxy localhost:63127
+code-name.server.mjth.live {
+  handle_path /gateway/* {
+    reverse_proxy http://localhost:63127
+  }
+  reverse_proxy http://localhost:9998
 }
 ```
 
 ```sh
 sudo systemctl reload caddy
+```
+
+## Install recman
+
+```sh
+sudo mkdir -p /var/local/jamulus/recordings && sudo chmod a+rwx /var/local/jamulus/recordings
+cd mjth
+tee docker-compose.override.yml > /dev/null <<"EOF"
+services:
+  recman:
+    image: ghcr.io/dtinth/mjth-recman:main
+    network_mode: host
+    restart: unless-stopped
+    environment:
+      - API_GATEWAY_API_KEY=${API_KEYS}
+      - UPLOAD_ENDPOINT_URL
+      - UPLOAD_ENDPOINT_KEY
+    volumes:
+      - /var/local/jamulus/recordings:/var/local/jamulus/recordings
+EOF
+echo "UPLOAD_ENDPOINT_URL=" >> .env
+echo "UPLOAD_ENDPOINT_KEY=" >> .env
+
+# Update the upload endpoint URL and key, then run:
+docker compose up -d
 ```
