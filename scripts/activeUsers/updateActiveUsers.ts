@@ -29,7 +29,14 @@ function* generateYearMonths(end: string) {
 }
 
 const serverCategories = {
-  mjth: ["🏘 MJTH Lobby", "MusicJammingTH [r1]", "🏘 MJTH.live"],
+  mjth: [
+    "🏘 MJTH Lobby",
+    "MusicJammingTH [r1]",
+    "🏘 MJTH.live",
+    "MJTH [Dindaeng]",
+    "MJTH [Phayathai]",
+    "MJTH [Huaikhwang]",
+  ],
   jamulusth: [
     "🎵JamulusTH [PRO]",
     "JamulusTH [01]",

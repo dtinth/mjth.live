@@ -1,6 +1,6 @@
 WITH mjth AS (
   SELECT * FROM `dtinth-storage-space.jamulus_thailand.monthly_rollup`
-  WHERE server_name IN ('🏘 MJTH Lobby', 'MusicJammingTH [r1]', '🏘 MJTH.live')
+  WHERE server_name IN ('🏘 MJTH Lobby', 'MusicJammingTH [r1]', '🏘 MJTH.live', 'MJTH [Dindaeng]', 'MJTH [Phayathai]', 'MJTH [Huaikhwang]')
   AND month >= '2024-01'
 ),
 monthly_rank AS (
