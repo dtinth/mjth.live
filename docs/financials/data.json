@@ -13,17 +13,17 @@
         "Unknown supporters": 100
       },
       "out": {
-        "Z cloud": 1926,
-        "Ruk-Com Cloud": 749,
+        "Z cloud": 2568,
+        "Ruk-Com Cloud": 1819,
         "ReadyIDC": 481.5,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
       "totalIn": 6509.84,
-      "totalOut": 3922.8,
+      "totalOut": 5634.8,
       "startingBalance": 3992.69,
-      "endingBalance": 6579.73
+      "endingBalance": 4867.73
     },
     "year2024": {
       "year": 2024,
@@ -130,5 +130,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-04-05"
+  "lastUpdated": "2025-04-28"
 }
