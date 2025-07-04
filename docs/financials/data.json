@@ -11,20 +11,21 @@
         "หงส์แดงผู้อหังกา": 888.88,
         "Anonymous supporters": 500,
         "Ordinary Man": 300,
-        "Unknown supporters": 100
+        "Unknown supporters": 100,
+        "Bank Interest": 25.9
       },
       "out": {
-        "Z cloud": 2889,
-        "Ruk-Com Cloud": 1819,
-        "ReadyIDC": 642,
+        "Z cloud": 4173,
+        "Ruk-Com Cloud": 2889,
+        "ReadyIDC": 802.5,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
-      "totalIn": 8009.84,
-      "totalOut": 6116.3,
+      "totalIn": 8035.74,
+      "totalOut": 8630.8,
       "startingBalance": 3992.69,
-      "endingBalance": 5886.23
+      "endingBalance": 3397.63
     },
     "year2024": {
       "year": 2024,
@@ -131,5 +132,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-05-23"
+  "lastUpdated": "2025-07-03"
 }
