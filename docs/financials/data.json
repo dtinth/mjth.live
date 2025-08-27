@@ -3,9 +3,9 @@
     "year2025": {
       "year": 2025,
       "in": {
+        "dtinth": 2109.43,
         "ทีเด็ด69 -": 1696.96,
         "Thomas no mic": 1500,
-        "dtinth": 1024,
         "oatato": 1000,
         "ดิษฐ์ คีย์บอร์ดแมน": 1000,
         "หงส์แดงผู้อหังกา": 888.88,
@@ -15,17 +15,18 @@
         "Bank Interest": 25.9
       },
       "out": {
-        "Z cloud": 4173,
-        "Ruk-Com Cloud": 2889,
-        "ReadyIDC": 802.5,
+        "Z cloud": 5136,
+        "Ruk-Com Cloud": 3959,
+        "ReadyIDC": 1123.5,
+        "AWS": 1085.43,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
-      "totalIn": 8035.74,
-      "totalOut": 8630.8,
+      "totalIn": 9121.17,
+      "totalOut": 12070.23,
       "startingBalance": 3992.69,
-      "endingBalance": 3397.63
+      "endingBalance": 1043.63
     },
     "year2024": {
       "year": 2024,
@@ -132,5 +133,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-07-03"
+  "lastUpdated": "2025-08-27"
 }
