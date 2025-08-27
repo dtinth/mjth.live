@@ -2,7 +2,13 @@
     <div class="grid">
         <div v-for="(server, index) of list" :key="index" class="grid-item">
             <div>
-                <h2>{{ server.name }}</h2>
+                <h2>
+                    <template v-if="isMjth(server)">
+                        <img :src="mjthIcon" width="20" height="16" style="display: inline-block" />
+                        <span v-html="' '"></span>
+                    </template>
+                    {{ server.name }}
+                </h2>
                 <p class="server-genre">{{ server.genre }}</p>
             </div>
             <div class="server-musicians" v-if="server.musicians.length > 0">
@@ -34,8 +40,9 @@
 <script setup lang="ts">
 import { useStore } from '@nanostores/vue';
 import { ref } from 'vue';
+import mjthIcon from '../public/mjth-ico.svg?url';
 import Musician from './Musician.vue';
-import { $list } from './serverList';
+import { $list, Server } from './serverList';
 const list = useStore($list)
 const copied = ref('')
 
@@ -45,6 +52,10 @@ async function copyToClipboard(text: string) {
     setTimeout(() => {
         copied.value = '';
     }, 1000);
+}
+
+function isMjth(server: Server) {
+    return server.listenUrl?.includes('.mjth.live')
 }
 </script>
 

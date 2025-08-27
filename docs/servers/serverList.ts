@@ -1,7 +1,7 @@
 import { atom, onMount } from "nanostores";
 import { getInstrumentImageUrl } from "./instruments";
 
-interface Server {
+export interface Server {
   count: number;
   listenUrl?: string;
   port: number;

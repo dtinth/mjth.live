@@ -1,30 +1,30 @@
 # สนับสนุน
 
-[MJTH.live](/about/) คือเซิร์ฟเวอร์ [Jamulus](/jamulus/) ที่เปิดให้ทุกคนเล่นดนตรีร่วมกันแบบออนไลน์ได้ฟรี คุณสามารถร่วมสนับสนุนค่าใช้จ่ายในการโฮสต์เซิร์ฟเวอร์ได้
+[MJTH.live](/about/) คือเซิร์ฟเวอร์ [Jamulus](/jamulus/) ที่เปิดให้ทุกคนเล่นดนตรีร่วมกันแบบออนไลน์ได้ฟรี
 
-- [ดูรายชื่อผู้สนับสนุน](#รายชื่อผู้สนับสนุน)
-- [ร่วมสนับสนุนค่าใช้จ่าย](#ร่วมสนับสนุน)
-- [ดูสรุปรายรับรายจ่ายรายปี](#สรุปรายรับรายจ่ายรายปี)
+เซิร์ฟเวอร์ของ MJTH อาศัยการสนับสนุนจากชุมชนในการแบ่งเบาภาระ[ค่าใช้จ่าย](#สรุปรายรับรายจ่ายรายปี)ในการเช่าเซิฟเวอร์และดูแลรักษาระบบ ซึ่งอยู่ที่ประมาณ 60 บาทต่อวัน (หรือราว 1,800 บาทต่อเดือน)
+
+<p>
+  <VPButton size="big" tag="a" href="https://forms.gle/ue7EB2Hp9pAgXHEx6" target="_blank" rel="noopener noreferrer" text="คลิกที่นี่เพื่อร่วมสนับสนุน" style="text-decoration:none"></VPButton>
+</p>
 
 ## รายชื่อผู้สนับสนุน
 
-ขอบคุณผู้สนับสนุนทุกท่านที่มีส่วนร่วมในการแบ่งเบาภาระ[ค่าใช้จ่ายด้านการโฮสต์เซิร์ฟเวอร์](/financials/) ทำให้ชุมชนดนตรีออนไลน์แห่งนี้สามารถเติบโตและมอบเสียงเพลงให้กับทุกคนได้อย่างต่อเนื่อง:
+ขอบคุณผู้สนับสนุนทุกท่านที่มีส่วนร่วมในการแบ่งเบาภาระ[ค่าใช้จ่ายด้านการโฮสต์เซิร์ฟเวอร์](#สรุปรายรับรายจ่ายรายปี) ทำให้ชุมชนดนตรีออนไลน์แห่งนี้สามารถเติบโตและมอบเสียงเพลงให้กับทุกคนได้อย่างต่อเนื่อง:
 
-<p class="supporter-list">
+<ul class="supporter-list">
   <template v-for="(item, index) in list" :key="index">
-    <span 
+    <li 
       class="supporter-name tooltip-container" 
       tabindex="0"
     >
       {{ item.name }}<span class="tooltip" v-if="item.rawAmount > 0">฿{{ item.amount }}</span>
-    </span><template v-if="index < list.length - 1">, </template>
+    </li>
   </template>
-</p>
-
-## ร่วมสนับสนุน
+</ul>
 
 <p>
-  <VPButton size="big" tag="a" href="https://forms.gle/ue7EB2Hp9pAgXHEx6" target="_blank" rel="noopener noreferrer" text="คลิกที่นี่เพื่อร่วมสนับสนุน" style="text-decoration:none"></VPButton>
+  <VPButton size="big" theme="alt" tag="a" href="https://forms.gle/ue7EB2Hp9pAgXHEx6" target="_blank" rel="noopener noreferrer" text="คลิกที่นี่เพื่อร่วมสนับสนุน" style="text-decoration:none"></VPButton>
 </p>
 
 ## สรุปรายรับรายจ่ายรายปี
@@ -90,11 +90,24 @@
 
 <style scoped>
   .supporter-list {
-    line-height: 1.6;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 0;
+    list-style: none;
+    align-items: center;
   }
   .supporter-name {
     position: relative;
     cursor: pointer;
+    display: block;
+    background: var(--vp-c-gray-soft);
+    border: 1px solid var(--vp-c-gray-2);
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+  li.supporter-name {
+    margin: 0;
   }
   .tooltip-container:hover .tooltip,
   .tooltip-container:focus .tooltip {
