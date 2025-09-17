@@ -13,10 +13,11 @@
         "Anonymous supporters": 500,
         "Ordinary Man": 300,
         "Unknown supporters": 100,
+        "Noobita": 100,
         "Bank Interest": 25.9
       },
       "out": {
-        "Z cloud": 5136,
+        "Z cloud": 5457,
         "Ruk-Com Cloud": 3959,
         "ReadyIDC": 1123.5,
         "AWS": 1085.43,
@@ -24,10 +25,10 @@
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
-      "totalIn": 9811.17,
-      "totalOut": 12070.23,
+      "totalIn": 9911.17,
+      "totalOut": 12391.23,
       "startingBalance": 3992.69,
-      "endingBalance": 1733.63
+      "endingBalance": 1512.63
     },
     "year2024": {
       "year": 2024,
@@ -134,5 +135,5 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-08-27"
+  "lastUpdated": "2025-09-12"
 }
