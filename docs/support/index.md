@@ -4,6 +4,27 @@
 
 เซิร์ฟเวอร์ของ MJTH อาศัยการสนับสนุนจากชุมชนในการแบ่งเบาภาระ[ค่าใช้จ่าย](#สรุปรายรับรายจ่ายรายปี)ในการเช่าเซิฟเวอร์และดูแลรักษาระบบ ซึ่งอยู่ที่ประมาณ 60 บาทต่อวัน (หรือราว 1,800 บาทต่อเดือน)
 
+## สถานะปัจจุบัน
+
+<div class="current-status">
+  <div class="status-item">
+    <div class="status-label">เงินคงเหลือปัจจุบัน</div>
+    <div class="status-value">฿{{ currentBalance?.toLocaleString('th-TH', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) || '…' }}</div> 
+  </div>
+  <div class="status-item">
+    <div class="status-label">ค่าใช้จ่ายต่อวัน</div>
+    <div class="status-value">฿{{ data.currentStatus.runningCostPerDay }}</div>
+  </div>
+  <div class="status-item">
+    <div class="status-label">คงเหลือถึง</div>
+    <div class="status-value">{{ data.currentStatus.depletionDate }}</div>
+  </div>
+  <div class="status-item">
+    <div class="status-label">เหลืออีก</div>
+    <div class="status-value">{{ daysLeft || '…' }} วัน</div>
+  </div>
+</div>
+
 <p>
   <VPButton size="big" tag="a" href="https://forms.gle/ue7EB2Hp9pAgXHEx6" target="_blank" rel="noopener noreferrer" text="คลิกที่นี่เพื่อร่วมสนับสนุน" style="text-decoration:none"></VPButton>
 </p>
@@ -68,6 +89,7 @@
   import data from './../financials/data.json'
   import {shouldCountAsSupporter} from './../financials/accounts'
   import BalanceTable from '../financials/BalanceTable.vue'
+  import { ref, onMounted } from 'vue'
 
   const totals = {}
 
@@ -86,6 +108,37 @@
     .sort((a, b) => b[1] - a[1])
     .filter(a => shouldCountAsSupporter(a[0]))
     .map(([name, amount]) => ({ name, amount: thb(amount), rawAmount: amount }))
+
+  const daysLeft = ref<number | null>(null)
+  const currentBalance = ref<number | null>(null)
+
+  function calculateCurrentBalance() {
+    const lastUpdated = new Date(data.lastUpdated)
+    const now = new Date()
+    const hoursSinceUpdate = (now.getTime() - lastUpdated.getTime()) / (1000 * 60 * 60)
+    const dailyCost = data.currentStatus.runningCostPerDay
+    const costSinceUpdate = (hoursSinceUpdate / 24) * dailyCost
+    currentBalance.value = Math.max(0, data.currentStatus.remainingBalance - costSinceUpdate)
+  }
+
+  function calculateDaysLeft() {
+    const depletionDate = new Date(data.currentStatus.depletionDate)
+    const today = new Date()
+    const diffTime = depletionDate.getTime() - today.getTime()
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24))
+    daysLeft.value = diffDays
+  }
+
+  onMounted(() => {
+    calculateCurrentBalance()
+    calculateDaysLeft()
+    
+    // Update every 5 seconds
+    setInterval(() => {
+      calculateCurrentBalance()
+      calculateDaysLeft()
+    }, 1000)
+  })
 </script>
 
 <style scoped>
@@ -139,5 +192,43 @@
     border-width: 5px;
     border-style: solid;
     border-color: rgba(0, 0, 0, 0.9) transparent transparent transparent;
+  }
+</style>
+
+<style scoped>
+  .current-status {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+    margin: 2rem 0;
+    padding: 1rem;
+    background: var(--vp-c-bg-soft);
+    border: 1px solid var(--vp-c-border);
+    border-radius: 8px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .status-item {
+    text-align: center;
+  }
+
+  .status-label {
+    font-size: 0.9em;
+    color: var(--vp-c-text-2);
+    margin-bottom: 0.25rem;
+    font-weight: 500;
+  }
+
+  .status-value {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: var(--vp-c-text-1);
+  }
+
+  @media (max-width: 640px) {
+    .current-status {
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
   }
 </style>

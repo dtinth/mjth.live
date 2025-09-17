@@ -135,5 +135,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-09-12"
+  "lastUpdated": "2025-09-12",
+  "currentStatus": {
+    "remainingBalance": 1512.63,
+    "runningCostPerDay": 60,
+    "depletionDate": "2025-10-12"
+  }
 }
