@@ -17,7 +17,7 @@
   </div>
   <div class="status-item">
     <div class="status-label">คงเหลือถึง</div>
-    <div class="status-value">{{ data.currentStatus.depletionDate }}</div>
+    <div class="status-value">{{ formatThaiDate(data.currentStatus.depletionDate) }}</div>
   </div>
   <div class="status-item">
     <div class="status-label">เหลืออีก</div>
@@ -101,6 +101,14 @@
 
   function thb(x: number) {
     return x.toLocaleString('th-TH', { style: 'currency', currency: 'THB' }).replace('฿', '');
+  }
+
+  function formatThaiDate(dateString: string) {
+    const date = new Date(dateString)
+    const day = date.getDate().toString().padStart(2, '0')
+    const month = (date.getMonth() + 1).toString().padStart(2, '0')
+    const year = date.getFullYear()
+    return `${day}/${month}/${year}`
   }
 
   const list = Object.entries(totals)
