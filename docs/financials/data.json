@@ -14,21 +14,22 @@
         "Ordinary Man": 300,
         "Unknown supporters": 100,
         "Noobita": 100,
+        "ลุงดิว ฟิวส์แหน": 100,
         "Bank Interest": 25.9
       },
       "out": {
         "Z cloud": 5457,
         "Ruk-Com Cloud": 3959,
-        "ReadyIDC": 1123.5,
+        "ReadyIDC": 1284,
         "AWS": 1085.43,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
-      "totalIn": 10911.17,
-      "totalOut": 12391.23,
+      "totalIn": 11011.17,
+      "totalOut": 12551.73,
       "startingBalance": 3992.69,
-      "endingBalance": 2512.63
+      "endingBalance": 2452.13
     },
     "year2024": {
       "year": 2024,
@@ -137,8 +138,8 @@
   },
   "lastUpdated": "2025-09-19",
   "currentStatus": {
-    "remainingBalance": 2512.63,
+    "remainingBalance": 2452.13,
     "runningCostPerDay": 60,
-    "depletionDate": "2025-10-31"
+    "depletionDate": "2025-10-30"
   }
 }
