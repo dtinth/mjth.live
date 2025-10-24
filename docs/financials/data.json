@@ -17,21 +17,22 @@
         "Unknown supporters": 100,
         "Noobita": 100,
         "ลุงดิว ฟิวส์แหน": 100,
+        "Rawiporn (TikTok)": 100,
         "Bank Interest": 25.9
       },
       "out": {
-        "Z cloud": 5457,
-        "Ruk-Com Cloud": 3959,
+        "Z cloud": 5778,
+        "Ruk-Com Cloud": 5029,
         "ReadyIDC": 1284,
         "AWS": 1085.43,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
-      "totalIn": 13011.17,
-      "totalOut": 12551.73,
+      "totalIn": 13111.17,
+      "totalOut": 13942.73,
       "startingBalance": 3992.69,
-      "endingBalance": 4452.13
+      "endingBalance": 3161.13
     },
     "year2024": {
       "year": 2024,
@@ -138,10 +139,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-09-20",
+  "lastUpdated": "2025-10-23",
   "currentStatus": {
-    "remainingBalance": 4452.13,
+    "remainingBalance": 3161.13,
     "runningCostPerDay": 60,
-    "depletionDate": "2026-01-06"
+    "depletionDate": "2025-12-16"
   }
 }
