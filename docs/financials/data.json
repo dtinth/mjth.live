@@ -14,6 +14,7 @@
         "Kukkong": 690,
         "Anonymous supporters": 500,
         "Ordinary Man": 300,
+        "Anant": 200,
         "Unknown supporters": 100,
         "Noobita": 100,
         "ลุงดิว ฟิวส์แหน": 100,
@@ -23,16 +24,16 @@
       "out": {
         "Z cloud": 5778,
         "Ruk-Com Cloud": 5029,
-        "ReadyIDC": 1284,
+        "ReadyIDC": 1444.5,
         "AWS": 1085.43,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
-      "totalIn": 13111.17,
-      "totalOut": 13942.73,
+      "totalIn": 13311.17,
+      "totalOut": 14103.23,
       "startingBalance": 3992.69,
-      "endingBalance": 3161.13
+      "endingBalance": 3200.63
     },
     "year2024": {
       "year": 2024,
@@ -139,10 +140,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-10-23",
+  "lastUpdated": "2025-10-24",
   "currentStatus": {
-    "remainingBalance": 3161.13,
+    "remainingBalance": 3200.63,
     "runningCostPerDay": 60,
-    "depletionDate": "2025-12-16"
+    "depletionDate": "2025-12-17"
   }
 }
