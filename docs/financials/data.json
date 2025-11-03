@@ -13,6 +13,7 @@
         "หงส์แดงผู้อหังกา": 888.88,
         "Kukkong": 690,
         "Anonymous supporters": 500,
+        "Pp": 500,
         "Ordinary Man": 300,
         "Anant": 200,
         "Unknown supporters": 100,
@@ -22,18 +23,18 @@
         "Bank Interest": 25.9
       },
       "out": {
-        "Z cloud": 5778,
+        "Z cloud": 6099,
         "Ruk-Com Cloud": 5029,
         "ReadyIDC": 1444.5,
-        "AWS": 1085.43,
+        "AWS": 1328.9,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Huawei Cloud": 135
       },
-      "totalIn": 13311.17,
-      "totalOut": 14103.23,
+      "totalIn": 13811.17,
+      "totalOut": 14667.7,
       "startingBalance": 3992.69,
-      "endingBalance": 3200.63
+      "endingBalance": 3136.16
     },
     "year2024": {
       "year": 2024,
@@ -140,10 +141,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-10-24",
+  "lastUpdated": "2025-11-02",
   "currentStatus": {
-    "remainingBalance": 3200.63,
+    "remainingBalance": 3136.16,
     "runningCostPerDay": 60,
-    "depletionDate": "2025-12-23"
+    "depletionDate": "2025-12-25"
   }
 }
