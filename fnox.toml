@@ -1,0 +1,9 @@
+default_provider = "age-mjth"
+
+[providers.age-mjth]
+type = "age"
+recipients = ["age1aqyd7vvjm2ncz8dfd4htd2xx54zt5k8nnyjuvte8rfp5nr6msgssr5nryp"]
+
+[profiles.party-bucket.secrets]
+JSON_RPC_SECRET= { provider = "age-mjth", value = "YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBHbC95OHo2T2RpdWhWZVdzODJMVkttTFlWTUJpWWo1TFV1OGVvRk5Hd0NBCklPTU9yY2JBYWZMZE1GWlExV0hvY3Ywby9ZT29yY0M4eHVvMVg3bVpPbmsKLS0tIEJBODAzakxIV01RU3ZOazRCbkdlOFErSTI4Vm12RVhpTTUxTG4rT2RJdncKjRjo2MsdwrMYOGDie3ifYo2YuD7EGQY3hr7znRNiD+kwZYXI7+PJoWsQxzENWXaCP8rCoPiBsAOesPh+3nM4dUSLteZ5dvKHX2Nk2YaElz+ZtgZT96YsvRg/Q/qeuakv" }
+GATEWAY_API_KEYS= { provider = "age-mjth", value = "YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB0VElpeURLOUhDallkVTJZNlhESSsyOUNzOC9TYSttalNUSXBXV0tyN1NBCnBVOTZPQURHanlnaGZsakZxcHg3TGtiOHZOcEk5TThHeEdSNlNKd2xwNTQKLS0tIHNyVHY2Y2dzMmEzdjh3SXV6enczSWNSZXpMcW5tTXBUcHRRdjBwazBGMkUKcU54C8tueLaIiRcJGluChPeJcm4wvwuVJJzn3VzMrxVnBeZ3JNR+H0o8ZdpSNIU+M7V/GFthy4O1ii5RGbXnXg==" }

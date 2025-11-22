@@ -1,0 +1,6 @@
+{$DOMAIN} {
+  handle_path /gateway/* {
+    reverse_proxy http://gateway:63127
+  }
+  reverse_proxy http://lounge:9998
+}
