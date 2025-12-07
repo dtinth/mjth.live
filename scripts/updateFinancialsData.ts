@@ -43,6 +43,7 @@ const rows = (await grist.fetchTable("Transactions")).flatMap((row) => {
   console.warn("Unknown transaction:", row);
   return [];
 });
+rows.sort((a, b) => a.date.localeCompare(b.date));
 const output: [year: string, data: YearData][] = [];
 interface YearData {}
 
