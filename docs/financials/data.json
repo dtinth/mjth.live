@@ -23,18 +23,19 @@
         "Bank Interest": 25.9
       },
       "out": {
-        "Z cloud": 6099,
-        "Ruk-Com Cloud": 5029,
-        "ReadyIDC": 1444.5,
+        "Z cloud": 7062,
+        "Ruk-Com Cloud": 5564,
+        "ReadyIDC": 1605,
         "AWS": 1328.9,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
+        "Debit Card Fee": 150,
         "Huawei Cloud": 135
       },
       "totalIn": 13811.17,
-      "totalOut": 14667.7,
+      "totalOut": 16476.2,
       "startingBalance": 3992.69,
-      "endingBalance": 3136.16
+      "endingBalance": 1327.66
     },
     "year2024": {
       "year": 2024,
@@ -141,10 +142,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-11-02",
+  "lastUpdated": "2025-09-27",
   "currentStatus": {
-    "remainingBalance": 3136.16,
+    "remainingBalance": 1327.66,
     "runningCostPerDay": 60,
-    "depletionDate": "2026-01-26"
+    "depletionDate": "2025-12-29"
   }
 }
