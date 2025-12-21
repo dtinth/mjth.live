@@ -13,7 +13,7 @@ import JamulusServerList from './JamulusServerList.vue'
 
 # Jamulus Servers in Thailand
 
-รายชื่อเซิฟเวอร์ Jamulus ในประเทศไทย
+รายชื่อเซิร์ฟเวอร์ Jamulus ในประเทศไทย
 
 </div>
 

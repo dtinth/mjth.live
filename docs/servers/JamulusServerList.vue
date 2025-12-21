@@ -15,7 +15,7 @@
                 <Musician v-for="(musician, index) of server.musicians" :key="index" :musician="musician" />
             </div>
             <div v-else>
-                <p class="empty-servers"><em>ไม่มีคนในเซิฟเวอร์ขณะนี้</em></p>
+                <p class="empty-servers"><em>ไม่มีคนในเซิร์ฟเวอร์ขณะนี้</em></p>
             </div>
             <div class="buttons">
                 <a :href="server.listenUrl" target="_blank" rel="noopener noreferrer" class="btn btn-green"
