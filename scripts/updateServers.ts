@@ -28,12 +28,13 @@ const servers = (await grist.fetchTable("Servers")) as {
 const activeServers = servers.filter((server) => server.Status === "active");
 
 // Generate markdown table
-let markdownContent = "| สาขา | ผู้ให้บริการคลาวด์ | จำนวนคนสูงสุด |\n";
-markdownContent += "|---|---|---:|\n";
+let markdownContent =
+  "| สาขา | ผู้ให้บริการคลาวด์ | จำนวนคนสูงสุด | จำนวนผู้ใช้งาน |\n";
+markdownContent += "|---|---|---:|---:|\n";
 
 for (const server of activeServers) {
   const serverLink = `[${server.Name}](${server.ListenURL})`;
-  markdownContent += `| ${serverLink} | ${server.Provider} | ${server.MaxParticipants} |\n`;
+  markdownContent += `| ${serverLink} | ${server.Provider} | ${server.MaxParticipants} | <MjthServerItem address="${server.ListenURL}" /> |\n`;
 }
 
 writeFileSync("includes/servers.md", markdownContent);

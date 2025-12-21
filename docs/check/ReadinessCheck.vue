@@ -209,7 +209,7 @@ const guidance = computed((): GuidanceItem[] => {
     } else if (answers.internet === 'Wi-Fi') {
       items.push({
         level: 'warning',
-        html: '<iconify-icon icon="mdi:alert-circle" inline></iconify-icon> สามารถใช้ได้ — แต่ระหว่างเล่นอาจเจอสัญญาณรบกวนที่ทำให้เสียงกระตุกหรือแตกหัก (Jitter) สามารถเปลี่ยนไปใช้สาย LAN เพื่อลดอาการกระตุก',
+        html: '<iconify-icon icon="mdi:alert-circle" inline></iconify-icon> สามารถใช้ได้ — แต่ระหว่างเล่นอาจเจอสัญญาณรบกวนที่ทำให้เสียงกระตุกหรือแตกหัก (Jitter) — สามารถเปลี่ยนไปใช้สาย LAN เพื่อลดอาการกระตุก หรือถ้าคอมพิวเตอร์ของคุณห่างจากเราเตอร์เกินไปจนไม่สามารถต่อสาย LAN ได้ อาจลองหา Wi-Fi Range Extender ที่มีหลายๆ เสา แล้วเสียบสาย LAN จากคอมพิวเตอร์เข้ากับอุปกรณ์นั้นแทน',
         section: 'internet',
       })
     } else if (answers.internet === '4G / 5G') {
