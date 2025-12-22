@@ -64,7 +64,7 @@ export interface JamulusExplorerClient {
 
 async function fetchDataPoints(info: InformationFile): Promise<DataPoint[]> {
   const fetchKey = (key: string) =>
-    fetch(`https://jamulus-archive.ap-south-1.linodeobjects.com/${key}`).then(
+    fetch(`https://jamulus-archive.mjth.live/${key}`).then(
       (r) => r.json() as Promise<DataPoint[]>
     );
   const promises = [
@@ -93,7 +93,7 @@ async function refresh() {
     .catch(() => ({}));
 
   const info = await fetch(
-    "https://jamulus-archive.ap-south-1.linodeobjects.com/main/latest.json?t" +
+    "https://jamulus-archive.mjth.live/main/latest.json?t" +
       Math.floor(Date.now() / 60e3)
   ).then((r) => r.json() as Promise<InformationFile>);
 
