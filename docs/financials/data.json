@@ -3,7 +3,7 @@
     "year2025": {
       "year": 2025,
       "in": {
-        "dtinth": 2109.43,
+        "dtinth": 2365.43,
         "oxtxto": 2000,
         "ทีเด็ด69 -": 1696.96,
         "Thomas no mic": 1500,
@@ -20,22 +20,22 @@
         "Noobita": 100,
         "ลุงดิว ฟิวส์แหน": 100,
         "Rawiporn (TikTok)": 100,
-        "Bank Interest": 25.9
+        "Bank Interest": 44.29
       },
       "out": {
-        "Z cloud": 7062,
+        "Z cloud": 7704,
         "Ruk-Com Cloud": 5564,
-        "ReadyIDC": 1605,
+        "ReadyIDC": 1765.5,
         "AWS": 1328.9,
         "Nipa Cloud": 321,
         "hostatom": 310.3,
         "Debit Card Fee": 150,
         "Huawei Cloud": 135
       },
-      "totalIn": 13811.17,
-      "totalOut": 16476.2,
+      "totalIn": 14085.56,
+      "totalOut": 17278.7,
       "startingBalance": 3992.69,
-      "endingBalance": 1327.66
+      "endingBalance": 799.55
     },
     "year2024": {
       "year": 2024,
@@ -142,10 +142,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2025-12-07",
+  "lastUpdated": "2025-12-30",
   "currentStatus": {
-    "remainingBalance": 1327.66,
+    "remainingBalance": 799.55,
     "runningCostPerDay": 60,
-    "depletionDate": "2026-01-10"
+    "depletionDate": "2026-01-12"
   }
 }
