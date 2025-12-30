@@ -91,7 +91,11 @@ for (let year = 2021; year <= new Date().getFullYear(); year++) {
 }
 
 const runningCostPerDay = 60;
-const lastEntryDate = new Date(rows[rows.length - 1].date);
+const lastEntryDateString =
+  rows.length > 0
+    ? rows[rows.length - 1].date
+    : new Date().toISOString().slice(0, 10);
+const lastEntryDate = new Date(lastEntryDateString);
 const currentStatus = {
   remainingBalance: balance,
   runningCostPerDay,
@@ -105,7 +109,7 @@ const currentStatus = {
 
 const outData = {
   byYear: Object.fromEntries(output.reverse()),
-  lastUpdated: rows[rows.length - 1].date,
+  lastUpdated: lastEntryDateString,
   currentStatus,
 };
 writeFileSync("docs/financials/data.json", JSON.stringify(outData, null, 2));
