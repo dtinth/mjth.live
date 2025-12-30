@@ -91,11 +91,13 @@ for (let year = 2021; year <= new Date().getFullYear(); year++) {
 }
 
 const runningCostPerDay = 60;
+const lastEntryDate = new Date(rows[rows.length - 1].date);
 const currentStatus = {
   remainingBalance: balance,
   runningCostPerDay,
   depletionDate: new Date(
-    Date.now() + (balance / runningCostPerDay) * 24 * 60 * 60 * 1000
+    lastEntryDate.getTime() +
+      (balance / runningCostPerDay) * 24 * 60 * 60 * 1000
   )
     .toISOString()
     .slice(0, 10),
