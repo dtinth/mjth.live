@@ -10,16 +10,19 @@
   - ตั้งชื่อว่า “No Name” หรือไม่มีชื่อ หรือชื่อลงท้ายด้วยคำว่า “BRB”, “AFK”
   - ใช้งาน Jamulus เกิน 16 ชั่วโมงภายในวันเดียวกัน จะไม่นับชั่วโมงในวันนั้น
 - สีที่แสดงใต้ชื่อ แทนเวลาที่ใช้ในเซิร์ฟเวอร์ต่างๆ
-  - <span class="color-block" style="background: var(--vp-c-indigo-3)"></span> เซิร์ฟเวอร์ของ MJTH.live
-  - <span class="color-block" style="background: var(--vp-c-green-3)"></span> เซิร์ฟเวอร์ของ JamulusTH.com
-  - <span class="color-block" style="background: var(--vp-c-red-3)"></span> เซิร์ฟเวอร์ของ Dharma Room
-  - <span class="color-block" style="background: var(--vp-c-yellow-3)"></span> เซิร์ฟเวอร์อื่นๆ
+  - <span class="color-block" style="background: var(--server-mjth)"></span> [เซิร์ฟเวอร์ของ MJTH](/about/)
+  - <span class="color-block" style="background: var(--server-jamulusth)"></span> เซิร์ฟเวอร์ของ JamulusTH.com
+  - <span class="color-block" style="background: var(--server-dharma)"></span> เซิร์ฟเวอร์ของ Dharma Room
+  - <span class="color-block" style="background: var(--server-openjam)"></span> เซิร์ฟเวอร์ของ OpenJam.TH
+  - <span class="color-block" style="background: var(--server-thomas)"></span> เซิร์ฟเวอร์ Thomas playground
+  - <span class="color-block" style="background: var(--server-unknown)"></span> เซิร์ฟเวอร์อื่นๆ
 
 :::
 
 <script setup lang="ts">
   import data from './activeUsers.json'
   import MonthlyTable from './MonthlyTable.vue'
+  import YearlySections from './YearlySections.vue'
 </script>
 
 ## สถิติรายเดือน

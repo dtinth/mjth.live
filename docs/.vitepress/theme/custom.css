@@ -1,17 +1,25 @@
 :root {
-    --vp-c-brand-1: #03B3DC;
-    --vp-c-brand-2: #03B3DC;
-    --vp-nav-logo-height: 36px;
-  }
-  
-  .container-padding {
-    padding: 0 24px;
+  --vp-c-brand-1: #03b3dc;
+  --vp-c-brand-2: #03b3dc;
+  --vp-nav-logo-height: 36px;
+
+  --server-unknown: #bd8a00; /* hue 86 */
+  --server-mjth: #00a5d2; /* hue 222 */
+  --server-jamulusth: #4aac4f; /* hue 144 */
+  --server-dharma: #f04e4e; /* hue 24 */
+  --server-openjam: #a07be8; /* hue 297 */
+  --server-thomas: #5d8ff5; /* hue 263 */
 }
-  @media (min-width: 640px) {
-    .container-padding {
-        padding: 0 48px;
-    }}
-  @media (min-width: 960px) {
-    .container-padding {
-        padding: 0 64px;
-    }}
+.container-padding {
+  padding: 0 24px;
+}
+@media (min-width: 640px) {
+  .container-padding {
+    padding: 0 48px;
+  }
+}
+@media (min-width: 960px) {
+  .container-padding {
+    padding: 0 64px;
+  }
+}

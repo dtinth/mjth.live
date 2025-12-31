@@ -45,7 +45,9 @@ const serverCategories = {
     "🎵JamulusTH [Studio]",
     "🎵JamulusTH [Play]",
   ],
-  dharma: ["- Dharma Room"],
+  dharma: ["- Dharma Room", " - Drama Room TH"],
+  openjam: ["OpenJam.TH", "OpenJam.TH [mini]"],
+  thomas: ["Thomas playground"],
 };
 type ServerCategory = keyof typeof serverCategories;
 const serverToCategory = new Map<string, ServerCategory>(

@@ -36,19 +36,10 @@ export interface ServerStat {
 </script>
 
 <style scoped>
-.server-bar {
-  background: var(--vp-c-yellow-3);
-}
-
-.server-bar[data-category="mjth"] {
-  background: var(--vp-c-indigo-3);
-}
-
-.server-bar[data-category="jamulusth"] {
-  background: var(--vp-c-green-3);
-}
-
-.server-bar[data-category="dharma"] {
-  background: var(--vp-c-red-3);
-}
+.server-bar { background: var(--server-unknown); }
+.server-bar[data-category="mjth"] { background: var(--server-mjth); }
+.server-bar[data-category="jamulusth"] { background: var(--server-jamulusth); }
+.server-bar[data-category="dharma"] { background: var(--server-dharma); }
+.server-bar[data-category="openjam"] { background: var(--server-openjam); }
+.server-bar[data-category="thomas"] { background: var(--server-thomas); }
 </style>
