@@ -36,9 +36,11 @@ jobs:
           GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}
           GRIST_DOC_URL: ${{ secrets.GRIST_DOC_URL }}
       - run: pnpm tsx scripts/updateFaq.ts
+        continue-on-error: true
         env:
           GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}}
       - run: pnpm tsx scripts/updateServers.ts
+        continue-on-error: true
         env:
           GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}}
       - name: Show the diff
