@@ -2,6 +2,8 @@ services:
   jamulus:
     image: dtinth/jamulus:main
     restart: unless-stopped
+    volumes:
+      - recordings:/var/local/jamulus/recordings
     environment:
       - TZ=Asia/Bangkok
       - JSON_RPC_SECRET=${JSON_RPC_SECRET:?"JSON_RPC_SECRET missing"}
@@ -23,7 +25,9 @@ services:
   gateway:
     image: ghcr.io/dtinth/jamulus-json-rpc-api-gateway:main
     restart: unless-stopped
-    cpus: 0.1
+    cpus: 0.05
+    mem_limit: 32m
+    memswap_limit: 64m
     environment:
       - JAMULUS_HOST=jamulus
       - JAMULUS_PORT=22222
@@ -38,6 +42,8 @@ services:
     command: gojamclient -name lobby -server jamulus:22124 -apiserver 0.0.0.0:9999 -mp3 -vad
     restart: always
     cpus: 0.5
+    mem_limit: 64m
+    memswap_limit: 128m
     logging:
       driver: "json-file"
       options:
@@ -47,6 +53,8 @@ services:
     image: ghcr.io/dtinth/jamulus-lounge:main
     restart: unless-stopped
     cpus: 0.1
+    mem_limit: 64m
+    memswap_limit: 128m
     init: true
     environment:
       - GOJAM_API_PORT=9999
@@ -63,7 +71,9 @@ services:
     image: ghcr.io/dtinth/jamulus-lounge:main
     restart: unless-stopped
     init: true
-    cpus: 0.1
+    cpus: 0.05
+    mem_limit: 64m
+    memswap_limit: 128m
     command: node clipper.mjs
     environment:
       - GOJAM_API_PORT=9999
@@ -72,6 +82,9 @@ services:
       - LOUNGE_ADMIN_PORT=9996
       - LOUNGE_CLIPPER_PORT=9997
       - LISTEN_HOST=0.0.0.0
+      - CLIPPER_UPLOAD_URL=${UPLOAD_ENDPOINT_URL:?UPLOAD_ENDPOINT_URL missing}
+      - CLIPPER_UPLOAD_KEY=${UPLOAD_ENDPOINT_KEY:?UPLOAD_ENDPOINT_KEY missing}
+      - CLIPPER_UPLOAD_NAMESPACE=mjth-${MJTH_SERVER_ID:?MJTH_SERVER_ID missing}
     logging:
       driver: "json-file"
       options:
@@ -82,6 +95,8 @@ services:
       context: ./caddy
     restart: unless-stopped
     cpus: 0.1
+    mem_limit: 32m
+    memswap_limit: 64m
     environment:
       - DOMAIN=${DOMAIN:?"DOMAIN missing"}
     ports:
@@ -90,6 +105,38 @@ services:
     volumes:
       - caddy_data:/data
       - caddy_config:/config
+  recman:
+    image: ghcr.io/dtinth/mjth-recman:main
+    cpus: 0.5
+    restart: unless-stopped
+    environment:
+      - API_GATEWAY_API_KEY=${GATEWAY_API_KEYS}
+      - GOJAM_API_HOST=gojam
+      - GOJAM_API_PORT=9999
+      - API_GATEWAY_HOST=gateway
+      - API_GATEWAY_PORT=63127
+      - UPLOAD_ENDPOINT_URL
+      - UPLOAD_ENDPOINT_KEY
+    volumes:
+      - recordings:/var/local/jamulus/recordings
+  beszel-agent:
+    image: henrygd/beszel-agent
+    restart: unless-stopped
+    network_mode: host
+    cpus: 0.1
+    mem_limit: 16m
+    memswap_limit: 32m
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - beszel_agent_data:/var/lib/beszel-agent
+    environment:
+      - LISTEN=45876
+      - KEY=${BESZEL_KEY:?BESZEL_KEY missing}
+      - TOKEN=${BESZEL_TOKEN:?BESZEL_TOKEN missing}
+      - HUB_URL=${BESZEL_HUB_URL:?BESZEL_HUB_URL missing}
+
 volumes:
   caddy_data:
   caddy_config:
+  beszel_agent_data:
+  recordings:

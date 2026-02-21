@@ -30,6 +30,35 @@ This page describes how our Jamulus servers are set up. They are running on Debi
 [r2]: https://www.cloudflare.com/developer-platform/products/r2/
 [n8n]: https://n8n.io/
 
+## Onboarding a new server using new tool
+
+1. Install Docker:
+
+   ```sh
+   # In VPS
+   curl -fsSL https://get.docker.com | sh
+   ```
+
+2. Define the server configuration in `deployConfigs` in `setup/deploy.ts`.
+
+3. Set up Docker context:
+
+   ```sh
+   docker context create mjth-<codename> --docker "host=ssh://<user>@<host>"
+   ```
+
+4. Onboard some secrets:
+
+   ```sh
+   ./setup/onboard-secrets.sh <codename>
+   ```
+
+5. Deploy the server:
+
+   ```sh
+   node setup/deploy.ts <codename>
+   ```
+
 ## Set up Jamulus
 
 ```sh
