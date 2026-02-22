@@ -6,12 +6,12 @@ import { z } from "zod";
 const env = Env(
   z.object({
     GRIST_API_KEY: z.string(),
-  })
+  }),
 );
 
 const grist = new GristDocAPI(
   "https://mjth.getgrist.com/o939NKtzq7Da/MJTH-Website-Data",
-  { apiKey: env.GRIST_API_KEY }
+  { apiKey: env.GRIST_API_KEY },
 );
 
 const servers = (await grist.fetchTable("Servers")) as {
@@ -25,7 +25,9 @@ const servers = (await grist.fetchTable("Servers")) as {
 }[];
 
 // Filter for active servers only
-const activeServers = servers.filter((server) => server.Status === "active");
+const activeServers = servers.filter(
+  (server) => server.Status === "active" || server.Status === "testing",
+);
 
 // Generate markdown table
 let markdownContent =
