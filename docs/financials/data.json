@@ -4,6 +4,7 @@
       "year": 2026,
       "in": {
         "MJTH Band (TikTok)": 5000,
+        "TT LIVE มีน,ก้อง,ทีเจ,โอ๊ต": 1000,
         "Unknown supporters": 600,
         "Mist Music": 500
       },
@@ -11,10 +12,10 @@
         "Ruk-Com Cloud": 1819,
         "Alibaba Cloud": 890.32
       },
-      "totalIn": 6100,
+      "totalIn": 7100,
       "totalOut": 2709.32,
       "startingBalance": 799.55,
-      "endingBalance": 4190.23
+      "endingBalance": 5190.23
     },
     "year2025": {
       "year": 2025,
@@ -158,10 +159,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2026-02-17",
+  "lastUpdated": "2026-02-22",
   "currentStatus": {
-    "remainingBalance": 4190.23,
+    "remainingBalance": 5190.23,
     "runningCostPerDay": 60,
-    "depletionDate": "2026-04-27"
+    "depletionDate": "2026-05-19"
   }
 }
