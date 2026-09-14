@@ -14,15 +14,15 @@
         "Bank Interest": 31.43
       },
       "out": {
-        "Ruk-Com Cloud": 2889,
+        "Alibaba Cloud": 4138.13,
+        "Ruk-Com Cloud": 3424,
         "Inspace Cloud": 1070,
-        "AWS": 1064.17,
-        "Alibaba Cloud": 890.32
+        "AWS": 1064.17
       },
       "totalIn": 13331.43,
-      "totalOut": 5913.49,
+      "totalOut": 9696.3,
       "startingBalance": 799.55,
-      "endingBalance": 8217.49
+      "endingBalance": 4434.68
     },
     "year2025": {
       "year": 2025,
@@ -165,10 +165,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2026-09-14",
+  "lastUpdated": "2026-09-15",
   "currentStatus": {
-    "remainingBalance": 8217.49,
+    "remainingBalance": 4434.68,
     "runningCostPerDay": 60,
-    "depletionDate": "2027-01-28"
+    "depletionDate": "2026-11-27"
   }
 }
