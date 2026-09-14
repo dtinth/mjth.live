@@ -50,15 +50,21 @@
 
 ## สรุปรายรับรายจ่ายรายปี
 
-### ปี 2025 <Badge type="info" :text="'อัพเดทล่าสุดเมื่อ ' + data.lastUpdated" />
+### ปี 2026 <Badge type="info" :text="'อัพเดทล่าสุดเมื่อ ' + data.lastUpdated" />
 
-::: info 2025
+::: info 2026
 
-<BalanceTable :data="data.byYear.year2025" />
+<BalanceTable :data="data.byYear.year2026" />
 
 :::
 
 ### ปีก่อนๆ
+
+::: details 2025
+
+<BalanceTable :data="data.byYear.year2025" />
+
+:::
 
 ::: details 2024
 
