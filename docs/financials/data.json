@@ -4,19 +4,25 @@
       "year": 2026,
       "in": {
         "MJTH Band (TikTok)": 5000,
+        "Unknown supporters": 2100,
         "Nongtar": 2000,
         "มีนเองที่ยิ้มหวานๆ": 1500,
-        "Unknown supporters": 600,
-        "Mist Music": 500
+        "oxtxto": 1000,
+        "กร": 1000,
+        "Mist Music": 500,
+        "Eaid": 200,
+        "Bank Interest": 31.43
       },
       "out": {
-        "Ruk-Com Cloud": 1819,
+        "Ruk-Com Cloud": 2889,
+        "Inspace Cloud": 1070,
+        "AWS": 1064.17,
         "Alibaba Cloud": 890.32
       },
-      "totalIn": 9600,
-      "totalOut": 2709.32,
+      "totalIn": 13331.43,
+      "totalOut": 5913.49,
       "startingBalance": 799.55,
-      "endingBalance": 7690.23
+      "endingBalance": 8217.49
     },
     "year2025": {
       "year": 2025,
@@ -159,10 +165,10 @@
       "endingBalance": 3843.9
     }
   },
-  "lastUpdated": "2026-04-11",
+  "lastUpdated": "2026-09-14",
   "currentStatus": {
-    "remainingBalance": 7690.23,
+    "remainingBalance": 8217.49,
     "runningCostPerDay": 60,
-    "depletionDate": "2026-08-17"
+    "depletionDate": "2027-01-28"
   }
 }
