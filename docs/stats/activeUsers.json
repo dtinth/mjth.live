@@ -2,15 +2,221 @@
   "byYearMonth": [
     {
       "year": 2026,
+      "month": 11,
+      "byName": [
+        {
+          "name": "Auto",
+          "hoursSeen": 1.5333333333333332,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 1.5333333333333332
+            }
+          ]
+        },
+        {
+          "name": "กันจอห์น",
+          "hoursSeen": 1.5,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 1.5
+            }
+          ]
+        },
+        {
+          "name": "phone",
+          "hoursSeen": 1.2,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 1.2
+            }
+          ]
+        },
+        {
+          "name": "กร",
+          "hoursSeen": 1.2,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 1.2
+            }
+          ]
+        },
+        {
+          "name": "TJ",
+          "hoursSeen": 1.0333333333333332,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 1.0333333333333332
+            }
+          ]
+        },
+        {
+          "name": "Lemondrop",
+          "hoursSeen": 0.8333333333333334,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.8333333333333334
+            }
+          ]
+        },
+        {
+          "name": "แมวเป้า G",
+          "hoursSeen": 0.8,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.8
+            }
+          ]
+        },
+        {
+          "name": "MouMos",
+          "hoursSeen": 0.5666666666666667,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.5666666666666667
+            }
+          ]
+        },
+        {
+          "name": "แมววัด",
+          "hoursSeen": 0.43333333333333335,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.43333333333333335
+            }
+          ]
+        },
+        {
+          "name": "BBE",
+          "hoursSeen": 0.4333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.4333333333333333
+            }
+          ]
+        },
+        {
+          "name": "Him",
+          "hoursSeen": 0.36666666666666664,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.36666666666666664
+            }
+          ]
+        },
+        {
+          "name": "ZP",
+          "hoursSeen": 0.23333333333333334,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.23333333333333334
+            }
+          ]
+        },
+        {
+          "name": "EPD",
+          "hoursSeen": 0.1,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.1
+            }
+          ]
+        },
+        {
+          "name": "แมวจร",
+          "hoursSeen": 0.1,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.1
+            }
+          ]
+        },
+        {
+          "name": "แ",
+          "hoursSeen": 0.06666666666666667,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.06666666666666667
+            }
+          ]
+        },
+        {
+          "name": "แฟนมือกีต้าร์",
+          "hoursSeen": 0.03333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.03333333333333333
+            }
+          ]
+        },
+        {
+          "name": "lobby [0]",
+          "hoursSeen": 0.03333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.03333333333333333
+            }
+          ]
+        },
+        {
+          "name": "BANK",
+          "hoursSeen": 0.03333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.03333333333333333
+            }
+          ]
+        },
+        {
+          "name": "Neo",
+          "hoursSeen": 0.03333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.03333333333333333
+            }
+          ]
+        },
+        {
+          "name": "pui",
+          "hoursSeen": 0.03333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.03333333333333333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2026,
       "month": 10,
       "byName": [
         {
           "name": "กร",
-          "hoursSeen": 16.912554112554112,
+          "hoursSeen": 18.01255411255411,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 16.912554112554112
+              "hoursSeen": 18.01255411255411
             }
           ]
         },
@@ -26,31 +232,31 @@
         },
         {
           "name": "TJ",
-          "hoursSeen": 6.233333333333333,
+          "hoursSeen": 6.6,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 6.233333333333333
-            }
-          ]
-        },
-        {
-          "name": "AEKFOTO",
-          "hoursSeen": 5.941379310344828,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 5.941379310344828
+              "hoursSeen": 6.6
             }
           ]
         },
         {
           "name": "Best",
-          "hoursSeen": 5.9,
+          "hoursSeen": 6.2333333333333325,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.9
+              "hoursSeen": 6.2333333333333325
+            }
+          ]
+        },
+        {
+          "name": "AEKFOTO",
+          "hoursSeen": 5.941379310344827,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 5.941379310344827
             }
           ]
         },
@@ -76,21 +282,21 @@
         },
         {
           "name": "Toon'",
-          "hoursSeen": 5.033333333333334,
+          "hoursSeen": 5.033333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.033333333333334
+              "hoursSeen": 5.033333333333333
             }
           ]
         },
         {
           "name": "ปุย",
-          "hoursSeen": 4.866666666666666,
+          "hoursSeen": 4.866666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.866666666666666
+              "hoursSeen": 4.866666666666667
             }
           ]
         },
@@ -115,7 +321,7 @@
           ]
         },
         {
-          "name": "Him",
+          "name": "พบลาบไม่ทราบชื่อ",
           "hoursSeen": 4,
           "servers": [
             {
@@ -125,7 +331,7 @@
           ]
         },
         {
-          "name": "พบลาบไม่ทราบชื่อ",
+          "name": "Him",
           "hoursSeen": 4,
           "servers": [
             {
@@ -146,31 +352,51 @@
         },
         {
           "name": "Bank",
-          "hoursSeen": 3.85952380952381,
+          "hoursSeen": 3.859523809523809,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.85952380952381
+              "hoursSeen": 3.859523809523809
+            }
+          ]
+        },
+        {
+          "name": "Eaid",
+          "hoursSeen": 3.7,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 3.7
             }
           ]
         },
         {
           "name": "หาปิ๊กอยู่",
-          "hoursSeen": 3.533333333333333,
+          "hoursSeen": 3.6,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.533333333333333
+              "hoursSeen": 3.6
             }
           ]
         },
         {
           "name": "T",
-          "hoursSeen": 3.5071428571428567,
+          "hoursSeen": 3.507142857142857,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.5071428571428567
+              "hoursSeen": 3.507142857142857
+            }
+          ]
+        },
+        {
+          "name": "Goody",
+          "hoursSeen": 3.3619047619047624,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 3.3619047619047624
             }
           ]
         },
@@ -181,26 +407,6 @@
             {
               "category": "mjth",
               "hoursSeen": 3.3000000000000003
-            }
-          ]
-        },
-        {
-          "name": "ไหนๆๆๆๆๆๆๆๆๆๆๆๆ",
-          "hoursSeen": 2.9,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 2.9
-            }
-          ]
-        },
-        {
-          "name": "Fullsgap",
-          "hoursSeen": 2.8666666666666667,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 2.8666666666666667
             }
           ]
         }
@@ -232,11 +438,11 @@
         },
         {
           "name": "Ongza",
-          "hoursSeen": 20.6,
+          "hoursSeen": 20.600000000000005,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.6
+              "hoursSeen": 20.600000000000005
             }
           ]
         },
@@ -252,11 +458,11 @@
         },
         {
           "name": "Eaid",
-          "hoursSeen": 12.500000000000002,
+          "hoursSeen": 12.5,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.500000000000002
+              "hoursSeen": 12.5
             }
           ]
         },
@@ -292,21 +498,21 @@
         },
         {
           "name": "🅳🆁.🅱🅴🅽🆉🅴",
-          "hoursSeen": 9.296774193548385,
+          "hoursSeen": 9.296774193548387,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.296774193548385
+              "hoursSeen": 9.296774193548387
             }
           ]
         },
         {
           "name": "กร",
-          "hoursSeen": 8.899999999999999,
+          "hoursSeen": 8.9,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 8.899999999999999
+              "hoursSeen": 8.9
             }
           ]
         },
@@ -322,11 +528,11 @@
         },
         {
           "name": "B",
-          "hoursSeen": 7.266666666666667,
+          "hoursSeen": 7.266666666666668,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.266666666666667
+              "hoursSeen": 7.266666666666668
             }
           ]
         },
@@ -342,11 +548,11 @@
         },
         {
           "name": "A'Cheer",
-          "hoursSeen": 6.866666666666666,
+          "hoursSeen": 6.866666666666665,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 6.866666666666666
+              "hoursSeen": 6.866666666666665
             }
           ]
         },
@@ -372,11 +578,11 @@
         },
         {
           "name": "Tommy5ทุ่มตรง",
-          "hoursSeen": 5.165591397849462,
+          "hoursSeen": 5.165591397849463,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.165591397849462
+              "hoursSeen": 5.165591397849463
             }
           ]
         },
@@ -418,11 +624,11 @@
       "byName": [
         {
           "name": "กร",
-          "hoursSeen": 48.28636363636363,
+          "hoursSeen": 48.28636363636364,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 48.28636363636363
+              "hoursSeen": 48.28636363636364
             }
           ]
         },
@@ -468,11 +674,11 @@
         },
         {
           "name": "มาร์ค",
-          "hoursSeen": 11.633333333333335,
+          "hoursSeen": 11.633333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.633333333333335
+              "hoursSeen": 11.633333333333333
             }
           ]
         },
@@ -508,21 +714,21 @@
         },
         {
           "name": "STREAM",
-          "hoursSeen": 7.633333333333335,
+          "hoursSeen": 7.633333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.633333333333335
+              "hoursSeen": 7.633333333333333
             }
           ]
         },
         {
           "name": "Mulan",
-          "hoursSeen": 7.533333333333333,
+          "hoursSeen": 7.533333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.533333333333333
+              "hoursSeen": 7.533333333333334
             }
           ]
         },
@@ -548,11 +754,11 @@
         },
         {
           "name": "Vam",
-          "hoursSeen": 7.0666666666666655,
+          "hoursSeen": 7.066666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.0666666666666655
+              "hoursSeen": 7.066666666666666
             }
           ]
         },
@@ -568,11 +774,11 @@
         },
         {
           "name": "RiwlickHarMony",
-          "hoursSeen": 6.833333333333334,
+          "hoursSeen": 6.833333333333332,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 6.833333333333334
+              "hoursSeen": 6.833333333333332
             }
           ]
         },
@@ -634,21 +840,21 @@
         },
         {
           "name": "3455",
-          "hoursSeen": 8.766666666666666,
+          "hoursSeen": 8.766666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 8.766666666666666
+              "hoursSeen": 8.766666666666667
             }
           ]
         },
         {
           "name": "Nongtar",
-          "hoursSeen": 7.93768115942029,
+          "hoursSeen": 7.937681159420291,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.93768115942029
+              "hoursSeen": 7.937681159420291
             }
           ]
         },
@@ -724,11 +930,11 @@
         },
         {
           "name": "ooo",
-          "hoursSeen": 4.166666666666666,
+          "hoursSeen": 4.166666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.166666666666666
+              "hoursSeen": 4.166666666666667
             }
           ]
         },
@@ -744,11 +950,11 @@
         },
         {
           "name": "sisi",
-          "hoursSeen": 4.066666666666666,
+          "hoursSeen": 4.066666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.066666666666666
+              "hoursSeen": 4.066666666666667
             }
           ]
         },
@@ -764,11 +970,11 @@
         },
         {
           "name": "𝙋𝙐𝙄",
-          "hoursSeen": 3.8550724637681157,
+          "hoursSeen": 3.855072463768116,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.8550724637681157
+              "hoursSeen": 3.855072463768116
             }
           ]
         },
@@ -830,11 +1036,11 @@
       "byName": [
         {
           "name": "Cao Cao",
-          "hoursSeen": 2.1999999999999997,
+          "hoursSeen": 2.2,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 2.1999999999999997
+              "hoursSeen": 2.2
             }
           ]
         },
@@ -929,7 +1135,7 @@
           ]
         },
         {
-          "name": "Blerr!!  KFC!!",
+          "name": "AEKFOTO",
           "hoursSeen": 0.4666666666666667,
           "servers": [
             {
@@ -939,7 +1145,7 @@
           ]
         },
         {
-          "name": "AEKFOTO",
+          "name": "Blerr!!  KFC!!",
           "hoursSeen": 0.4666666666666667,
           "servers": [
             {
@@ -980,36 +1186,26 @@
         },
         {
           "name": "Poo",
-          "hoursSeen": 0.39999999999999997,
+          "hoursSeen": 0.4,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 0.39999999999999997
+              "hoursSeen": 0.4
             }
           ]
         },
         {
           "name": "Skew",
-          "hoursSeen": 0.36666666666666664,
+          "hoursSeen": 0.3666666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 0.36666666666666664
+              "hoursSeen": 0.3666666666666667
             }
           ]
         },
         {
           "name": "dew",
-          "hoursSeen": 0.3333333333333333,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 0.3333333333333333
-            }
-          ]
-        },
-        {
-          "name": "mute",
           "hoursSeen": 0.3333333333333333,
           "servers": [
             {
@@ -1027,6 +1223,16 @@
               "hoursSeen": 0.3333333333333333
             }
           ]
+        },
+        {
+          "name": "3455",
+          "hoursSeen": 0.3333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.3333333333333333
+            }
+          ]
         }
       ]
     },
@@ -1036,21 +1242,21 @@
       "byName": [
         {
           "name": "TSP",
-          "hoursSeen": 2.266666666666666,
+          "hoursSeen": 2.266666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 2.266666666666666
+              "hoursSeen": 2.266666666666667
             }
           ]
         },
         {
           "name": "TJ",
-          "hoursSeen": 1.7333333333333334,
+          "hoursSeen": 1.7333333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 1.7333333333333334
+              "hoursSeen": 1.7333333333333336
             }
           ]
         },
@@ -1075,7 +1281,7 @@
           ]
         },
         {
-          "name": "kong",
+          "name": "AUNG AUNG",
           "hoursSeen": 1.1,
           "servers": [
             {
@@ -1085,12 +1291,12 @@
           ]
         },
         {
-          "name": "AUNG AUNG",
-          "hoursSeen": 1.1,
+          "name": "kong",
+          "hoursSeen": 1.0999999999999999,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 1.1
+              "hoursSeen": 1.0999999999999999
             }
           ]
         },
@@ -1106,21 +1312,21 @@
         },
         {
           "name": "Cao Cao",
-          "hoursSeen": 0.9666666666666667,
+          "hoursSeen": 0.9666666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 0.9666666666666667
+              "hoursSeen": 0.9666666666666666
             }
           ]
         },
         {
           "name": "💎Dr.Pui💎彡★💎★彡",
-          "hoursSeen": 0.8999999999999999,
+          "hoursSeen": 0.9,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 0.8999999999999999
+              "hoursSeen": 0.9
             }
           ]
         },
@@ -1136,11 +1342,21 @@
         },
         {
           "name": "💎Dr.Pig💎彡★💎★彡",
-          "hoursSeen": 0.8333333333333334,
+          "hoursSeen": 0.8333333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 0.8333333333333334
+              "hoursSeen": 0.8333333333333333
+            }
+          ]
+        },
+        {
+          "name": "No NameL",
+          "hoursSeen": 0.8,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.8
             }
           ]
         },
@@ -1156,16 +1372,6 @@
         },
         {
           "name": "Qiew",
-          "hoursSeen": 0.7999999999999999,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 0.7999999999999999
-            }
-          ]
-        },
-        {
-          "name": "No NameL",
           "hoursSeen": 0.7999999999999999,
           "servers": [
             {
@@ -1215,7 +1421,7 @@
           ]
         },
         {
-          "name": "Confringo",
+          "name": "Goody",
           "hoursSeen": 0.5333333333333333,
           "servers": [
             {
@@ -1225,7 +1431,7 @@
           ]
         },
         {
-          "name": "Goody",
+          "name": "Confringo",
           "hoursSeen": 0.5333333333333333,
           "servers": [
             {
@@ -1242,41 +1448,41 @@
       "byName": [
         {
           "name": "💎Dr.Win💎彡★💎★彡",
-          "hoursSeen": 3.565591397849462,
+          "hoursSeen": 3.5655913978494627,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.565591397849462
+              "hoursSeen": 3.5655913978494627
             }
           ]
         },
         {
           "name": "Mute Me Please!!",
-          "hoursSeen": 3.427956989247312,
+          "hoursSeen": 3.4279569892473116,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.427956989247312
+              "hoursSeen": 3.4279569892473116
             }
           ]
         },
         {
           "name": "Last Air Bender",
-          "hoursSeen": 2.3000000000000003,
+          "hoursSeen": 2.3,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 2.3000000000000003
+              "hoursSeen": 2.3
             }
           ]
         },
         {
           "name": "TJ",
-          "hoursSeen": 1.833333333333333,
+          "hoursSeen": 1.8333333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 1.833333333333333
+              "hoursSeen": 1.8333333333333333
             }
           ]
         },
@@ -1292,11 +1498,11 @@
         },
         {
           "name": "Tezz",
-          "hoursSeen": 1.6,
+          "hoursSeen": 1.6000000000000003,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 1.6
+              "hoursSeen": 1.6000000000000003
             }
           ]
         },
@@ -1331,7 +1537,7 @@
           ]
         },
         {
-          "name": "the first sonata",
+          "name": "AV Miyabi",
           "hoursSeen": 1.0666666666666667,
           "servers": [
             {
@@ -1341,7 +1547,7 @@
           ]
         },
         {
-          "name": "AV Miyabi",
+          "name": "the first sonata",
           "hoursSeen": 1.0666666666666667,
           "servers": [
             {
@@ -1361,16 +1567,6 @@
           ]
         },
         {
-          "name": "AV      Jirayuth",
-          "hoursSeen": 0.9666666666666666,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 0.9666666666666666
-            }
-          ]
-        },
-        {
           "name": "AEKFOTO",
           "hoursSeen": 0.9666666666666666,
           "servers": [
@@ -1381,17 +1577,27 @@
           ]
         },
         {
-          "name": "Coolsla",
-          "hoursSeen": 0.9333333333333335,
+          "name": "AV      Jirayuth",
+          "hoursSeen": 0.9666666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 0.9333333333333335
+              "hoursSeen": 0.9666666666666666
             }
           ]
         },
         {
           "name": "Anant",
+          "hoursSeen": 0.9333333333333333,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 0.9333333333333333
+            }
+          ]
+        },
+        {
+          "name": "Coolsla",
           "hoursSeen": 0.9333333333333332,
           "servers": [
             {
@@ -1422,11 +1628,11 @@
         },
         {
           "name": "047470",
-          "hoursSeen": 0.7333333333333334,
+          "hoursSeen": 0.7333333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 0.7333333333333334
+              "hoursSeen": 0.7333333333333333
             }
           ]
         },
@@ -1488,31 +1694,31 @@
         },
         {
           "name": "copy guitar blue",
-          "hoursSeen": 8.100000000000001,
+          "hoursSeen": 8.1,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 8.100000000000001
+              "hoursSeen": 8.1
             }
           ]
         },
         {
           "name": "first note",
-          "hoursSeen": 8.063636363636363,
+          "hoursSeen": 8.063636363636364,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 8.063636363636363
+              "hoursSeen": 8.063636363636364
             }
           ]
         },
         {
           "name": "Faker   💎",
-          "hoursSeen": 6.2,
+          "hoursSeen": 6.199999999999999,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 6.2
+              "hoursSeen": 6.199999999999999
             }
           ]
         },
@@ -1558,21 +1764,21 @@
         },
         {
           "name": "💎มะเต๋ากุงกิง💎",
-          "hoursSeen": 4.9,
+          "hoursSeen": 4.8999999999999995,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.9
+              "hoursSeen": 4.8999999999999995
             }
           ]
         },
         {
           "name": "jessada",
-          "hoursSeen": 4.6,
+          "hoursSeen": 4.6000000000000005,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.6
+              "hoursSeen": 4.6000000000000005
             }
           ]
         },
@@ -1598,11 +1804,11 @@
         },
         {
           "name": "Benze",
-          "hoursSeen": 3.7,
+          "hoursSeen": 3.7000000000000006,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.7
+              "hoursSeen": 3.7000000000000006
             }
           ]
         },
@@ -1664,11 +1870,11 @@
         },
         {
           "name": "★彡ᴡɪɴ彡★",
-          "hoursSeen": 29.10350877192983,
+          "hoursSeen": 29.103508771929835,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.10350877192983
+              "hoursSeen": 29.103508771929835
             }
           ]
         },
@@ -1694,31 +1900,31 @@
         },
         {
           "name": "TJ",
-          "hoursSeen": 19.433333333333337,
+          "hoursSeen": 19.43333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 19.433333333333337
+              "hoursSeen": 19.43333333333333
             }
           ]
         },
         {
           "name": "💎Dr.Cat💎彡★💎★彡",
-          "hoursSeen": 17.666666666666668,
+          "hoursSeen": 17.666666666666664,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.666666666666668
+              "hoursSeen": 17.666666666666664
             }
           ]
         },
         {
           "name": "Anant",
-          "hoursSeen": 14.100000000000001,
+          "hoursSeen": 14.1,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 14.100000000000001
+              "hoursSeen": 14.1
             }
           ]
         },
@@ -1734,11 +1940,11 @@
         },
         {
           "name": "Tezz",
-          "hoursSeen": 11.633333333333335,
+          "hoursSeen": 11.633333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.633333333333335
+              "hoursSeen": 11.633333333333333
             }
           ]
         },
@@ -1754,11 +1960,11 @@
         },
         {
           "name": "best",
-          "hoursSeen": 10.333333333333332,
+          "hoursSeen": 10.333333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.333333333333332
+              "hoursSeen": 10.333333333333334
             }
           ]
         },
@@ -1774,11 +1980,11 @@
         },
         {
           "name": "BeLL",
-          "hoursSeen": 9.766666666666667,
+          "hoursSeen": 9.766666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.766666666666667
+              "hoursSeen": 9.766666666666666
             }
           ]
         },
@@ -1870,11 +2076,11 @@
         },
         {
           "name": "★彡ᴡɪɴ彡★",
-          "hoursSeen": 34.170037047076896,
+          "hoursSeen": 34.17003704707689,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 34.170037047076896
+              "hoursSeen": 34.17003704707689
             }
           ]
         },
@@ -1900,41 +2106,41 @@
         },
         {
           "name": "Chatchai",
-          "hoursSeen": 26.0781512605042,
+          "hoursSeen": 26.078151260504203,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.0781512605042
+              "hoursSeen": 26.078151260504203
             }
           ]
         },
         {
           "name": "TeTaeBoy",
-          "hoursSeen": 23.978151260504205,
+          "hoursSeen": 23.9781512605042,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.978151260504205
+              "hoursSeen": 23.9781512605042
             }
           ]
         },
         {
           "name": "TJ",
-          "hoursSeen": 23.911773741754768,
+          "hoursSeen": 23.91177374175477,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.911773741754768
+              "hoursSeen": 23.91177374175477
             }
           ]
         },
         {
           "name": "💎Dr.Cat💎💎",
-          "hoursSeen": 22.973118279569892,
+          "hoursSeen": 22.973118279569896,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.973118279569892
+              "hoursSeen": 22.973118279569896
             }
           ]
         },
@@ -1950,11 +2156,11 @@
         },
         {
           "name": "มีนคนธรรมดา",
-          "hoursSeen": 17.282642089093702,
+          "hoursSeen": 17.282642089093706,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.282642089093702
+              "hoursSeen": 17.282642089093706
             }
           ]
         },
@@ -1970,11 +2176,11 @@
         },
         {
           "name": "กูคือNo.1💎",
-          "hoursSeen": 15.657142857142857,
+          "hoursSeen": 15.657142857142855,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.657142857142857
+              "hoursSeen": 15.657142857142855
             }
           ]
         },
@@ -2010,21 +2216,21 @@
         },
         {
           "name": "Apo",
-          "hoursSeen": 13.600000000000001,
+          "hoursSeen": 13.6,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 13.600000000000001
+              "hoursSeen": 13.6
             }
           ]
         },
         {
           "name": "Ong",
-          "hoursSeen": 13.400000000000002,
+          "hoursSeen": 13.4,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 13.400000000000002
+              "hoursSeen": 13.4
             }
           ]
         },
@@ -2066,31 +2272,31 @@
       "byName": [
         {
           "name": "p",
-          "hoursSeen": 55.65268817204302,
+          "hoursSeen": 55.652688172043014,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 55.65268817204302
+              "hoursSeen": 55.652688172043014
             }
           ]
         },
         {
           "name": "Quest",
-          "hoursSeen": 53.6,
+          "hoursSeen": 53.599999999999994,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 53.6
+              "hoursSeen": 53.599999999999994
             }
           ]
         },
         {
           "name": "★彡ᴡɪɴ彡★",
-          "hoursSeen": 43.88602150537634,
+          "hoursSeen": 43.88602150537635,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 43.88602150537634
+              "hoursSeen": 43.88602150537635
             }
           ]
         },
@@ -2116,31 +2322,31 @@
         },
         {
           "name": "Skew",
-          "hoursSeen": 35.232258064516124,
+          "hoursSeen": 35.23225806451613,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 35.232258064516124
+              "hoursSeen": 35.23225806451613
             }
           ]
         },
         {
           "name": "Dit",
-          "hoursSeen": 34.29208211143694,
+          "hoursSeen": 34.29208211143695,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 34.29208211143694
+              "hoursSeen": 34.29208211143695
             }
           ]
         },
         {
           "name": "TSP",
-          "hoursSeen": 31.777284946236556,
+          "hoursSeen": 31.77728494623656,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.777284946236556
+              "hoursSeen": 31.77728494623656
             }
           ]
         },
@@ -2186,11 +2392,11 @@
         },
         {
           "name": "oxtxto",
-          "hoursSeen": 26.655913978494624,
+          "hoursSeen": 26.65591397849462,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.655913978494624
+              "hoursSeen": 26.65591397849462
             }
           ]
         },
@@ -2216,11 +2422,11 @@
         },
         {
           "name": "ongreen",
-          "hoursSeen": 25.787096774193547,
+          "hoursSeen": 25.78709677419355,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 25.787096774193547
+              "hoursSeen": 25.78709677419355
             }
           ]
         },
@@ -2236,21 +2442,21 @@
         },
         {
           "name": "AEKFOTO SETUP G",
-          "hoursSeen": 22.429166666666667,
+          "hoursSeen": 22.42916666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.429166666666667
+              "hoursSeen": 22.42916666666667
             }
           ]
         },
         {
           "name": "BeLL",
-          "hoursSeen": 21.487096774193546,
+          "hoursSeen": 21.48709677419355,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 21.487096774193546
+              "hoursSeen": 21.48709677419355
             }
           ]
         },
@@ -2282,11 +2488,11 @@
         },
         {
           "name": "p",
-          "hoursSeen": 70.38387096774194,
+          "hoursSeen": 70.38387096774193,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 70.38387096774194
+              "hoursSeen": 70.38387096774193
             }
           ]
         },
@@ -2322,11 +2528,11 @@
         },
         {
           "name": "TSP",
-          "hoursSeen": 56.900000000000006,
+          "hoursSeen": 56.9,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 56.900000000000006
+              "hoursSeen": 56.9
             }
           ]
         },
@@ -2382,11 +2588,11 @@
         },
         {
           "name": "99",
-          "hoursSeen": 41.9752688172043,
+          "hoursSeen": 41.975268817204295,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 41.9752688172043
+              "hoursSeen": 41.975268817204295
             }
           ]
         },
@@ -2442,11 +2648,11 @@
         },
         {
           "name": "💎ขอปอ💎",
-          "hoursSeen": 28.33333333333333,
+          "hoursSeen": 28.333333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 28.33333333333333
+              "hoursSeen": 28.333333333333336
             }
           ]
         },
@@ -2508,11 +2714,11 @@
         },
         {
           "name": "nongfoxz",
-          "hoursSeen": 37.736223118279575,
+          "hoursSeen": 37.73622311827957,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 37.736223118279575
+              "hoursSeen": 37.73622311827957
             }
           ]
         },
@@ -2528,21 +2734,21 @@
         },
         {
           "name": "xyz",
-          "hoursSeen": 31.554166666666664,
+          "hoursSeen": 31.554166666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.554166666666664
+              "hoursSeen": 31.554166666666667
             }
           ]
         },
         {
           "name": "oxtxto",
-          "hoursSeen": 31.533333333333335,
+          "hoursSeen": 31.53333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.533333333333335
+              "hoursSeen": 31.53333333333333
             }
           ]
         },
@@ -2558,21 +2764,21 @@
         },
         {
           "name": "99",
-          "hoursSeen": 28.56666666666667,
+          "hoursSeen": 28.566666666666663,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 28.56666666666667
+              "hoursSeen": 28.566666666666663
             }
           ]
         },
         {
           "name": "Skew",
-          "hoursSeen": 27.622580645161285,
+          "hoursSeen": 27.622580645161293,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 27.622580645161285
+              "hoursSeen": 27.622580645161293
             }
           ]
         },
@@ -2598,11 +2804,11 @@
         },
         {
           "name": "Intermediate",
-          "hoursSeen": 25.138709677419357,
+          "hoursSeen": 25.138709677419353,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 25.138709677419357
+              "hoursSeen": 25.138709677419353
             }
           ]
         },
@@ -2668,11 +2874,11 @@
         },
         {
           "name": "หงส์แดงผู้อหังกา",
-          "hoursSeen": 22.123655913978492,
+          "hoursSeen": 22.123655913978496,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.123655913978492
+              "hoursSeen": 22.123655913978496
             }
           ]
         }
@@ -2694,11 +2900,11 @@
         },
         {
           "name": "💎มีEgoเลยใชCapo",
-          "hoursSeen": 56.04408602150539,
+          "hoursSeen": 56.044086021505386,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 56.04408602150539
+              "hoursSeen": 56.044086021505386
             }
           ]
         },
@@ -2714,11 +2920,11 @@
         },
         {
           "name": "nongfoxz",
-          "hoursSeen": 41.391397849462365,
+          "hoursSeen": 41.39139784946236,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 41.391397849462365
+              "hoursSeen": 41.39139784946236
             }
           ]
         },
@@ -2744,11 +2950,11 @@
         },
         {
           "name": "TJ",
-          "hoursSeen": 36.151612903225804,
+          "hoursSeen": 36.15161290322581,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 36.151612903225804
+              "hoursSeen": 36.15161290322581
             }
           ]
         },
@@ -2764,11 +2970,11 @@
         },
         {
           "name": "Pp",
-          "hoursSeen": 22.39784946236559,
+          "hoursSeen": 22.397849462365592,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.39784946236559
+              "hoursSeen": 22.397849462365592
             }
           ]
         },
@@ -2814,11 +3020,11 @@
         },
         {
           "name": "ชายรูปงาม",
-          "hoursSeen": 20,
+          "hoursSeen": 20.000000000000004,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20
+              "hoursSeen": 20.000000000000004
             }
           ]
         },
@@ -2844,11 +3050,11 @@
         },
         {
           "name": "Fish!   Player",
-          "hoursSeen": 15.4,
+          "hoursSeen": 15.400000000000002,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.4
+              "hoursSeen": 15.400000000000002
             }
           ]
         },
@@ -2863,7 +3069,7 @@
           ]
         },
         {
-          "name": "ภัทร",
+          "name": "xyz",
           "hoursSeen": 14.700000000000001,
           "servers": [
             {
@@ -2873,12 +3079,12 @@
           ]
         },
         {
-          "name": "xyz",
-          "hoursSeen": 14.700000000000001,
+          "name": "ภัทร",
+          "hoursSeen": 14.7,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 14.700000000000001
+              "hoursSeen": 14.7
             }
           ]
         }
@@ -2920,21 +3126,21 @@
         },
         {
           "name": "oatato",
-          "hoursSeen": 36.26386554621849,
+          "hoursSeen": 36.26386554621848,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 36.26386554621849
+              "hoursSeen": 36.26386554621848
             }
           ]
         },
         {
           "name": "nongfoxz",
-          "hoursSeen": 35.95578747628083,
+          "hoursSeen": 35.95578747628084,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 35.95578747628083
+              "hoursSeen": 35.95578747628084
             }
           ]
         },
@@ -2970,11 +3176,11 @@
         },
         {
           "name": "Pack",
-          "hoursSeen": 26.238095238095237,
+          "hoursSeen": 26.23809523809524,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.238095238095237
+              "hoursSeen": 26.23809523809524
             }
           ]
         },
@@ -3020,21 +3226,21 @@
         },
         {
           "name": "P",
-          "hoursSeen": 20.568627450980394,
+          "hoursSeen": 20.56862745098039,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.568627450980394
+              "hoursSeen": 20.56862745098039
             }
           ]
         },
         {
           "name": "hippo",
-          "hoursSeen": 20.376190476190473,
+          "hoursSeen": 20.376190476190477,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.376190476190473
+              "hoursSeen": 20.376190476190477
             }
           ]
         },
@@ -3050,11 +3256,11 @@
         },
         {
           "name": "AEKFOTO",
-          "hoursSeen": 18.933333333333337,
+          "hoursSeen": 18.933333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 18.933333333333337
+              "hoursSeen": 18.933333333333334
             }
           ]
         },
@@ -3096,31 +3302,31 @@
       "byName": [
         {
           "name": "ขวัญใจรถแห่",
-          "hoursSeen": 83.81290322580648,
+          "hoursSeen": 83.81290322580645,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 83.81290322580648
+              "hoursSeen": 83.81290322580645
             }
           ]
         },
         {
           "name": "ฝีมือPpoEgoปีศาจ",
-          "hoursSeen": 77.76666666666667,
+          "hoursSeen": 77.76666666666665,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 77.76666666666667
+              "hoursSeen": 77.76666666666665
             }
           ]
         },
         {
           "name": "Pack",
-          "hoursSeen": 51.69139784946237,
+          "hoursSeen": 51.69139784946236,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 51.69139784946237
+              "hoursSeen": 51.69139784946236
             }
           ]
         },
@@ -3166,21 +3372,21 @@
         },
         {
           "name": "hippo",
-          "hoursSeen": 41.166666666666664,
+          "hoursSeen": 41.16666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 41.166666666666664
+              "hoursSeen": 41.16666666666666
             }
           ]
         },
         {
           "name": "นุ้งมีนนนนนนนนนน",
-          "hoursSeen": 38.13333333333333,
+          "hoursSeen": 38.13333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 38.13333333333333
+              "hoursSeen": 38.13333333333334
             }
           ]
         },
@@ -3196,11 +3402,11 @@
         },
         {
           "name": "Skew",
-          "hoursSeen": 31.366666666666667,
+          "hoursSeen": 31.36666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.366666666666667
+              "hoursSeen": 31.36666666666667
             }
           ]
         },
@@ -3216,61 +3422,61 @@
         },
         {
           "name": "P",
-          "hoursSeen": 28.07849462365591,
+          "hoursSeen": 28.078494623655914,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 28.07849462365591
+              "hoursSeen": 28.078494623655914
             }
           ]
         },
         {
           "name": "💎มีEgoเลยใชCapo",
-          "hoursSeen": 27.732258064516127,
+          "hoursSeen": 27.732258064516135,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 27.732258064516127
+              "hoursSeen": 27.732258064516135
             }
           ]
         },
         {
           "name": "ฟัคยูพาเพลิน",
-          "hoursSeen": 24.46666666666666,
+          "hoursSeen": 24.46666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 24.46666666666666
+              "hoursSeen": 24.46666666666667
             }
           ]
         },
         {
           "name": "ข้าวปุ้น",
-          "hoursSeen": 24.040860215053762,
+          "hoursSeen": 24.040860215053765,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 24.040860215053762
+              "hoursSeen": 24.040860215053765
             }
           ]
         },
         {
           "name": "โดม     เบนซิน",
-          "hoursSeen": 23.133333333333336,
+          "hoursSeen": 23.133333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.133333333333336
+              "hoursSeen": 23.133333333333333
             }
           ]
         },
         {
           "name": "ภัทร",
-          "hoursSeen": 21.133333333333336,
+          "hoursSeen": 21.133333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 21.133333333333336
+              "hoursSeen": 21.133333333333333
             }
           ]
         },
@@ -3352,11 +3558,11 @@
         },
         {
           "name": "Confringo",
-          "hoursSeen": 35.86666666666666,
+          "hoursSeen": 35.86666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 35.86666666666666
+              "hoursSeen": 35.86666666666667
             }
           ]
         },
@@ -3372,11 +3578,11 @@
         },
         {
           "name": "Skew",
-          "hoursSeen": 33.14731182795699,
+          "hoursSeen": 33.14731182795698,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 33.14731182795699
+              "hoursSeen": 33.14731182795698
             }
           ]
         },
@@ -3412,11 +3618,11 @@
         },
         {
           "name": "Pack",
-          "hoursSeen": 30.012717834631072,
+          "hoursSeen": 30.012717834631076,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 30.012717834631072
+              "hoursSeen": 30.012717834631076
             }
           ]
         },
@@ -3432,11 +3638,11 @@
         },
         {
           "name": "P",
-          "hoursSeen": 27.682758620689658,
+          "hoursSeen": 27.682758620689654,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 27.682758620689658
+              "hoursSeen": 27.682758620689654
             }
           ]
         },
@@ -3588,11 +3794,11 @@
         },
         {
           "name": "TJ",
-          "hoursSeen": 40.96666666666666,
+          "hoursSeen": 40.96666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 40.96666666666666
+              "hoursSeen": 40.96666666666667
             }
           ]
         },
@@ -3618,11 +3824,11 @@
         },
         {
           "name": "xyz",
-          "hoursSeen": 31.133333333333336,
+          "hoursSeen": 31.13333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.133333333333336
+              "hoursSeen": 31.13333333333333
             }
           ]
         },
@@ -3678,11 +3884,11 @@
         },
         {
           "name": "skew",
-          "hoursSeen": 24.333333333333332,
+          "hoursSeen": 24.33333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 24.333333333333332
+              "hoursSeen": 24.33333333333333
             }
           ]
         },
@@ -3698,11 +3904,11 @@
         },
         {
           "name": "Toon",
-          "hoursSeen": 22.333333333333332,
+          "hoursSeen": 22.333333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.333333333333332
+              "hoursSeen": 22.333333333333336
             }
           ]
         }
@@ -3714,11 +3920,11 @@
       "byName": [
         {
           "name": "ฟ่าฟีอกพาเพลิน",
-          "hoursSeen": 186.05385231091574,
+          "hoursSeen": 186.05385231091577,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 186.05385231091574
+              "hoursSeen": 186.05385231091577
             }
           ]
         },
@@ -3734,11 +3940,11 @@
         },
         {
           "name": "ฟ้อกฟ่าพาเพลิน",
-          "hoursSeen": 69.88925194660733,
+          "hoursSeen": 69.88925194660735,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 69.88925194660733
+              "hoursSeen": 69.88925194660735
             }
           ]
         },
@@ -3774,41 +3980,41 @@
         },
         {
           "name": "xyz",
-          "hoursSeen": 31.042876344086025,
+          "hoursSeen": 31.042876344086018,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.042876344086025
+              "hoursSeen": 31.042876344086018
             }
           ]
         },
         {
           "name": "047470",
-          "hoursSeen": 29.35806451612903,
+          "hoursSeen": 29.358064516129033,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.35806451612903
+              "hoursSeen": 29.358064516129033
             }
           ]
         },
         {
           "name": "TJ",
-          "hoursSeen": 20.435497113194554,
+          "hoursSeen": 20.435497113194558,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.435497113194554
+              "hoursSeen": 20.435497113194558
             }
           ]
         },
         {
           "name": "olms",
-          "hoursSeen": 18.941935483870967,
+          "hoursSeen": 18.94193548387097,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 18.941935483870967
+              "hoursSeen": 18.94193548387097
             }
           ]
         },
@@ -3834,21 +4040,21 @@
         },
         {
           "name": "ฟ่าฟ๊อกพาเพลิน",
-          "hoursSeen": 15.42002688172043,
+          "hoursSeen": 15.420026881720432,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.42002688172043
+              "hoursSeen": 15.420026881720432
             }
           ]
         },
         {
           "name": "Mr.Tango",
-          "hoursSeen": 11.533333333333333,
+          "hoursSeen": 11.533333333333331,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.533333333333333
+              "hoursSeen": 11.533333333333331
             }
           ]
         },
@@ -3864,11 +4070,11 @@
         },
         {
           "name": "Influ",
-          "hoursSeen": 11.001270772238515,
+          "hoursSeen": 11.001270772238517,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.001270772238515
+              "hoursSeen": 11.001270772238517
             }
           ]
         },
@@ -3884,11 +4090,11 @@
         },
         {
           "name": "oatato",
-          "hoursSeen": 10.491397849462366,
+          "hoursSeen": 10.491397849462365,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.491397849462366
+              "hoursSeen": 10.491397849462365
             }
           ]
         },
@@ -3930,21 +4136,21 @@
         },
         {
           "name": "ควยปุ้น",
-          "hoursSeen": 19.200000000000003,
+          "hoursSeen": 19.2,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 19.200000000000003
+              "hoursSeen": 19.2
             }
           ]
         },
         {
           "name": "ไอ่ไลท์",
-          "hoursSeen": 14.33763440860215,
+          "hoursSeen": 14.337634408602149,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 14.33763440860215
+              "hoursSeen": 14.337634408602149
             }
           ]
         },
@@ -3960,21 +4166,21 @@
         },
         {
           "name": "Gg",
-          "hoursSeen": 12.431182795698923,
+          "hoursSeen": 12.431182795698925,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.431182795698923
+              "hoursSeen": 12.431182795698925
             }
           ]
         },
         {
           "name": "Dear",
-          "hoursSeen": 8.058064516129031,
+          "hoursSeen": 8.058064516129033,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 8.058064516129031
+              "hoursSeen": 8.058064516129033
             }
           ]
         },
@@ -3990,11 +4196,11 @@
         },
         {
           "name": "คำเบียวบาดใจ",
-          "hoursSeen": 7.46774193548387,
+          "hoursSeen": 7.467741935483871,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.46774193548387
+              "hoursSeen": 7.467741935483871
             }
           ]
         },
@@ -4020,21 +4226,21 @@
         },
         {
           "name": "oatato",
-          "hoursSeen": 5.2333333333333325,
+          "hoursSeen": 5.233333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.2333333333333325
+              "hoursSeen": 5.233333333333333
             }
           ]
         },
         {
           "name": "PP",
-          "hoursSeen": 4.966666666666667,
+          "hoursSeen": 4.966666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.966666666666667
+              "hoursSeen": 4.966666666666666
             }
           ]
         },
@@ -4049,7 +4255,7 @@
           ]
         },
         {
-          "name": "moz",
+          "name": "Ordinary Man",
           "hoursSeen": 4.566666666666666,
           "servers": [
             {
@@ -4059,7 +4265,7 @@
           ]
         },
         {
-          "name": "Ordinary Man",
+          "name": "moz",
           "hoursSeen": 4.566666666666666,
           "servers": [
             {
@@ -4136,11 +4342,11 @@
         },
         {
           "name": "Skew",
-          "hoursSeen": 36.39999999999999,
+          "hoursSeen": 36.4,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 36.39999999999999
+              "hoursSeen": 36.4
             }
           ]
         },
@@ -4166,11 +4372,11 @@
         },
         {
           "name": "Quest",
-          "hoursSeen": 16.44516129032258,
+          "hoursSeen": 16.445161290322584,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 16.44516129032258
+              "hoursSeen": 16.445161290322584
             }
           ]
         },
@@ -4196,11 +4402,11 @@
         },
         {
           "name": "wiince",
-          "hoursSeen": 12.274193548387094,
+          "hoursSeen": 12.274193548387096,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.274193548387094
+              "hoursSeen": 12.274193548387096
             }
           ]
         },
@@ -4226,11 +4432,11 @@
         },
         {
           "name": "xyz",
-          "hoursSeen": 10.066666666666666,
+          "hoursSeen": 10.066666666666665,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.066666666666666
+              "hoursSeen": 10.066666666666665
             }
           ]
         },
@@ -4286,11 +4492,11 @@
         },
         {
           "name": "Dennis`",
-          "hoursSeen": 7.2733333333333325,
+          "hoursSeen": 7.273333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.2733333333333325
+              "hoursSeen": 7.273333333333333
             }
           ]
         },
@@ -4342,11 +4548,11 @@
         },
         {
           "name": "Skew",
-          "hoursSeen": 12.599999999999998,
+          "hoursSeen": 12.6,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.599999999999998
+              "hoursSeen": 12.6
             }
           ]
         },
@@ -4362,11 +4568,11 @@
         },
         {
           "name": "Jirayuth_A_",
-          "hoursSeen": 9.733333333333333,
+          "hoursSeen": 9.733333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.733333333333333
+              "hoursSeen": 9.733333333333334
             }
           ]
         },
@@ -4382,21 +4588,21 @@
         },
         {
           "name": "AUNG AUNG",
-          "hoursSeen": 7.333333333333334,
+          "hoursSeen": 7.333333333333332,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.333333333333334
+              "hoursSeen": 7.333333333333332
             }
           ]
         },
         {
           "name": "xyz",
-          "hoursSeen": 6.933333333333333,
+          "hoursSeen": 6.933333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 6.933333333333333
+              "hoursSeen": 6.933333333333334
             }
           ]
         },
@@ -4442,11 +4648,11 @@
         },
         {
           "name": "ongreen",
-          "hoursSeen": 5.466666666666667,
+          "hoursSeen": 5.466666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.466666666666667
+              "hoursSeen": 5.466666666666666
             }
           ]
         },
@@ -4482,21 +4688,21 @@
         },
         {
           "name": "A",
-          "hoursSeen": 4.766666666666666,
+          "hoursSeen": 4.766666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.766666666666666
+              "hoursSeen": 4.766666666666667
             }
           ]
         },
         {
           "name": "wiince",
-          "hoursSeen": 4.4,
+          "hoursSeen": 4.3999999999999995,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.4
+              "hoursSeen": 4.3999999999999995
             }
           ]
         },
@@ -4512,11 +4718,11 @@
         },
         {
           "name": "Toon",
-          "hoursSeen": 4.066666666666667,
+          "hoursSeen": 4.066666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.066666666666667
+              "hoursSeen": 4.066666666666666
             }
           ]
         },
@@ -4538,11 +4744,11 @@
       "byName": [
         {
           "name": "Koong",
-          "hoursSeen": 9.733333333333333,
+          "hoursSeen": 9.733333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.733333333333333
+              "hoursSeen": 9.733333333333334
             }
           ]
         },
@@ -4558,11 +4764,11 @@
         },
         {
           "name": "ANAKIN",
-          "hoursSeen": 9.333333333333334,
+          "hoursSeen": 9.333333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.333333333333334
+              "hoursSeen": 9.333333333333336
             }
           ]
         },
@@ -4638,11 +4844,11 @@
         },
         {
           "name": "A",
-          "hoursSeen": 4.199999999999999,
+          "hoursSeen": 4.2,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.199999999999999
+              "hoursSeen": 4.2
             }
           ]
         },
@@ -4668,11 +4874,11 @@
         },
         {
           "name": "oatato",
-          "hoursSeen": 3.733333333333333,
+          "hoursSeen": 3.7333333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.733333333333333
+              "hoursSeen": 3.7333333333333334
             }
           ]
         },
@@ -4688,11 +4894,11 @@
         },
         {
           "name": "Rew.Strandberg",
-          "hoursSeen": 3.2,
+          "hoursSeen": 3.1999999999999997,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.2
+              "hoursSeen": 3.1999999999999997
             }
           ]
         },
@@ -4744,11 +4950,11 @@
       "byName": [
         {
           "name": "olms",
-          "hoursSeen": 19.63440860215054,
+          "hoursSeen": 19.634408602150536,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 19.63440860215054
+              "hoursSeen": 19.634408602150536
             }
           ]
         },
@@ -4774,11 +4980,11 @@
         },
         {
           "name": "NongFoxz eieiei",
-          "hoursSeen": 14.266666666666666,
+          "hoursSeen": 14.266666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 14.266666666666666
+              "hoursSeen": 14.266666666666667
             }
           ]
         },
@@ -4794,11 +5000,11 @@
         },
         {
           "name": "Gg",
-          "hoursSeen": 12.154022988505744,
+          "hoursSeen": 12.154022988505746,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.154022988505744
+              "hoursSeen": 12.154022988505746
             }
           ]
         },
@@ -4814,21 +5020,21 @@
         },
         {
           "name": "Toon",
-          "hoursSeen": 11.139451242120874,
+          "hoursSeen": 11.139451242120876,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.139451242120874
+              "hoursSeen": 11.139451242120876
             }
           ]
         },
         {
           "name": "_A_",
-          "hoursSeen": 11.133333333333335,
+          "hoursSeen": 11.133333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.133333333333335
+              "hoursSeen": 11.133333333333333
             }
           ]
         },
@@ -4844,11 +5050,11 @@
         },
         {
           "name": "PP",
-          "hoursSeen": 9.200000000000001,
+          "hoursSeen": 9.2,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.200000000000001
+              "hoursSeen": 9.2
             }
           ]
         },
@@ -4884,11 +5090,11 @@
         },
         {
           "name": "dtinth",
-          "hoursSeen": 5.966666666666666,
+          "hoursSeen": 5.966666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.966666666666666
+              "hoursSeen": 5.966666666666667
             }
           ]
         },
@@ -4924,21 +5130,21 @@
         },
         {
           "name": "หลอน",
-          "hoursSeen": 5.133333333333334,
+          "hoursSeen": 5.133333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.133333333333334
+              "hoursSeen": 5.133333333333333
             }
           ]
         },
         {
           "name": "พอเถอะ",
-          "hoursSeen": 5.065591397849462,
+          "hoursSeen": 5.065591397849461,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.065591397849462
+              "hoursSeen": 5.065591397849461
             }
           ]
         }
@@ -4970,11 +5176,11 @@
         },
         {
           "name": "guiter by Drew",
-          "hoursSeen": 13.433333333333334,
+          "hoursSeen": 13.433333333333332,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 13.433333333333334
+              "hoursSeen": 13.433333333333332
             }
           ]
         },
@@ -5020,11 +5226,11 @@
         },
         {
           "name": "dtinth",
-          "hoursSeen": 9.766666666666664,
+          "hoursSeen": 9.766666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.766666666666664
+              "hoursSeen": 9.766666666666666
             }
           ]
         },
@@ -5070,21 +5276,21 @@
         },
         {
           "name": "Nick",
-          "hoursSeen": 7.433333333333334,
+          "hoursSeen": 7.433333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.433333333333334
+              "hoursSeen": 7.433333333333333
             }
           ]
         },
         {
           "name": "Grqpe",
-          "hoursSeen": 7.4,
+          "hoursSeen": 7.400000000000001,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.4
+              "hoursSeen": 7.400000000000001
             }
           ]
         },
@@ -5140,11 +5346,11 @@
         },
         {
           "name": "fieas",
-          "hoursSeen": 5.8,
+          "hoursSeen": 5.799999999999999,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.8
+              "hoursSeen": 5.799999999999999
             }
           ]
         }
@@ -5156,31 +5362,31 @@
       "byName": [
         {
           "name": "Quest229",
-          "hoursSeen": 11.766666666666666,
+          "hoursSeen": 11.766666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.766666666666666
+              "hoursSeen": 11.766666666666667
             }
           ]
         },
         {
           "name": "! ผู้จัดการ•^•",
-          "hoursSeen": 11.033333333333333,
+          "hoursSeen": 11.033333333333331,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.033333333333333
+              "hoursSeen": 11.033333333333331
             }
           ]
         },
         {
           "name": "พอเถอะ",
-          "hoursSeen": 8.333333333333334,
+          "hoursSeen": 8.333333333333332,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 8.333333333333334
+              "hoursSeen": 8.333333333333332
             }
           ]
         },
@@ -5216,11 +5422,11 @@
         },
         {
           "name": "Gg",
-          "hoursSeen": 4.333333333333333,
+          "hoursSeen": 4.333333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 4.333333333333333
+              "hoursSeen": 4.333333333333334
             }
           ]
         },
@@ -5246,21 +5452,21 @@
         },
         {
           "name": "Rin",
-          "hoursSeen": 3.2333333333333334,
+          "hoursSeen": 3.233333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.2333333333333334
+              "hoursSeen": 3.233333333333333
             }
           ]
         },
         {
           "name": "xyz",
-          "hoursSeen": 3.2,
+          "hoursSeen": 3.1999999999999997,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 3.2
+              "hoursSeen": 3.1999999999999997
             }
           ]
         },
@@ -5316,11 +5522,11 @@
         },
         {
           "name": "อ.ไม้ร่ม  ชมแจม",
-          "hoursSeen": 2.933333333333333,
+          "hoursSeen": 2.9333333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 2.933333333333333
+              "hoursSeen": 2.9333333333333336
             }
           ]
         },
@@ -5382,11 +5588,11 @@
         },
         {
           "name": "เครมั๊ย",
-          "hoursSeen": 12.533333333333333,
+          "hoursSeen": 12.533333333333331,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.533333333333333
+              "hoursSeen": 12.533333333333331
             }
           ]
         },
@@ -5472,31 +5678,31 @@
         },
         {
           "name": "AEKFOTO",
-          "hoursSeen": 6.499999999999999,
+          "hoursSeen": 6.5,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 6.499999999999999
+              "hoursSeen": 6.5
             }
           ]
         },
         {
           "name": "PerGer",
-          "hoursSeen": 5.800000000000001,
+          "hoursSeen": 5.8,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.800000000000001
+              "hoursSeen": 5.8
             }
           ]
         },
         {
           "name": "zuzu",
-          "hoursSeen": 5.733333333333333,
+          "hoursSeen": 5.733333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.733333333333333
+              "hoursSeen": 5.733333333333334
             }
           ]
         },
@@ -5512,11 +5718,11 @@
         },
         {
           "name": "•Skew •",
-          "hoursSeen": 5.2333333333333325,
+          "hoursSeen": 5.233333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.2333333333333325
+              "hoursSeen": 5.233333333333333
             }
           ]
         },
@@ -5532,16 +5738,16 @@
         },
         {
           "name": "G3",
-          "hoursSeen": 5.033333333333334,
+          "hoursSeen": 5.033333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 5.033333333333334
+              "hoursSeen": 5.033333333333333
             }
           ]
         },
         {
-          "name": "Quest!?",
+          "name": "NongFox RapThai",
           "hoursSeen": 4.933333333333334,
           "servers": [
             {
@@ -5551,7 +5757,7 @@
           ]
         },
         {
-          "name": "NongFox RapThai",
+          "name": "Quest!?",
           "hoursSeen": 4.933333333333334,
           "servers": [
             {
@@ -5568,11 +5774,11 @@
       "byName": [
         {
           "name": "AEKFOTO",
-          "hoursSeen": 16.34769230769231,
+          "hoursSeen": 16.347692307692306,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 16.34769230769231
+              "hoursSeen": 16.347692307692306
             }
           ]
         },
@@ -5618,11 +5824,11 @@
         },
         {
           "name": "oatato",
-          "hoursSeen": 8.212307692307691,
+          "hoursSeen": 8.212307692307693,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 8.212307692307691
+              "hoursSeen": 8.212307692307693
             }
           ]
         },
@@ -5648,11 +5854,11 @@
         },
         {
           "name": "SCOOZE",
-          "hoursSeen": 7.964615384615384,
+          "hoursSeen": 7.964615384615383,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.964615384615384
+              "hoursSeen": 7.964615384615383
             }
           ]
         },
@@ -5698,11 +5904,11 @@
         },
         {
           "name": "1",
-          "hoursSeen": 7.358461538461539,
+          "hoursSeen": 7.3584615384615395,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 7.358461538461539
+              "hoursSeen": 7.3584615384615395
             }
           ]
         },
@@ -5717,7 +5923,7 @@
           ]
         },
         {
-          "name": "pun pun",
+          "name": "Koong",
           "hoursSeen": 6.838461538461539,
           "servers": [
             {
@@ -5727,7 +5933,7 @@
           ]
         },
         {
-          "name": "Koong",
+          "name": "pun pun",
           "hoursSeen": 6.838461538461539,
           "servers": [
             {
@@ -5774,21 +5980,21 @@
       "byName": [
         {
           "name": "Gg",
-          "hoursSeen": 20.716666666666665,
+          "hoursSeen": 20.71666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.716666666666665
+              "hoursSeen": 20.71666666666667
             }
           ]
         },
         {
           "name": "oatato",
-          "hoursSeen": 20.60102564102564,
+          "hoursSeen": 20.601025641025643,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.60102564102564
+              "hoursSeen": 20.601025641025643
             }
           ]
         },
@@ -5814,21 +6020,21 @@
         },
         {
           "name": "Dit",
-          "hoursSeen": 15.912136752136755,
+          "hoursSeen": 15.912136752136753,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.912136752136755
+              "hoursSeen": 15.912136752136753
             }
           ]
         },
         {
           "name": "พอเถอะ",
-          "hoursSeen": 15.799999999999999,
+          "hoursSeen": 15.8,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.799999999999999
+              "hoursSeen": 15.8
             }
           ]
         },
@@ -5844,11 +6050,11 @@
         },
         {
           "name": "ongreen",
-          "hoursSeen": 12.672136752136753,
+          "hoursSeen": 12.672136752136751,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.672136752136753
+              "hoursSeen": 12.672136752136751
             }
           ]
         },
@@ -5864,11 +6070,11 @@
         },
         {
           "name": "pun pun",
-          "hoursSeen": 12.592136752136751,
+          "hoursSeen": 12.592136752136753,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.592136752136751
+              "hoursSeen": 12.592136752136753
             }
           ]
         },
@@ -5894,21 +6100,21 @@
         },
         {
           "name": "Influ",
-          "hoursSeen": 11.196923076923076,
+          "hoursSeen": 11.19692307692308,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.196923076923076
+              "hoursSeen": 11.19692307692308
             }
           ]
         },
         {
           "name": "MSJ-04T",
-          "hoursSeen": 11.12,
+          "hoursSeen": 11.120000000000001,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.12
+              "hoursSeen": 11.120000000000001
             }
           ]
         },
@@ -5954,21 +6160,21 @@
         },
         {
           "name": "Nongtar",
-          "hoursSeen": 9.72,
+          "hoursSeen": 9.719999999999999,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.72
+              "hoursSeen": 9.719999999999999
             }
           ]
         },
         {
           "name": "AEKFOTO",
-          "hoursSeen": 9.528333333333332,
+          "hoursSeen": 9.528333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.528333333333332
+              "hoursSeen": 9.528333333333336
             }
           ]
         }
@@ -5980,41 +6186,41 @@
       "byName": [
         {
           "name": "Petch.jpx",
-          "hoursSeen": 57.80769230769231,
+          "hoursSeen": 57.807692307692314,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 57.80769230769231
+              "hoursSeen": 57.807692307692314
             }
           ]
         },
         {
           "name": "ยิ้ม",
-          "hoursSeen": 50.814942528735635,
+          "hoursSeen": 50.81494252873564,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 50.814942528735635
+              "hoursSeen": 50.81494252873564
             }
           ]
         },
         {
           "name": "Rin STFU",
-          "hoursSeen": 39.80014778325124,
+          "hoursSeen": 39.800147783251234,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 39.80014778325124
+              "hoursSeen": 39.800147783251234
             }
           ]
         },
         {
           "name": "บุตรเเห่งอัลเลาะ",
-          "hoursSeen": 21.86,
+          "hoursSeen": 21.860000000000003,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 21.86
+              "hoursSeen": 21.860000000000003
             }
           ]
         },
@@ -6030,51 +6236,51 @@
         },
         {
           "name": "oatato",
-          "hoursSeen": 19.080000000000002,
+          "hoursSeen": 19.08,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 19.080000000000002
+              "hoursSeen": 19.08
             }
           ]
         },
         {
           "name": "xyz",
-          "hoursSeen": 15.360000000000001,
+          "hoursSeen": 15.36,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.360000000000001
+              "hoursSeen": 15.36
             }
           ]
         },
         {
           "name": "พอเถอะ",
-          "hoursSeen": 12.713333333333331,
+          "hoursSeen": 12.713333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 12.713333333333331
+              "hoursSeen": 12.713333333333333
             }
           ]
         },
         {
           "name": "Dit",
-          "hoursSeen": 11.666666666666666,
+          "hoursSeen": 11.666666666666668,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.666666666666666
+              "hoursSeen": 11.666666666666668
             }
           ]
         },
         {
           "name": "I na hnung hee",
-          "hoursSeen": 11.333333333333332,
+          "hoursSeen": 11.333333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.333333333333332
+              "hoursSeen": 11.333333333333334
             }
           ]
         },
@@ -6090,11 +6296,11 @@
         },
         {
           "name": "ดอเลาะห์",
-          "hoursSeen": 10.733333333333333,
+          "hoursSeen": 10.733333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.733333333333333
+              "hoursSeen": 10.733333333333334
             }
           ]
         },
@@ -6120,11 +6326,11 @@
         },
         {
           "name": "Toon",
-          "hoursSeen": 10.053333333333333,
+          "hoursSeen": 10.053333333333331,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.053333333333333
+              "hoursSeen": 10.053333333333331
             }
           ]
         },
@@ -6140,21 +6346,21 @@
         },
         {
           "name": "Nongtar",
-          "hoursSeen": 9.391494252873562,
+          "hoursSeen": 9.391494252873564,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.391494252873562
+              "hoursSeen": 9.391494252873564
             }
           ]
         },
         {
           "name": "Skew",
-          "hoursSeen": 9.273333333333332,
+          "hoursSeen": 9.273333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.273333333333332
+              "hoursSeen": 9.273333333333333
             }
           ]
         },
@@ -6170,11 +6376,11 @@
         },
         {
           "name": "CallByTheGrqpe",
-          "hoursSeen": 9.066666666666666,
+          "hoursSeen": 9.066666666666665,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 9.066666666666666
+              "hoursSeen": 9.066666666666665
             }
           ]
         }
@@ -6226,21 +6432,21 @@
         },
         {
           "name": "ข้าวปุ้น",
-          "hoursSeen": 40.441871921182276,
+          "hoursSeen": 40.44187192118227,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 40.441871921182276
+              "hoursSeen": 40.44187192118227
             }
           ]
         },
         {
           "name": "pOly",
-          "hoursSeen": 37.46666666666667,
+          "hoursSeen": 37.46666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 37.46666666666667
+              "hoursSeen": 37.46666666666666
             }
           ]
         },
@@ -6256,51 +6462,51 @@
         },
         {
           "name": "xyz",
-          "hoursSeen": 31.521662245800172,
+          "hoursSeen": 31.521662245800176,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.521662245800172
+              "hoursSeen": 31.521662245800176
             }
           ]
         },
         {
           "name": "Rin STFU",
-          "hoursSeen": 31.1,
+          "hoursSeen": 31.099999999999998,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 31.1
+              "hoursSeen": 31.099999999999998
             }
           ]
         },
         {
           "name": "x.ercise",
-          "hoursSeen": 29.42592592592592,
+          "hoursSeen": 29.425925925925924,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.42592592592592
+              "hoursSeen": 29.425925925925924
             }
           ]
         },
         {
           "name": "047470",
-          "hoursSeen": 28.12375478927203,
+          "hoursSeen": 28.123754789272024,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 28.12375478927203
+              "hoursSeen": 28.123754789272024
             }
           ]
         },
         {
           "name": "Grqpe",
-          "hoursSeen": 24.808045977011496,
+          "hoursSeen": 24.8080459770115,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 24.808045977011496
+              "hoursSeen": 24.8080459770115
             }
           ]
         },
@@ -6316,21 +6522,21 @@
         },
         {
           "name": "CØRN",
-          "hoursSeen": 23.629032258064512,
+          "hoursSeen": 23.629032258064516,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.629032258064512
+              "hoursSeen": 23.629032258064516
             }
           ]
         },
         {
           "name": "LAB",
-          "hoursSeen": 22.812643678160917,
+          "hoursSeen": 22.81264367816092,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.812643678160917
+              "hoursSeen": 22.81264367816092
             }
           ]
         },
@@ -6346,21 +6552,21 @@
         },
         {
           "name": "AEKFOTO",
-          "hoursSeen": 20.54550657516175,
+          "hoursSeen": 20.545506575161745,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.54550657516175
+              "hoursSeen": 20.545506575161745
             }
           ]
         },
         {
           "name": "CallByTheGrqpe",
-          "hoursSeen": 18.133333333333333,
+          "hoursSeen": 18.133333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 18.133333333333333
+              "hoursSeen": 18.133333333333336
             }
           ]
         },
@@ -6402,31 +6608,31 @@
         },
         {
           "name": "AEKFOTO",
-          "hoursSeen": 32.991208791208784,
+          "hoursSeen": 32.99120879120879,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 32.991208791208784
+              "hoursSeen": 32.99120879120879
             }
           ]
         },
         {
           "name": "Ordinary Man",
-          "hoursSeen": 32.49270206166758,
+          "hoursSeen": 32.492702061667586,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 32.49270206166758
+              "hoursSeen": 32.492702061667586
             }
           ]
         },
         {
           "name": "x.ercise",
-          "hoursSeen": 32.056403940886696,
+          "hoursSeen": 32.05640394088671,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 32.056403940886696
+              "hoursSeen": 32.05640394088671
             }
           ]
         },
@@ -6452,11 +6658,11 @@
         },
         {
           "name": "Grqpe",
-          "hoursSeen": 20.771428571428572,
+          "hoursSeen": 20.771428571428576,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.771428571428572
+              "hoursSeen": 20.771428571428576
             }
           ]
         },
@@ -6482,31 +6688,31 @@
         },
         {
           "name": "A",
-          "hoursSeen": 17.414285714285715,
+          "hoursSeen": 17.41428571428572,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.414285714285715
+              "hoursSeen": 17.41428571428572
             }
           ]
         },
         {
           "name": "ดอเลาะห์  ลอมาเย",
-          "hoursSeen": 17.23448275862069,
+          "hoursSeen": 17.234482758620693,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.23448275862069
+              "hoursSeen": 17.234482758620693
             }
           ]
         },
         {
           "name": "Gg",
-          "hoursSeen": 17.140229885057476,
+          "hoursSeen": 17.140229885057472,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.140229885057476
+              "hoursSeen": 17.140229885057472
             }
           ]
         },
@@ -6532,11 +6738,11 @@
         },
         {
           "name": "Koong",
-          "hoursSeen": 16.570607553366173,
+          "hoursSeen": 16.570607553366177,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 16.570607553366173
+              "hoursSeen": 16.570607553366177
             }
           ]
         },
@@ -6552,11 +6758,11 @@
         },
         {
           "name": "ข้าวปุ้น",
-          "hoursSeen": 15.798522167487683,
+          "hoursSeen": 15.798522167487684,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.798522167487683
+              "hoursSeen": 15.798522167487684
             }
           ]
         },
@@ -6582,11 +6788,11 @@
         },
         {
           "name": "047470",
-          "hoursSeen": 14.545977011494253,
+          "hoursSeen": 14.545977011494251,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 14.545977011494253
+              "hoursSeen": 14.545977011494251
             }
           ]
         }
@@ -6598,41 +6804,41 @@
       "byName": [
         {
           "name": "Petch.jpx",
-          "hoursSeen": 163.06666666666663,
+          "hoursSeen": 163.06666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 163.06666666666663
+              "hoursSeen": 163.06666666666666
             }
           ]
         },
         {
           "name": "AEKFOTO",
-          "hoursSeen": 50.17701149425287,
+          "hoursSeen": 50.17701149425286,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 50.17701149425287
+              "hoursSeen": 50.17701149425286
             }
           ]
         },
         {
           "name": "A",
-          "hoursSeen": 30.9989247311828,
+          "hoursSeen": 30.998924731182797,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 30.9989247311828
+              "hoursSeen": 30.998924731182797
             }
           ]
         },
         {
           "name": "Gg",
-          "hoursSeen": 29.6,
+          "hoursSeen": 29.599999999999998,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.6
+              "hoursSeen": 29.599999999999998
             }
           ]
         },
@@ -6648,11 +6854,11 @@
         },
         {
           "name": "OnIeX",
-          "hoursSeen": 21.56666666666667,
+          "hoursSeen": 21.566666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 21.56666666666667
+              "hoursSeen": 21.566666666666666
             }
           ]
         },
@@ -6678,11 +6884,11 @@
         },
         {
           "name": "พอเถอะ",
-          "hoursSeen": 15.733333333333333,
+          "hoursSeen": 15.733333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 15.733333333333333
+              "hoursSeen": 15.733333333333334
             }
           ]
         },
@@ -6718,21 +6924,21 @@
         },
         {
           "name": "Dit",
-          "hoursSeen": 11.545977011494253,
+          "hoursSeen": 11.545977011494255,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.545977011494253
+              "hoursSeen": 11.545977011494255
             }
           ]
         },
         {
           "name": "Pun Pun",
-          "hoursSeen": 11.149425287356323,
+          "hoursSeen": 11.14942528735632,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 11.149425287356323
+              "hoursSeen": 11.14942528735632
             }
           ]
         },
@@ -6768,11 +6974,11 @@
         },
         {
           "name": "oatato",
-          "hoursSeen": 10.526436781609197,
+          "hoursSeen": 10.526436781609195,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 10.526436781609197
+              "hoursSeen": 10.526436781609195
             }
           ]
         },
@@ -11749,31 +11955,31 @@
       "byName": [
         {
           "name": "กร",
-          "hoursSeen": 77.76558441558441,
+          "hoursSeen": 80.06558441558441,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 77.76558441558441
+              "hoursSeen": 80.06558441558441
             }
           ]
         },
         {
           "name": "Last Air Bender",
-          "hoursSeen": 61.599999999999994,
+          "hoursSeen": 61.6,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 61.599999999999994
+              "hoursSeen": 61.6
             }
           ]
         },
         {
           "name": "TJ",
-          "hoursSeen": 52.83333333333334,
+          "hoursSeen": 54.233333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 52.83333333333334
+              "hoursSeen": 54.233333333333334
             }
           ]
         },
@@ -11809,31 +12015,31 @@
         },
         {
           "name": "💎Dr.Cat💎彡★💎★彡",
-          "hoursSeen": 30.610694652673665,
+          "hoursSeen": 30.610694652673658,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 30.610694652673665
+              "hoursSeen": 30.610694652673658
             }
           ]
         },
         {
           "name": "Nongtar",
-          "hoursSeen": 29.347163918040984,
+          "hoursSeen": 29.54716391804098,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.347163918040984
+              "hoursSeen": 29.54716391804098
             }
           ]
         },
         {
           "name": "★彡ᴡɪɴ彡★",
-          "hoursSeen": 29.10350877192983,
+          "hoursSeen": 29.103508771929835,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.10350877192983
+              "hoursSeen": 29.103508771929835
             }
           ]
         },
@@ -11869,11 +12075,11 @@
         },
         {
           "name": "Ongza",
-          "hoursSeen": 20.6,
+          "hoursSeen": 20.600000000000005,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.6
+              "hoursSeen": 20.600000000000005
             }
           ]
         },
@@ -11889,11 +12095,21 @@
         },
         {
           "name": "Tezz",
-          "hoursSeen": 19.166666666666668,
+          "hoursSeen": 19.566666666666666,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 19.166666666666668
+              "hoursSeen": 19.566666666666666
+            }
+          ]
+        },
+        {
+          "name": "Eaid",
+          "hoursSeen": 18.7,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 18.7
             }
           ]
         },
@@ -11909,21 +12125,11 @@
         },
         {
           "name": "Ya keyboard",
-          "hoursSeen": 17.833333333333336,
+          "hoursSeen": 17.833333333333332,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.833333333333336
-            }
-          ]
-        },
-        {
-          "name": "Eaid",
-          "hoursSeen": 17.6,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 17.6
+              "hoursSeen": 17.833333333333332
             }
           ]
         },
@@ -11938,6 +12144,16 @@
           ]
         },
         {
+          "name": "Best",
+          "hoursSeen": 16.833333333333332,
+          "servers": [
+            {
+              "category": "mjth",
+              "hoursSeen": 16.833333333333332
+            }
+          ]
+        },
+        {
           "name": "🎙️ ♡ mai",
           "hoursSeen": 16.739414163885797,
           "servers": [
@@ -11948,22 +12164,12 @@
           ]
         },
         {
-          "name": "Best",
-          "hoursSeen": 16.5,
-          "servers": [
-            {
-              "category": "mjth",
-              "hoursSeen": 16.5
-            }
-          ]
-        },
-        {
           "name": "AEKFOTO",
-          "hoursSeen": 16.008045977011495,
+          "hoursSeen": 16.00804597701149,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 16.008045977011495
+              "hoursSeen": 16.00804597701149
             }
           ]
         }
@@ -12014,21 +12220,21 @@
         },
         {
           "name": "ข้าวปุ้น",
-          "hoursSeen": 289.9828686549,
+          "hoursSeen": 289.9828686549001,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 289.9828686549
+              "hoursSeen": 289.9828686549001
             }
           ]
         },
         {
           "name": "Quest",
-          "hoursSeen": 270.42509261769226,
+          "hoursSeen": 270.4250926176922,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 270.42509261769226
+              "hoursSeen": 270.4250926176922
             }
           ]
         },
@@ -12044,31 +12250,31 @@
         },
         {
           "name": "ฟ่าฟีอกพาเพลิน",
-          "hoursSeen": 241.98718564424908,
+          "hoursSeen": 241.9871856442491,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 241.98718564424908
+              "hoursSeen": 241.9871856442491
             }
           ]
         },
         {
           "name": "💎มีEgoเลยโชวโง่",
-          "hoursSeen": 239.4849100930695,
+          "hoursSeen": 239.48491009306952,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 239.4849100930695
+              "hoursSeen": 239.48491009306952
             }
           ]
         },
         {
           "name": "xyz",
-          "hoursSeen": 233.68126920122887,
+          "hoursSeen": 233.6812692012289,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 233.68126920122887
+              "hoursSeen": 233.6812692012289
             }
           ]
         },
@@ -12194,21 +12400,21 @@
         },
         {
           "name": "★彡ᴡɪɴ彡★",
-          "hoursSeen": 128.08939188578654,
+          "hoursSeen": 128.08939188578657,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 128.08939188578654
+              "hoursSeen": 128.08939188578657
             }
           ]
         },
         {
           "name": "TSP",
-          "hoursSeen": 126.46299923195086,
+          "hoursSeen": 126.46299923195085,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 126.46299923195086
+              "hoursSeen": 126.46299923195085
             }
           ]
         },
@@ -12264,11 +12470,11 @@
         },
         {
           "name": "ฝีมือPpoEgoปีศาจ",
-          "hoursSeen": 108.62903225806453,
+          "hoursSeen": 108.62903225806451,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 108.62903225806453
+              "hoursSeen": 108.62903225806451
             }
           ]
         },
@@ -12324,11 +12530,11 @@
         },
         {
           "name": "ฟ้อกฟ่าพาเพลิน",
-          "hoursSeen": 83.06828420467184,
+          "hoursSeen": 83.06828420467187,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 83.06828420467184
+              "hoursSeen": 83.06828420467187
             }
           ]
         },
@@ -12344,21 +12550,21 @@
         },
         {
           "name": "wiince",
-          "hoursSeen": 77.12550485989723,
+          "hoursSeen": 77.12550485989725,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 77.12550485989723
+              "hoursSeen": 77.12550485989725
             }
           ]
         },
         {
           "name": "P",
-          "hoursSeen": 76.97752854478831,
+          "hoursSeen": 76.97752854478833,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 76.97752854478831
+              "hoursSeen": 76.97752854478833
             }
           ]
         },
@@ -12384,21 +12590,21 @@
         },
         {
           "name": "DIT",
-          "hoursSeen": 72.7763440860215,
+          "hoursSeen": 72.77634408602151,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 72.7763440860215
+              "hoursSeen": 72.77634408602151
             }
           ]
         },
         {
           "name": "💎ขอปอ💎",
-          "hoursSeen": 72.11285804644437,
+          "hoursSeen": 72.11285804644439,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 72.11285804644437
+              "hoursSeen": 72.11285804644439
             }
           ]
         },
@@ -12454,11 +12660,11 @@
         },
         {
           "name": "mr_tawan",
-          "hoursSeen": 61.89791666666666,
+          "hoursSeen": 61.897916666666674,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 61.89791666666666
+              "hoursSeen": 61.897916666666674
             }
           ]
         },
@@ -12514,11 +12720,11 @@
         },
         {
           "name": "ราตรี:)",
-          "hoursSeen": 56.517782596909726,
+          "hoursSeen": 56.51778259690973,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 56.517782596909726
+              "hoursSeen": 56.51778259690973
             }
           ]
         },
@@ -12544,11 +12750,11 @@
         },
         {
           "name": "Discord",
-          "hoursSeen": 55.23333333333334,
+          "hoursSeen": 55.233333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 55.23333333333334
+              "hoursSeen": 55.233333333333334
             }
           ]
         },
@@ -12704,11 +12910,11 @@
         },
         {
           "name": "นุ้งมีนนนนนนนนนน",
-          "hoursSeen": 38.13333333333333,
+          "hoursSeen": 38.13333333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 38.13333333333333
+              "hoursSeen": 38.13333333333334
             }
           ]
         },
@@ -12734,11 +12940,11 @@
         },
         {
           "name": "น้องฟ้อก",
-          "hoursSeen": 36.46021505376344,
+          "hoursSeen": 36.460215053763434,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 36.46021505376344
+              "hoursSeen": 36.460215053763434
             }
           ]
         },
@@ -12754,31 +12960,31 @@
         },
         {
           "name": "Confringo",
-          "hoursSeen": 35.86666666666666,
+          "hoursSeen": 35.86666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 35.86666666666666
+              "hoursSeen": 35.86666666666667
             }
           ]
         },
         {
           "name": "อังเคิ่ลมีนนนนน่",
-          "hoursSeen": 34.99243697478992,
+          "hoursSeen": 34.99243697478991,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 34.99243697478992
+              "hoursSeen": 34.99243697478991
             }
           ]
         },
         {
           "name": "skew",
-          "hoursSeen": 34.991397849462366,
+          "hoursSeen": 34.99139784946236,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 34.991397849462366
+              "hoursSeen": 34.99139784946236
             }
           ]
         },
@@ -12804,21 +13010,21 @@
         },
         {
           "name": "047470",
-          "hoursSeen": 33.88663594470046,
+          "hoursSeen": 33.886635944700465,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 33.88663594470046
+              "hoursSeen": 33.886635944700465
             }
           ]
         },
         {
           "name": "Shawn",
-          "hoursSeen": 33.72688172043011,
+          "hoursSeen": 33.7268817204301,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 33.72688172043011
+              "hoursSeen": 33.7268817204301
             }
           ]
         },
@@ -12864,11 +13070,11 @@
         },
         {
           "name": "ควยปุ้น",
-          "hoursSeen": 30.067741935483873,
+          "hoursSeen": 30.06774193548387,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 30.067741935483873
+              "hoursSeen": 30.06774193548387
             }
           ]
         },
@@ -12884,11 +13090,11 @@
         },
         {
           "name": "JIrayuth_A_",
-          "hoursSeen": 28.83809523809524,
+          "hoursSeen": 28.838095238095235,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 28.83809523809524
+              "hoursSeen": 28.838095238095235
             }
           ]
         },
@@ -12904,11 +13110,11 @@
         },
         {
           "name": "สจ.หงส์แดง",
-          "hoursSeen": 28.68064516129033,
+          "hoursSeen": 28.680645161290325,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 28.68064516129033
+              "hoursSeen": 28.680645161290325
             }
           ]
         },
@@ -12954,11 +13160,11 @@
         },
         {
           "name": "Intermediate",
-          "hoursSeen": 26.37204301075269,
+          "hoursSeen": 26.372043010752687,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.37204301075269
+              "hoursSeen": 26.372043010752687
             }
           ]
         },
@@ -12974,21 +13180,21 @@
         },
         {
           "name": "เชษฐ์",
-          "hoursSeen": 26.202457757296468,
+          "hoursSeen": 26.202457757296465,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.202457757296468
+              "hoursSeen": 26.202457757296465
             }
           ]
         },
         {
           "name": "Chatchai",
-          "hoursSeen": 26.0781512605042,
+          "hoursSeen": 26.078151260504203,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.0781512605042
+              "hoursSeen": 26.078151260504203
             }
           ]
         },
@@ -13024,21 +13230,21 @@
         },
         {
           "name": "ภัทรNBD",
-          "hoursSeen": 25.341935483870966,
+          "hoursSeen": 25.34193548387097,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 25.341935483870966
+              "hoursSeen": 25.34193548387097
             }
           ]
         },
         {
           "name": "No Nam",
-          "hoursSeen": 25.333333333333332,
+          "hoursSeen": 25.333333333333336,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 25.333333333333332
+              "hoursSeen": 25.333333333333336
             }
           ]
         },
@@ -13064,11 +13270,11 @@
         },
         {
           "name": "AEKFOTO SETUP G",
-          "hoursSeen": 25.095833333333335,
+          "hoursSeen": 25.09583333333334,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 25.095833333333335
+              "hoursSeen": 25.09583333333334
             }
           ]
         },
@@ -13124,11 +13330,11 @@
         },
         {
           "name": "มีนคนธรรมดา",
-          "hoursSeen": 23.41597542242703,
+          "hoursSeen": 23.41597542242704,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.41597542242703
+              "hoursSeen": 23.41597542242704
             }
           ]
         },
@@ -13144,21 +13350,21 @@
         },
         {
           "name": "โดม     เบนซิน",
-          "hoursSeen": 23.133333333333336,
+          "hoursSeen": 23.133333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.133333333333336
+              "hoursSeen": 23.133333333333333
             }
           ]
         },
         {
           "name": "💎Dr.Cat💎💎",
-          "hoursSeen": 22.973118279569892,
+          "hoursSeen": 22.973118279569896,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 22.973118279569892
+              "hoursSeen": 22.973118279569896
             }
           ]
         },
@@ -13234,11 +13440,11 @@
         },
         {
           "name": "💎pui spactor💎",
-          "hoursSeen": 21.593749999999996,
+          "hoursSeen": 21.59375,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 21.593749999999996
+              "hoursSeen": 21.59375
             }
           ]
         },
@@ -13304,11 +13510,11 @@
         },
         {
           "name": "ชายรูปงาม",
-          "hoursSeen": 20,
+          "hoursSeen": 20.000000000000004,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20
+              "hoursSeen": 20.000000000000004
             }
           ]
         },
@@ -13364,11 +13570,11 @@
         },
         {
           "name": "pui",
-          "hoursSeen": 19.1,
+          "hoursSeen": 19.099999999999998,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 19.1
+              "hoursSeen": 19.099999999999998
             }
           ]
         },
@@ -13444,11 +13650,11 @@
         },
         {
           "name": "🅿️",
-          "hoursSeen": 18.466666666666665,
+          "hoursSeen": 18.46666666666667,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 18.466666666666665
+              "hoursSeen": 18.46666666666667
             }
           ]
         },
@@ -13484,11 +13690,11 @@
         },
         {
           "name": "มะยงชิด",
-          "hoursSeen": 17.8752688172043,
+          "hoursSeen": 17.875268817204304,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.8752688172043
+              "hoursSeen": 17.875268817204304
             }
           ]
         },
@@ -13504,11 +13710,11 @@
         },
         {
           "name": "Dear",
-          "hoursSeen": 17.824731182795695,
+          "hoursSeen": 17.824731182795702,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.824731182795695
+              "hoursSeen": 17.824731182795702
             }
           ]
         },
@@ -13534,11 +13740,11 @@
         },
         {
           "name": "Arthur Morgan",
-          "hoursSeen": 17.733333333333334,
+          "hoursSeen": 17.73333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.733333333333334
+              "hoursSeen": 17.73333333333333
             }
           ]
         },
@@ -13584,11 +13790,11 @@
         },
         {
           "name": "Fish!   Player",
-          "hoursSeen": 17.433333333333334,
+          "hoursSeen": 17.433333333333337,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.433333333333334
+              "hoursSeen": 17.433333333333337
             }
           ]
         },
@@ -13644,11 +13850,11 @@
         },
         {
           "name": "Pwithloy",
-          "hoursSeen": 16.599999999999998,
+          "hoursSeen": 16.6,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 16.599999999999998
+              "hoursSeen": 16.6
             }
           ]
         },
@@ -13679,11 +13885,11 @@
         },
         {
           "name": "AEKFOTO",
-          "hoursSeen": 155.36867723283186,
+          "hoursSeen": 155.36867723283183,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 155.36867723283186
+              "hoursSeen": 155.36867723283183
             }
           ]
         },
@@ -13779,11 +13985,11 @@
         },
         {
           "name": "Grqpe",
-          "hoursSeen": 85.34161767042747,
+          "hoursSeen": 85.34161767042748,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 85.34161767042747
+              "hoursSeen": 85.34161767042748
             }
           ]
         },
@@ -13819,11 +14025,11 @@
         },
         {
           "name": "dtinth",
-          "hoursSeen": 72.67051463367926,
+          "hoursSeen": 72.67051463367928,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 72.67051463367926
+              "hoursSeen": 72.67051463367928
             }
           ]
         },
@@ -13839,31 +14045,31 @@
         },
         {
           "name": "Rin STFU",
-          "hoursSeen": 70.90014778325124,
+          "hoursSeen": 70.90014778325123,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 70.90014778325124
+              "hoursSeen": 70.90014778325123
             }
           ]
         },
         {
           "name": "A",
-          "hoursSeen": 70.44493458339954,
+          "hoursSeen": 70.44493458339956,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 70.44493458339954
+              "hoursSeen": 70.44493458339956
             }
           ]
         },
         {
           "name": "x.ercise",
-          "hoursSeen": 66.18232986681261,
+          "hoursSeen": 66.18232986681264,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 66.18232986681261
+              "hoursSeen": 66.18232986681264
             }
           ]
         },
@@ -13879,31 +14085,31 @@
         },
         {
           "name": "ยิ้ม",
-          "hoursSeen": 62.3616091954023,
+          "hoursSeen": 62.36160919540231,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 62.3616091954023
+              "hoursSeen": 62.36160919540231
             }
           ]
         },
         {
           "name": "047470",
-          "hoursSeen": 58.13639846743295,
+          "hoursSeen": 58.13639846743294,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 58.13639846743295
+              "hoursSeen": 58.13639846743294
             }
           ]
         },
         {
           "name": "olms",
-          "hoursSeen": 55.810402314695985,
+          "hoursSeen": 55.81040231469598,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 55.810402314695985
+              "hoursSeen": 55.81040231469598
             }
           ]
         },
@@ -13939,31 +14145,31 @@
         },
         {
           "name": "1",
-          "hoursSeen": 47.59238628548974,
+          "hoursSeen": 47.59238628548973,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 47.59238628548974
+              "hoursSeen": 47.59238628548973
             }
           ]
         },
         {
           "name": "Nongtar",
-          "hoursSeen": 39.955254515599336,
+          "hoursSeen": 39.95525451559935,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 39.955254515599336
+              "hoursSeen": 39.95525451559935
             }
           ]
         },
         {
           "name": "Pun Pun",
-          "hoursSeen": 39.41037219485495,
+          "hoursSeen": 39.41037219485494,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 39.41037219485495
+              "hoursSeen": 39.41037219485494
             }
           ]
         },
@@ -14079,21 +14285,21 @@
         },
         {
           "name": "mr_tawan",
-          "hoursSeen": 29.099999999999998,
+          "hoursSeen": 29.100000000000005,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 29.099999999999998
+              "hoursSeen": 29.100000000000005
             }
           ]
         },
         {
           "name": "CallByTheGrqpe",
-          "hoursSeen": 27.2,
+          "hoursSeen": 27.200000000000003,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 27.2
+              "hoursSeen": 27.200000000000003
             }
           ]
         },
@@ -14109,11 +14315,11 @@
         },
         {
           "name": "nongfox",
-          "hoursSeen": 26.169578544061306,
+          "hoursSeen": 26.169578544061302,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 26.169578544061306
+              "hoursSeen": 26.169578544061302
             }
           ]
         },
@@ -14139,11 +14345,11 @@
         },
         {
           "name": "CØRN",
-          "hoursSeen": 25.50903225806451,
+          "hoursSeen": 25.509032258064515,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 25.50903225806451
+              "hoursSeen": 25.509032258064515
             }
           ]
         },
@@ -14159,31 +14365,31 @@
         },
         {
           "name": "Quest229",
-          "hoursSeen": 24.799999999999997,
+          "hoursSeen": 24.8,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 24.799999999999997
+              "hoursSeen": 24.8
             }
           ]
         },
         {
           "name": "ED",
-          "hoursSeen": 24.73464696223317,
+          "hoursSeen": 24.734646962233167,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 24.73464696223317
+              "hoursSeen": 24.734646962233167
             }
           ]
         },
         {
           "name": "Kan",
-          "hoursSeen": 23.760591133004926,
+          "hoursSeen": 23.760591133004922,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 23.760591133004926
+              "hoursSeen": 23.760591133004922
             }
           ]
         },
@@ -14229,11 +14435,11 @@
         },
         {
           "name": "บุตรเเห่งอัลเลาะ",
-          "hoursSeen": 21.9,
+          "hoursSeen": 21.900000000000002,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 21.9
+              "hoursSeen": 21.900000000000002
             }
           ]
         },
@@ -14259,11 +14465,11 @@
         },
         {
           "name": "ดอเลาะห์  ลอมาเย",
-          "hoursSeen": 21.667816091954023,
+          "hoursSeen": 21.667816091954027,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 21.667816091954023
+              "hoursSeen": 21.667816091954027
             }
           ]
         },
@@ -14319,11 +14525,11 @@
         },
         {
           "name": "! ผู้จัดการ•^•",
-          "hoursSeen": 20.373333333333335,
+          "hoursSeen": 20.37333333333333,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 20.373333333333335
+              "hoursSeen": 20.37333333333333
             }
           ]
         },
@@ -14349,11 +14555,11 @@
         },
         {
           "name": "NongFoxz eieiei",
-          "hoursSeen": 17.666666666666664,
+          "hoursSeen": 17.666666666666668,
           "servers": [
             {
               "category": "mjth",
-              "hoursSeen": 17.666666666666664
+              "hoursSeen": 17.666666666666668
             }
           ]
         },
